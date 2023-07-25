@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 24-07-2023)",
+    "author": "chuky (Haz-tu-liada al 25-07-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -161,59 +161,65 @@
             "image": "https://i0.wp.com/www.deportebalear.com/wp-content/uploads/2021/07/AMISTOSOS.jpg",
             "info": "",
             "stations": [{
-	             "name": "Real Madrid - A C Milan",
+	             "name": "Real Zaragoza - Real Murcia",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                  "url": "https://abolishstand.net/embed/dvuf5ydd4",
+                  "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
+             "userAgent": ""
+                    },{
+                 "name": "Real Zaragoza - Real Murcia",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                "url": "https://cartv-streaming.aranova.es/hls/live/adeportes_deporte1.m3u8",
+              "userAgent": ""
+                    },{ 
+                 "name": "St. Gallen x Valencia",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                        "url": "https://abolishstand.net/embed/dvuf5ydd4",
                   "referer": "https://buzztv.futbol/",
              "isHost": "true"
-                    },{
-                 "name": "Real Madrid - A C Milan",
+                       },{ 
+                 "name": "St. Gallen x Valencia",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                "url": "https://hd.ucplay2.com/ghtrsjufff7gsrgh",
+                        "url": "https://hoca4u.com/footy.php?player=desktop&live=ufeed133",
+                  "referer": "https://1rowsportz.info/",
              "isHost": "true"
-                    },{ 
-                 "name": "Real Madrid - A C Milan",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://hoca4u.com/footy.php?player=desktop&live=ufeed108",
-            "referer" : "https://www.streamonsport2.sbs/",
-                 "isHost": "true"
                      },{ 
-                 "name": "Real Madrid - A C Milan",
+                 "name": "St. Gallen x Valencia",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                      "url": "https://s.cdn2.link/ch22.php",
+                 "isHost": "true"
+                    },{ 
+                 "name": "Sporting CP x Real Sociedad",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url": "https://s.cdn2.link/ch40.php",
                  "isHost": "true"
-                    },{ 
-                 "name": "Real Madrid - A C Milan",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://emb.apl257.me/player/live.php?id=209788&w=100%&h=100%",
-                 "isHost": "true"
                      },{ 
-                 "name": "Pachuca - Oviedo",
+                 "name": "Sporting CP x Real Sociedad",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url" :  "https://youtu.be/g6elj0tka34",
+                     "url" :  "https://abolishstand.net/embed/hx9ejf",
+		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                    },{ 
-                 "name": "Greuther Fürth - Liverpool",
+                 "name": "Manchester United x Wrexham",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                    "url" :  "https://abolishstand.net/embed/w131e7go",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
+                     "url": "https://abolishstand.net/embed/dvuf5ydd4",
+                  "referer": "https://buzztv.futbol/",
+             "isHost": "true"
                      },{ 
-                 "name": "Greuther Fürth - Liverpool",
+                 "name": "Manchester United x Wrexham",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                       "url" :  "https://abolishstand.net/embed/7bkf9ztdqbvdly",
+                       "url" :  "https://abolishstand.net/embed/w131e7go",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                     },{ 
-                 "name": "Greuther Fürth - Liverpool",
+                 "name": "RB Leipzig vs Udinese",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                      "url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                      },{ 
-                 "name": "Greuther Fürth - Liverpool",
+                 "name": "RB Leipzig vs Udinese",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "Greuther Fürth - Liverpool",
+                      "url": "",
                  "isHost": "true"
                      },{ 
                  "name": "",
