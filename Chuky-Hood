@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 26-07-2023)",
+    "author": "chuky (Haz-tu-liada al 27-07-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -161,135 +161,135 @@
             "image": "https://i0.wp.com/www.deportebalear.com/wp-content/uploads/2021/07/AMISTOSOS.jpg",
             "info": "",
             "stations": [{
-	             "name": "Las Palmas - Espanyol",
+	             "name": "Málaga - Almería",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                  "url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
+                  "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
              "userAgent": ""
                     },{
-                 "name": "Las Palmas - Espanyol",
+                 "name": "Málaga - Almería",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                 "url": "https://abolishstand.net/embed/dvuf5ydd4",
-                  "referer": "https://buzztv.futbol/",
+                 "url": "https://www.youtube.com/channel/UCJzt0XyxSwpsNODokzG4iRw/live",
              "isHost": "true"
                     },{ 
-                 "name": "RM Castilla - Mirandés",
+                 "name": "Feyenoord - Villarreal",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                        "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-             "userAgent": ""
+                         "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
                        },{ 
-                 "name": "Alavés - Tenerife",
+                 "name": "Feyenoord - Villarreal",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                        "url": "https://www.youtube.com/channel/UCDdnBGLNmifjQqHjAA_DUrA/live",
-             "isHost": "true"
+                            "url": "https://liga@ntuplay.xyz/embedlc.php?id=62",
+                "isHost": "true"
                      },{ 
-                 "name": "Teruel - Huesca",
+                 "name": "Juventus - Milan",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
-             "userAgent": ""
-                    },{ 
-                 "name": "Teruel - Huesca",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://cartv-streaming.aranova.es/hls/live/anoticias_canal3.m3u8",
-             "userAgent": ""
-                     },{ 
-                 "name": "Ibiza - Albacete",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                     "url" :"https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8",
-			 "userAgent":""
-                   },{ 
-                 "name": "Ibiza - Albacete",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                     "url": "https://www.cmmedia.es/play/en-directo/tv",
-             "isHost": "true"
-                     },{ 
-                 "name": "Real Valladolid - Rayo Majadahonda",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                       "url" : "https://youtu.be/MKR4TgRAqE8",
+                      "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                     },{ 
-                 "name": "Sporting Braga - Roma",
+                 "name": "Juventus - Milan",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                      "url": "https://s.cdn2.link/ch18.php",
+             "isHost": "true"
+                     },{ 
+                 "name": "Santander - Bilbo",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                     "url": "https://hd.ucplay2.com/ghtrsjufff7gsrgh",
+                 "isHost": "true" 
+                     },{ 
+                 "name": "Diversos",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                      "url": "https://hd.ucplay2.com/ghtrsjufff7gsrgh",
+                 "isHost": "true"
+                      },{ 
+                 "name": "Diversos",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                      "url": "https://hd.ucplay2.com/vgfsdghd4hfhjcit",
+                 "isHost": "true" 
+                    },{ 
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                      "url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                      },{ 
-                 "name": "Sporting Braga - Roma",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url": "https://abolishstand.net/embed/lhfsvq5z",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                      },{ 
-                 "name": "Brentford - Albion",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                        "url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                      },{ 
-                 "name": "Brentford - Albion",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url": "https://abolishstand.net/embed/ejj6a0rybyyp",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                          },{ 
-                 "name": "Fulham - Aston Villa",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                        "url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                      },{ 
-                 "name": "Fulham - Aston Villa",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url": "https://abolishstand.net/embed/mey8j3",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                         },{ 
-                 "name": "Chelsea - Newcastle United",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                        "url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                      },{ 
-                 "name": "Chelsea - Newcastle United",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url": "https://abolishstand.net/embed/ejj6a0rybyyp",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                         },{ 
-                 "name": "Real Madrid - Manchester United",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                        "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                      },{ 
-                 "name": "Real Madrid - Manchester United",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url": "https://ntuplay.xyz/embedlc.php?id=108",
 			"referer": "https://www.streamonsport2.sbs/",
              "isHost": "true"
                       },{ 
-                 "name": "Real Madrid - Manchester United",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url": "https://hd.ucplay2.com/ghtrsjufff7gsrgh",
                  "isHost": "true"
                       },{ 
-                 "name": "Arsenal - FC Barcelona",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                        "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                      },{ 
-                 "name": "Arsenal - FC Barcelona",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://ntuplay.xyz/embedlc.php?id=108",
-			"referer": "https://www.streamonsport2.sbs/",
-             "isHost": "true"
+                       "url": "http://688689503931304705.niceapy.xyz:80/live/ja08203/5224310010/282469.ts",
+                "userAgent": "",
                       },{ 
-                 "name": "Arsenal - FC Barcelona",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url": "https://hd.ucplay2.com/ghtrsjufff7gsrgh",
                  "isHost": "true"
                        },{ 
-                 "name": "Arsenal - FC Barcelona",
+                 "name": "",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url": "https://s.cdn2.link/ch40.php",
                  "isHost": "true"
@@ -298,6 +298,11 @@
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url": "https://hd.ucplay2.com/ghtrsjufff7gsrgh",
                  "isHost": "true"
+                      },{ 
+                 "name": "Diversos",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                      "url": "https://hd.ucplay2.com/ghtrsjufff7gsrgh",
+                 "isHost": "true" 
 		}]
               },{
             "name": "Los DANZAN",
@@ -734,7 +739,6 @@
 			"name": "M-Campeones-2",
 			"image": "https://i.ibb.co/F83JgnB/Campeones.jpg",
 			 "url": "https://ntuplay.xyz/embedlc.php?id=108",
-			"referer": "https://www.streamonsport2.sbs/",
              "isHost": "true"
                             }, {
 			"name": "M-Campeones-2",
