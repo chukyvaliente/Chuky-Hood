@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 27-07-2023)",
+    "author": "chuky (Haz-tu-liada al 28-07-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -161,42 +161,47 @@
             "image": "https://i0.wp.com/www.deportebalear.com/wp-content/uploads/2021/07/AMISTOSOS.jpg",
             "info": "",
             "stations": [{
-	             "name": "Málaga - Almería",
+	             "name": "Las Palmas - Cadiz",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                  "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
-             "userAgent": ""
-                    },{
-                 "name": "Málaga - Almería",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                 "url": "https://www.youtube.com/channel/UCJzt0XyxSwpsNODokzG4iRw/live",
+                  "url": "https://www.youtube.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ/live",
              "isHost": "true"
-                    },{ 
-                 "name": "Feyenoord - Villarreal",
+                    },{
+                 "name": "PSG - Cerezo Osaka",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                         "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+                 "url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
+             "userAgent": ""
+                    },{ 
+                 "name": "PSG - Cerezo Osaka",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                         "url" :  "https://abolishstand.net/embed/ern2bja2uygn",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                        },{ 
-                 "name": "Feyenoord - Villarreal",
+                 "name": "Real Betis - Burnley",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                            "url": "https://liga@ntuplay.xyz/embedlc.php?id=62",
+                            "url": "https://www.realbetisbalompie.es/rtvbetis/directo-tv/",
                 "isHost": "true"
                      },{ 
-                 "name": "Juventus - Milan",
+                 "name": "Real Betis - Burnley",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                     },{ 
-                 "name": "Juventus - Milan",
+                 "name": "Real Betis - Burnley",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://s.cdn2.link/ch18.php",
-             "isHost": "true"
-                     },{ 
-                 "name": "Santander - Bilbao",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                     "url": "https://youtu.be/kxfar745YPs",
+                      "url": "https://s.cdn2.link/ch40.php",
                  "isHost": "true" 
+                    },{ 
+                 "name": "Cartagena - Zaragoza",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                      "url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8",
+             "userAgent": ""
+                     },{ 
+                 "name": "Cartagena - Zaragoza",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                     "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
+                 "userAgent": "" 
                      },{ 
                  "name": "Diversos",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
@@ -290,21 +295,6 @@
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url": "https://hd.ucplay2.com/vgfsdghd4hfhjcit",
                  "isHost": "true"
-                       },{ 
-                 "name": "",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://s.cdn2.link/ch40.php",
-                 "isHost": "true"
-                      },{ 
-                 "name": "Diversos",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://hd.ucplay2.com/ghtrsjufff7gsrgh",
-                 "isHost": "true"
-                      },{ 
-                 "name": "Diversos",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://hd.ucplay2.com/ghtrsjufff7gsrgh",
-                 "isHost": "true" 
 		}]
               },{
             "name": "Los DANZAN",
@@ -472,44 +462,20 @@
           "name": "Manujaz MotoRSport WRC (IOS)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
 			  "url": "https://vkvsd14.mycdn.me/hls/4796411480602.m3u8/sig/rr_VWsGBTVg/expires/1687667180835/srcIp/37.14.130.210/urls/185.226.52.96/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/5598089456410/4796411480602_fullhd/index.m3u8",
-                            "userAgent" : " "
-			    }, {
-                          "name": "24 Horas Lemans",
-			"image": "https://www.fiawec.com/media/cache/news_details/assets/fileuploads/63/46/6346de16ee6a2.jpg",
-			  "url": "https://unbiasedsenseevent.com/embed/i1a5vxjlhqqc",
-			"referer": "https://elixx.xyz/",
-			"isHost": "true"
-                             }, {
-                           "name": "24 Horas Lemans",
-			"image": "https://www.fiawec.com/media/cache/news_details/assets/fileuploads/63/46/6346de16ee6a2.jpg",
-			  "url" : "https://assia25.com/live/mix-sport6/?lang=pl",
-			"isHost": "true" 
-                          }, {
-                          "name": "ERC: Rally Poland",
-			"image": "https://i.ibb.co/jzGmmbt/erc.png",
-			"url" :  "https://unbiasedsenseevent.com/embed/kq68lxi2vab",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-                         }, {
-                          "name": "NASCAR",
-			"image": "https://logos-world.net/wp-content/uploads/2021/09/NASCAR-Logo-2017-present.png",
-			  "url" :  "https://5fpgy2l.ytxqwwrd8silogw.sbs/badir1/iUAtC1knR175",
-		"referer" : "https://soccerstream100.co/",
-			 "isHost":"true"
-                     }, {
-                          "name": "NASCAR",
-			"image": "https://logos-world.net/wp-content/uploads/2021/09/NASCAR-Logo-2017-present.png",
-			  "url" :  "https://unbiasedsenseevent.com/embed/lsdcbyzutk9g9",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
+                            "userAgent" :" "
                        }, {
           "name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
-			       "url": "https://wecast.to/popy.php?stream=RdKfpotjL5g",
-                           "referer" : "https://livetvstream.pro/",
+			       "url": "https://casadelfutbol.tv/player/f1.php?width=100%&height=100%",
                              "isHost":"true"
               }, {
-          "name": "M-F1",
+          "name": "M-F1-s2",
+			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
+			       "url": "https://candlesouth.net/embed/jwpz3ec0iqz",
+			"referer": "https://s2watch.link/",
+             "isHost": "true"   
+                      }, {
+          "name": "M-F1-1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
 			       "url": "https://candlesouth.net/embed/jwpz3ec0iqz",
 			"referer": "https://l1l1.to/",
@@ -518,12 +484,13 @@
           "name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
 			        "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
-			"referer": "https://l1l1.to/",
+			"referer": "https://s.cdn2.link/",
              "isHost": "true"  
                   }, {
                   	"name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
-                        "url": "https://emb.apl239.me/player/live.php?id=212332&w=100%&h=100%",
+                        "url": "https://wecast.to/popy.php?stream=RdKfpotjL5g",
+                        "referer" : "https://livetvstream.pro/",
 			"isHost": "true"
 	     }, {
                   	"name": "M-F1",
@@ -544,9 +511,9 @@
 		 }, {
                   	"name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
-                  	"url" : "https://unbiasedsenseevent.com/embed/phsheh97kpcdvc2",
-            "referer": "https://buzztv.futbol/",
-			"isHost": "true"
+                  	"url" :  "https://abolishstand.net/embed/ern2bja2uygn",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
                   }, {
                   	"name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
