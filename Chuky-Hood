@@ -173,10 +173,10 @@
                  "isHost": "true" 
                     },{ 
                  "name": "Manchester City ⚽ Atlético Madrid",
+                 "name": "Kawasaki Frontale - Bayern München",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
+                         "url" :  "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
+			 "userAgent":""
                       },{ 
                  "name": "Manchester City ⚽ Atlético Madrid",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
