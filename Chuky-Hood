@@ -173,6 +173,7 @@
                  "isHost": "true" 
                     },{ 
                  "name": "Manchester City ⚽ Atlético Madrid",
+                 "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                  "url" :  "https://abolishstand.net/embed/w131e7go",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
@@ -188,6 +189,12 @@
                       "url" :  "https://candlesouth.net/embed/av8q3fwxcb",
 		"referer" : "https://l1l1.to/",
 			 "isHost":"true"  
+                     },{ 
+                 "name": "Manchester City ⚽ Atlético Madrid",
+                 "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                 "url" :  "https://hoca4u.com/footy.php?player=desktop&live=ufeed132",
+		"referer" : "https://www.streamonsport2.sbs/",
+			 "isHost":"true"
                     },{ 
                  "name": "Feyenoord ⚽ Benfica",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
