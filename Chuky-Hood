@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 01-08-2023)",
+    "author": "chuky (Haz-tu-liada al 02-08-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -15,7 +15,7 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Phillies ⚾ Marlins",
+                        "name": "Angels ⚾ Braves",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
@@ -25,57 +25,57 @@
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Rays ⚾ Yankees",
+			"name": "Brewers ⚾ Nationals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Brewers ⚾ Nationals",
+                         "name": "Guardians ⚾ Astros",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Orioles ⚾ Blue Jays",
+			"name": "Padres ⚾ Rockies",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Angels ⚾ Braves",
+			"name": "Red Sox ⚾ Mariners",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Twins ⚾ Cardinals",
+			"name": "Phillies ⚾ Marlins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Reds ⚾ Cubs",
+			"name": "Rays ⚾ Yankees",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "White Sox ⚾ Rangers",
+			"name": "Orioles ⚾ Blue Jays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Mets ⚾ Royals",
+			"name": "Twins ⚾ Cardinals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Guardians ⚾ Astros",
+			"name": "Reds ⚾ Cubs",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Padres ⚾ Rockies",
+			"name": "White Sox ⚾ Rangers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Red Sox ⚾ Mariners",
+			  "name": "Mets ⚾ Royals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
@@ -161,108 +161,121 @@
             "image": "https://i0.wp.com/www.deportebalear.com/wp-content/uploads/2021/07/AMISTOSOS.jpg",
             "info": "",
             "stations": [{
-	             "name": "BATE ⚽ Aris",
+                     "name": "HD2", 
+	             "name": "Arsenal ⚽ Monaco",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                  "url" :  "https://abolishstand.net/embed/w131e7go",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                     },{
-                 "name": "BATE ⚽ Aris",
+                 "name": "Arsenal ⚽ Monaco",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-               "url": "https://s.cdn2.link/ch3.php",
+               "url": "https://s.cdn2.link/ch22.php",
                  "isHost": "true" 
                     },{ 
-                 "name": "Celtic ⚽ Athletic Club",
+                 "name": "Napoli ⚽ Girona",
                  "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                  "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                       },{ 
-                 "name": "Celtic ⚽ Athletic Club",
+                 "name": "Napoli ⚽ Girona",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                        "url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true" 
                        },{ 
-                 "name": "Celtic ⚽ Athletic Club",
+                 "name": "Napoli ⚽ Girona",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url" :  "https://candlesouth.net/embed/av8q3fwxcb",
 		"referer" : "https://l1l1.to/",
 			 "isHost":"true"  
                      },{ 
-                 "name": "Celtic ⚽ Athletic Club",
+                 "name": "Napoli ⚽ Girona",
                  "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                  "url" :  "https://embx210571.apl260.me//player/live.php?id=210571&w=100%&h=100%",
 			 "isHost":"true"
                     },{ 
-                 "name": "Slovan Bratislava ⚽ Zrinjski",
+                 "name": "Levante ⚽ Castellón",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://s.cdn2.link/ch1.php",
-                 "isHost": "true" 
+                      "url": "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8",
+                 "userAgent": "" 
                    },{ 
-                 "name": "Milan ⚽ Barcelona",
+                 "name": "Getafe ⚽ Granada",
                  "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                  "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                       },{ 
-                 "name": "Milan ⚽ Barcelona",
+                 "name": "Getafe ⚽ Granada",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                        "url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true" 
                        },{ 
-                 "name": "Milan ⚽ Barcelona",
+                 "name": "Getafe ⚽ Granada",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                       "url" :  "https://candlesouth.net/embed/av8q3fwxcb",
 		"referer" : "https://l1l1.to/",
 			 "isHost":"true"  
                      },{ 
-                 "name": "Milan ⚽ Barcelona",
+                 "name": "Getafe ⚽ Granada",
                  "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                  "url" :  "https://embx210386.apl260.me//player/live.php?id=210386&w=100%&h=100%",
 			 "isHost":"true"
                      },{ 
-                 "name": "",
+                 "name": "Lugo ⚽ Real Madrid Castilla",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://abolishstand.net/embed/ejj6a0rybyyp",
+                      "url": ""url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",",
+			 "UserAgent":""
+                         },{ 
+                 "name": "Eldense ⚽ Tenerife",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                       "url": "https://www.youtube.com/channel/UCDdnBGLNmifjQqHjAA_DUrA/live"
+			 "isHost":"true"
+                     },{ 
+                  "name" : "HD6",
+                 "name": "Juventus ⚽ Real Madrid",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                      "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+                     },{ 
+                  "name" : "Elix ESP",
+                 "name": "Juventus ⚽ Real Madrid",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                      "url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                          },{ 
-                 "name": "",
+                     "name" : "19",
+                 "name": "Juventus ⚽ Real Madrid",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                       "url" :  "https://candlesouth.net/embed/dvuf5ydd4",
+                      "url" :  "https://candlesouth.net/embed/av8q3fwxcb",
 		"referer" : "https://l1l1.to/",
+			 "isHost":"true"  
+                     },{ 
+                    "name" : "Live ESP",
+                 "name": "Juventus ⚽ Real Madrid",
+                 "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                 "url" :  "https://embx210386.apl260.me//player/live.php?id=210386&w=100%&h=100%",
 			 "isHost":"true"
                      },{ 
-                 "name": "",
+                 "name": "Lugo ⚽ Real Madrid Castilla",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
+                      "url": ""url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",",
+			 "UserAgent":"
+                     },{ 
+                 "name": "Borussia Dortmund x Chelsea",
+                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
+                       "url": "https://abolishstand.net/embed/ww6frra9pf",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
-                        },{ 
-                 "name": "",
+                      },{ 
+                 "name": "Borussia Dortmund x Chelsea",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                       "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+                        "url" :  "https://abolishstand.net/embed/ern2bja2uygn",
 		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-                     },{ 
-                 "name": "",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
-               "referer" : "https://elixx.xyz/",
-			 "isHost":"true"
-                        },{ 
-                 "name": "",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                       "url" :  "https://abolishstand.net/embed/w131e7go",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-                     },{ 
-                 "name": "",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                       "url": "https://abolishstand.net/embed/ejj6a0rybyyp",
-               "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                      },{ 
                  "name": "Diversos",
