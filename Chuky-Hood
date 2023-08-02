@@ -226,12 +226,12 @@
                      },{ 
                  "name": "Lugo ⚽ Real Madrid Castilla",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": ""url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",",
+                      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
 			 "UserAgent":""
                          },{ 
                  "name": "Eldense ⚽ Tenerife",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                       "url": "https://www.youtube.com/channel/UCDdnBGLNmifjQqHjAA_DUrA/live"
+                       "url": "https://www.youtube.com/channel/UCDdnBGLNmifjQqHjAA_DUrA/live",
 			 "isHost":"true"
                      },{ 
                   "name" : "HD6",
@@ -261,18 +261,13 @@
                  "url" :  "https://embx210386.apl260.me//player/live.php?id=210386&w=100%&h=100%",
 			 "isHost":"true"
                      },{ 
-                 "name": "Lugo ⚽ Real Madrid Castilla",
-                    "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
-                      "url": ""url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",",
-			 "UserAgent":"
-                     },{ 
-                 "name": "Borussia Dortmund x Chelsea",
+                 "name": "Borussia Dortmund ⚽ Chelsea",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                        "url": "https://abolishstand.net/embed/ww6frra9pf",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                       },{ 
-                 "name": "Borussia Dortmund x Chelsea",
+                 "name": "Borussia Dortmund ⚽ Chelsea",
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                         "url" :  "https://abolishstand.net/embed/ern2bja2uygn",
 		"referer" : "https://buzztv.futbol/",
