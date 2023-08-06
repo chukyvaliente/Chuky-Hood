@@ -397,7 +397,13 @@
               "name": "Coche 1 Gran Belgica (En diferido).",
 			"image": "https://i0.wp.com/f1ntastic.com/wp-content/uploads/2020/09/image-3.png?fit=1170%2C876&ssl=1",
 			 "url" : "https://upstream.to/5hg80asaeddg",
-			"userAgent": "true"  
+			"userAgent": "true" 
+                           }, {
+          "name": "Manujaz MotoRSport",
+			"image": "https://i.ibb.co/DCqJ7VP/indi.jpg",
+			  "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8?start=2023-08-06T20:20:00.000Z
+",
+                       "userAgent" : " " 
 			  }, {
           "name": "Manujaz MotoRSport F1 (iPhone)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
