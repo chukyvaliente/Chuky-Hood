@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 05-08-2023)",
+    "author": "chuky (Haz-tu-liada al 06-08-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -628,6 +628,12 @@
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
         "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+                              },{
+                 "name": "La de España (opción 2)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+        "url" :  "https://wecazt.com/popy.php?stream=4eLyr2RZq7v",
+		"referer" : "https://livetvstream.pro/",
 			 "isHost":"true"
                         },{
                  "name": "La de España 2 (opción 1)",
