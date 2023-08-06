@@ -629,6 +629,12 @@
         "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
+                        },{
+                 "name": "La de España 2 (opción 1)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+        "url" :  "https://candlesouth.net/embed/uu8c1",
+		"referer" : "https://l1l1.to/",
+			 "isHost":"true"
 		}, {
 			"name": "La Segunda de España (op 1)",
 			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
