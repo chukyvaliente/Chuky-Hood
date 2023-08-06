@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 06-08-2023)",
+    "author": "chuky (Haz-tu-liada al 07-08-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -491,9 +491,8 @@
             "referer": "https://buzztv.futbol/",
 			"isHost": "true"	
                       }, {
-			"name": "Carrera Moto Assen diferido",
-			"image": "https://lemotard.eu/wp-content/uploads/2022/04/Assen.png",
-              "url": "http://vidmoly.me/w/xj0fd151fyrh",
+			"name": "Carrera Moto Gran Bretaña diferido",			"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Silverstone_Circuit_moto_nat_pits_v2.svg/640px-Silverstone_Circuit_moto_nat_pits_v2.svg.png",
+              "url": "http://vidmoly.me/w/so7ncbigftym",
              "isHost": "true"
 	             }, {
 			"name": "Manujaz MotoRSport MOTO (Android)",
