@@ -156,6 +156,83 @@
                    "url": "http://sportsurge.stream/embed/boxing5.php",
               "isHost":"true"
 		}]
+                   },{       
+            "name": "Tenis",
+            "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+            "info": "",
+            "stations": [{
+                "name": "Sport TV-1",
+			"image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+		 "url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+                     }, {
+             "name": "Sport TV-2",
+			"image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+			 "url" :  "https://abolishstand.net/embed/hx9ejf",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+                    },{ 
+                 "name": "Pista 1",
+                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                      "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten1",
+            "referer" : "https://wikisport.click/",
+                 "isHost": "true"
+                     },{ 
+                 "name": "Pista 2",
+                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                      "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten2",
+            "referer" : "https://wikisport.click/",
+                 "isHost": "true"
+                    },{ 
+                 "name": "Pista 3",
+                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                      "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten3",
+            "referer" : "https://wikisport.click/",
+                 "isHost": "true"
+                     },{ 
+                 "name": "Pista 4",
+                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                      "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten4",
+            "referer" : "https://wikisport.click/",
+                 "isHost": "true"
+                   },{ 
+                 "name": "Pista 5",
+                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                      "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten5",
+            "referer" : "https://wikisport.click/",
+                 "isHost": "true"
+                     },{ 
+                 "name": "Pista 6",
+                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                      "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten6",
+            "referer" : "https://wikisport.click/",
+                 "isHost": "true"
+                    },{ 
+                 "name": "Pista 7",
+                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                      "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten7",
+            "referer" : "https://wikisport.click/",
+                 "isHost": "true"
+                     },{ 
+                 "name": "Pista 8",
+                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                      "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten8",
+            "referer" : "https://wikisport.click/",
+                 "isHost": "true"
+                     },{ 
+                 "name": "Pista 9",
+                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                      "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten9",
+            "referer" : "https://wikisport.click/",
+                 "isHost": "true"
+                     },{ 
+                 "name": "Pista 10",
+                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                      "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten10",
+            "referer" : "https://wikisport.click/",
+                 "isHost": "true"
+		}]
                       },{       
             "name": "Amistosos ⚽",
             "image": "https://i0.wp.com/www.deportebalear.com/wp-content/uploads/2021/07/AMISTOSOS.jpg",
