@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 08-08-2023)",
+    "author": "chuky (Haz-tu-liada al 10-08-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -15,17 +15,17 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Nationals ⚾ Phillies",
+                        "name": "Braves ⚾ Pirates",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Cardinals ⚾ Rays",
+			"name": "Astros ⚾ Orioles",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Marlins ⚾ Reds",
+			"name": "Blue Jays ⚾ Guardians",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
@@ -40,57 +40,57 @@
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Astros ⚾ Orioles",
+			"name": "Cardinals ⚾ Rays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Braves ⚾ Pirates",
+			"name": "Royals ⚾ Red Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Royals ⚾ Red Sox",
+			"name": "Rockies ⚾ Dodgers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Blue Jays ⚾ Guardians",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Cubs ⚾ Mets",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Yankees ⚾ White Sox",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Rockies ⚾ Brewers",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Giants ⚾ Angels",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Rangers ⚾ Athletics",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "Padres ⚾ Mariners",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
                                 }, {  
-                            "name": "Dodgers ⚾ Diamondbacks",
+                            "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-16/",
 			"isHost": "true"
@@ -337,6 +337,56 @@
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                      "url" :  "https://hd.ucplay2.com/fgvsg556hcfgnh",
 			 "isHost":"true"
+                }, {
+		"name": "Eventos (La de España ⚽)",
+		"image": "https://2.bp.blogspot.com/-bvnijiVsLR4/XJ5uSe2yzjI/AAAAAAAABbk/30tJGRs-xz8H_XoZ8HsUxru7OgBW7c2JwCLcBGAs/s1600/Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg",
+		"info": "",
+		"stations": [{
+			"name": "La de España ⚽ (opción 1)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+        		"url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+                          }, {
+			"name": "La de España ⚽ (opción 2)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+			  "url": "https://candlesouth.net/embed/xdpq3ptcuts1qpp",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+                          }, {
+			"name": "La de España ⚽ (opción 3)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+			  "url": "https://candlesouth.net/embed/xdpq3ptcuts1qpp",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+                        }, {
+			"name": "La de España ⚽ (opción 4)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+			     "url" :  "https://hoca4u.com/footy.php?player=desktop&live=ufeed061",
+		"referer" : "https://www.streamonsport2.sbs/",
+			 "isHost":"true"
+	              }, {
+			"name": "La de España ⚽ (opción 5)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+			 "url": "https://wecazt.com/popy.php?stream=epddZRPMVIM",
+			"referer": "https://livetvstream.pro/",
+             "isHost": "true"  
+                     }, {
+			"name": "La de España ⚽ (opción 6)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+		        "url" :  "https://hd.ucplay2.com/fgvsg556hcfgnh",
+			 "isHost":"true"
+                          }, {
+			"name": "La de España ⚽ (opción 7)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+			        "url": "https://sportskart.click/embed/stream-84.php",
+			"isHost" : "true"
+			 }, {
+			"name": "La de España ⚽ (opción 8)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+			       "url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
+                               "referer": "https://sportz.football/",
+                  "isHost": "true"
                       
 		}]
               },{
@@ -660,14 +710,15 @@
            }, {
                    "name": "M-Vamos",
 			"image": "https://i.ibb.co/FYK4TSS/vamos.jpg",
-              			"url" :  "https://candlesouth.net/embed/av8q3fwxcb",
+              			"url" :  "https://candlesouth.net/embed/jwpz3ec0iqz",
 		"referer" : "https://l1l1.to/",
 			 "isHost":"true" 
            }, {
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/FYK4TSS/vamos.jpg",    
-            "url": "https://emb.apl256.me/player/live.php?id=212160&w=100%&h=100%",
-            "isHost":"true"
+            "url": "https://coolcast2.com/embed.php?player=desktop&live=7AW02",
+           "referer": "https://www.freeshot.live/",
+			"isHost": "true"
               }, {
 			"name": "La de España (opción 1)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
@@ -692,22 +743,10 @@
         "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
-                              },{
-                 "name": "La de España 2 (opción 1)",
-			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-        "url" :  "https://wecazt.com/popy.php?stream=4eLyr2RZq7v",
-		"referer" : "https://livetvstream.pro/",
-			 "isHost":"true"
-                        },{
-                 "name": "La de España 2 (opción 2)",
-			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-        "url" :  "https://candlesouth.net/embed/uu8c1",
-		"referer" : "https://l1l1.to/",
-			 "isHost":"true"
 		}, {
 			"name": "La Segunda de España (op 1)",
 			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
-			 "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
+			 "url": "https://candlesouth.net/embed/av8q3fwxcb",
 			"referer": "https://l1l1.to/",
              "isHost": "true"  
 	      }, {
