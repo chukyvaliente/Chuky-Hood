@@ -337,6 +337,7 @@
                     "image": "https://cdn.sincroguia.tv/uploads/series/partit-amistos-poster-18905_V.jpg",
                      "url" :  "https://hd.ucplay2.com/fgvsg556hcfgnh",
 			 "isHost":"true"
+                     }]
                 }, {
 		"name": "Eventos (La de España ⚽)",
 		"image": "https://2.bp.blogspot.com/-bvnijiVsLR4/XJ5uSe2yzjI/AAAAAAAABbk/30tJGRs-xz8H_XoZ8HsUxru7OgBW7c2JwCLcBGAs/s1600/Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg",
@@ -386,8 +387,7 @@
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			       "url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
                                "referer": "https://sportz.football/",
-                  "isHost": "true"
-                      
+                  "isHost": "true" 
 		}]
               },{
             "name": "Los DANZAN",
