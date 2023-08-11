@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 10-08-2023)",
+    "author": "chuky (Haz-tu-liada al 11-08-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -10,82 +10,421 @@
             "image": "https://i.ibb.co/h2yMPqM/fotoefectos-com-final-7538212838645764191.jpg",
             "info": "",
             "stations": [{}]
+                   }, {
+		"name": "Liga NBA 🏀",
+		"image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
+		"info": "",
+		"stations": [{
+        "name": "Partidos NBA 🏀",
+			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
+			"userAgent": ""
+		}, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-01/",
+			"isHost": "true"
+                 }, {  
+                        "name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-02/",
+			"isHost": "true"
+               }, {  
+                        "name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-03/",
+			"isHost": "true"
+               }, {  
+                        "name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-04/",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-05/",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-06/",
+			"isHost": "true"
+              }, {  
+                         "name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-07/",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-08/",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-09/",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-10/",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-11/",
+			"isHost": "true"
+               }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-12/",
+			"isHost": "true"
+               }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-13/",
+			"isHost": "true"
+                 }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-14/",
+			"isHost": "true" 
+                    }, {
+			"name": "",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-15/",
+			"isHost": "true" 
+                                },{
+                    "name": "Clika para ver la programación",
+                    "embed": "true",
+                    "url": "https://es.global.nba.com/schedule/",
+                    "image": "https://cdn.nba.net/nba-drupal-prod/2019-10/GameTime_NBATV_showtile_main.png"
+                }, {
+               "name": "NBA Streams 🏀",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "https://www.google.es/",
+			"isHost": "true"
+               }, {
+			"name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba1.php",
+			"isHost": "true"
+                 }, {  
+                        "name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba1.php",
+			"isHost": "true"
+               }, {  
+                        "name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba2.php",
+			"isHost": "true"
+               }, {  
+                        "name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba2.php",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba5.php",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba6.php",
+			"isHost": "true"
+              }, {  
+                         "name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba7.php",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba8.php",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba9.php",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba5.php",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba7.php",
+			"isHost": "true"
+			 }, {
+			"name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "http://sportsurge.stream/embed/nba12.php",
+			"isHost": "true" 
+		}, {
+			"name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "http://sportsurge.stream/embed/nba5.php",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "http://sportsurge.stream/embed/nba14.php",
+			"isHost": "true"
+                 }, {
+			"name": "",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "http://sportsurge.stream/embed/nba14.php",
+			"isHost": "true"  
+		              }] 
+                      },{
+            "name": "NFL 🏈",
+            "image": "https://assets.turbologo.com/blog/es/2019/12/19132851/NFL-logo-cover.jpg",
+            "info": "",
+            "stations": [{
+	     "name": "NFL Redzone 🏈",
+			"image": "https://gammawire.com/wp-content/uploads/2021/12/how-many-subscibers-does-NFL-RedZone-have.jpg",
+			"url" : "https://markkystreams.com/video/nfl-redzone/",
+			"isHost": "true"
+          }, {  
+	    "name": "NFL Redzone 2 🏈",
+			"image": "https://gammawire.com/wp-content/uploads/2021/12/how-many-subscibers-does-NFL-RedZone-have.jpg",
+			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
+			"isHost": "true"
+          }, {  
+			"name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-01/",
+			"isHost": "true"
+          }, {  
+          "name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-02/",
+			"isHost": "true"
+         }, {  
+          "name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-03/",
+			"isHost": "true"
+               }, {  
+                        "name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-04/",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-05/",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-06/",
+			"isHost": "true"
+              }, {  
+                         "name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-07/",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-08/",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-09/",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-10/",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-11/",
+			"isHost": "true"
+               }, {
+			"name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-12/",
+			"isHost": "true"
+               }, {
+			"name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-12/",
+			"isHost": "true"
+                 }, {
+			"name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-13/",
+			"isHost": "true"    
+		}]
+                   },{
+            "name": "NHL 🏒",
+            "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+            "info": "",
+            "stations": [{
+                        "name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-1/",
+			"isHost": "true"
+               }, {  
+                        "name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-2/",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-3/",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-4/",
+			"isHost": "true"
+              }, {  
+                         "name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-5/",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-6/",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-7/",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-8/",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-19/",
+			"isHost": "true"
+               }, {
+			"name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-10/",
+			"isHost": "true"
+               }, {
+			"name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-11/",
+			"isHost": "true"
+                 }, {
+			"name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-12/",
+			"isHost": "true"  
+			}, {
+			"name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-13/",
+			"isHost": "true" 
+			 }, { 
+			  "name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-14/",
+			"isHost": "true"
+                          }, { 
+			  "name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-15/",
+			"isHost": "true" 
+                           }, { 
+			  "name": "",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+			"url" : "http://markkystreams.com/video/nhl-16/",
+			"isHost": "true"
+		}]
                   },{
             "name": "MLB ⚾",
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Braves ⚾ Pirates",
+                        "name": "Guardians ⚾ Rays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Astros ⚾ Orioles",
+			"name": "Yankees ⚾ Marlins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Blue Jays ⚾ Guardians",
+			"name": "Reds ⚾ Pirates",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Twins ⚾ Tigers",
+                         "name": "Athletics ⚾ Nationals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Nationals ⚾ Phillies",
+			"name": "Twins ⚾ Phillies",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Cardinals ⚾ Rays",
+			"name": "Cubs ⚾ Blue Jays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Royals ⚾ Red Sox",
+			"name": "Braves ⚾ Mets",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Rockies ⚾ Dodgers",
+			"name": "Tigers ⚾ Red Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Cardinals ⚾ Royals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Brewers ⚾ White Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "",
+			"name": "Angels ⚾ Astros",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "",
+			"name": "Padres ⚾ Diamondbacks",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "",
+			  "name": "Rockies ⚾ Dodgers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "",
+			  "name": "Orioles ⚾ Mariners",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "",
+			  "name": "Rangers ⚾ Giants",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
@@ -157,7 +496,7 @@
               "isHost":"true"
 		}]
                    },{       
-            "name": "Tenis",
+            "name": "Tenis 🎾",
             "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
             "info": "",
             "stations": [{
@@ -173,61 +512,61 @@
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                     },{ 
-                 "name": "Pista 1",
+                 "name": "Pista 1 🎾",
                     "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten1",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
-                 "name": "Pista 2",
+                 "name": "Pista 2 🎾",
                     "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten2",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                     },{ 
-                 "name": "Pista 3",
+                 "name": "Pista 3 🎾",
                     "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten3",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
-                 "name": "Pista 4",
+                 "name": "Pista 4 🎾",
                     "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten4",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                    },{ 
-                 "name": "Pista 5",
+                 "name": "Pista 5 🎾",
                     "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten5",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
-                 "name": "Pista 6",
+                 "name": "Pista 6 🎾",
                     "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten6",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                     },{ 
-                 "name": "Pista 7",
+                 "name": "Pista 7 🎾",
                     "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten7",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
-                 "name": "Pista 8",
+                 "name": "Pista 8 🎾",
                     "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten8",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
-                 "name": "Pista 9",
+                 "name": "Pista 9 🎾",
                     "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten9",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
-                 "name": "Pista 10",
+                 "name": "Pista 10 🎾",
                     "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten10",
             "referer" : "https://wikisport.click/",
@@ -349,41 +688,47 @@
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                           }, {
-			"name": "La de España ⚽ (opción 2)",
+			"name": "La de España ⚽ (opción 3)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+			  "url": "https://abolishstand.net/embed/bpnl5io93two",
+			"referer": "https://nopay.info/",
+             "isHost": "true"
+                          }, {
+			"name": "La de España ⚽ (opción 4)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			  "url": "https://candlesouth.net/embed/xdpq3ptcuts1qpp",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                           }, {
-			"name": "La de España ⚽ (opción 3)",
+			"name": "La de España ⚽ (opción 5)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			  "url": "https://candlesouth.net/embed/xdpq3ptcuts1qpp",
-			"referer": "https://l1l1.to/",
+			"referer": "https://elixx.xyz/",
              "isHost": "true"
                         }, {
-			"name": "La de España ⚽ (opción 4)",
+			"name": "La de España ⚽ (opción 6)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			     "url" :  "https://hoca4u.com/footy.php?player=desktop&live=ufeed061",
 		"referer" : "https://www.streamonsport2.sbs/",
 			 "isHost":"true"
 	              }, {
-			"name": "La de España ⚽ (opción 5)",
+			"name": "La de España ⚽ (opción 7)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-			 "url": "https://wecazt.com/popy.php?stream=epddZRPMVIM",
+			 "url": "https://wecazt.com/popy.php?stream=4eLyr2RZq7v",
 			"referer": "https://livetvstream.pro/",
              "isHost": "true"  
                      }, {
-			"name": "La de España ⚽ (opción 6)",
+			"name": "La de España ⚽ (opción 8)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 		        "url" :  "https://hd.ucplay2.com/fgvsg556hcfgnh",
 			 "isHost":"true"
                           }, {
-			"name": "La de España ⚽ (opción 7)",
+			"name": "La de España ⚽ (opción 9)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			        "url": "https://sportskart.click/embed/stream-84.php",
 			"isHost" : "true"
 			 }, {
-			"name": "La de España ⚽ (opción 8)",
+			"name": "La de España ⚽ (opción 10)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			       "url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
                                "referer": "https://sportz.football/",
@@ -398,29 +743,18 @@
                     "image": "https://media2.giphy.com/media/tQ204IGOgjQxmHmJ2V/giphy.gif?cid=ecf05e47f27f2r8z3z7j9w1yzwgx4qj027e67gfj1ifirvq0&rid=giphy.gif&ct=g",
                      "url": "https://www.google.es/",
                "isHost" : "true"
-	          }, {
-                 "name": "DANZAN La de España",
-                    "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
-                  "url": "https://new.ucplay2.com/hembedplayer/yggxlive080/3/1536/712",
-			"referer": "https://1stream.buzz/",
-			"isHost" : "true"
                        }, {
                     "name": "DANZAN La de España",
                     "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
-			 "url": "https://emb.apl237.me/player/live.php?id=210571&w=100%&h=100%",
-			"isHost" : "true" 
+			  "url": "https://wecazt.com/popy.php?stream=YJ8krnYwZrR",
+			"referer": "https://livetvstream.pro/",
+             "isHost": "true"  
                           }, {
                     "name": "DANZAN La de España",
                     "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
 			      "url": "https://wecast.to/badir1.php?stream=7ewaSvmPz0Bs",
                "referer" : "https://soccerstream100.co/",
 			 "isHost": "true" 
-                          }, {
-                 "name": "DANZAN La de España",
-                    "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
-                  "url": "https://strayindicate.net/embed/t7w70x7v57",
-			"referer": "https://1stream.buzz/",
-			"isHost" : "true" 
                         }, {
                  "name": "DANZAN 1",
                     "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
@@ -430,7 +764,8 @@
                        }, {
                     "name": "DANZAN 1",
                     "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
-			    "url": "https://s.cdn2.link/ch10.php",
+			    "url": "https://candlesouth.net/embed/fgvd9mt1",
+                         "referer" : "https://l1l1.to/",
              "isHost": "true"
                         }, {
                     "name": "DANZAN 1",
@@ -697,6 +1032,504 @@
 			 "url": "https://emb.apl247.me/player/live.php?id=212157&w=100%&h=100%",
              "isHost": "true"
 		}]
+                  }, {
+		"name": "Alemania",
+		"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+		"info": "",
+		"stations": [{
+			"name": "(M-Vamos)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			      "url" : "https://new.ucplay2.com/hembedplayer/yggxlive071/3/1536/712",
+	        "referer" : "https://1stream.buzz/",
+            "isHost":"true"
+            }, {
+			"name": "(M-Vamos)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			    "url" : "https://sportskart.click/embed/stream-521.php",
+                          "isHost":"true"
+            }, {
+			"name": "(M-Campeones)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+         "url": "https://exerciseexercise.net/embed/lbr3etluqsw",
+			"referer": "https://1stream.buzz/",
+             "isHost": "true"
+		}, {
+			"name": "(M-Campeones)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			 "url": "https://sportskart.click/embed/stream-435.php",
+			"isHost" : "true"
+			 }, {
+			"name": "(M-Campeones)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+        "url": "https://new.ucplay2.com/hembedplayer/yggxlive064/3/1536/712",
+			"referer": "https://1stream.buzz/",
+             "isHost": "true"
+		}, {
+			"name": "(M-Campeones)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			 "url": "https://kepa.pw/abed.php?file=ligadecampeonesbahia",
+			"referer": "https://bahiadeportes.com/",
+			"isHost" : "true"
+		 }, {
+			"name": "(M-Campeones 2)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+        "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
+			"referer": "https://macron.xyz/",
+             "isHost": "true"
+		}, {
+			"name": "(M-Campeones 2)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+	      }, {
+			"name": "(M-Campeones 2)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+        "url": "https://new.ucplay2.com/hembedplayer/yggxlive065/3/1536/712",
+			"referer": "https://1stream.buzz/",
+             "isHost": "true"
+		}, {
+			"name": "(M-Campeones 2)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+	          }, {
+			"name": "(M-Campeones 3)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+        "url": "https://parsimoniousinvincible.net/embed/gagr8b",
+			"referer": "https://macron.xyz/",
+             "isHost": "true"
+		}, {
+			"name": "(M-Campeones 3)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			  "url": "https://new.ucplay2.com/hembedplayer/yggxlive066/3/1536/712",
+			"referer": "https://1stream.buzz/",
+             "isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+        "url": "https://new.ucplay2.com/hembedplayer/yggxlive050/3/1536/712",
+			"referer": "https://1stream.buzz/",
+             "isHost": "true" 
+          }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do8",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"   
+	   }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"   
+          }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do13",
+            "referer" : "https://l1l1.to/",
+             "isHost": "true"
+           }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do14",
+            "referer" : "https://l1l1.to/",
+             "isHost": "true"
+                   }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do16",
+            "referer" : "https://l1l1.to/",
+             "isHost": "true"
+		}]
+	}, {
+		"name": "Inglaterra",
+		"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+		"info": "",
+		"stations": [{
+	                "name": "Burnley - Manchester City (DANZAN 1)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+			 "url" : "https://candlesouth.net/embed/fgvd9mt1",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true"  
+               }, {
+			"name": "Burnley - Manchester City(DANZAN 1)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+			    "url":"https://sportskart.click/embed/stream-445.php",
+            "isHost" : "true"
+	      }, {
+			 "name": "(DANZAN 1)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+			"url" : "https://exerciseexercise.net/embed/h5m4gyv36vtc",
+			 "referer": "https://1stream.buzz/",
+             "isHost": "true"  
+                  }, {
+			"name": "(DANZAN 1)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+			    "url":"https://sportskart.click/embed/stream-445.php",
+            "isHost" : "true"
+                }, {
+			"name": "(DANZAN 1)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+			  "url": "https://vikistream.com/embed2.php?player=desktop&live=do9",
+			"referer": "https://l1l1.to/",
+             "isHost": "true" 
+                }, {
+			"name": "(DANZAN 1)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+			    "url":"https://sportskart.click/embed/stream-445.php",
+            "isHost" : "true"
+            }, {
+			"name": "(DANZAN 2)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+ 			 "url" : "https://exerciseexercise.net/embed/xmr0xxbbmzod",
+			 "referer": "https://1stream.buzz/",
+             "isHost": "true"  
+                }, {
+			"name": "(ESPN)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+ 			   "url": "https://coolcast2.com/embed.php?player=desktop&live=espnsur",
+             "referer": "https://tucanaldeportivo.com/",
+             "isHost": "true"
+            }, {
+			"name": "(DANZAN 2)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+			  "url" : "https://exerciseexercise.net/embed/xmr0xxbbmzod",
+			 "referer": "https://1stream.buzz/",
+             "isHost": "true"   
+                  }, {
+			"name": "Manchester City - Manchester Utd(DANZAN 2)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+			   "url":"https://sportskart.click/embed/stream-446.php",
+            "isHost" : "true"
+                }, {
+			"name": "(DANZAN 3)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+ 			 "url" : "https://exerciseexercise.net/embed/xvofyfktwqkwrr",
+			 "referer": "https://1stream.buzz/",
+             "isHost": "true"  
+	       }, {
+ 			"name": "(DANZAN 3)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+			  "urs" : "https://sportskart.click/embed/stream-447.php",
+			"isHost" : "true"
+                }, {
+			"name": "(DANZAN 3)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+ 			 "url" : "https://exerciseexercise.net/embed/xvofyfktwqkwrr",
+			 "referer": "https://1stream.buzz/",
+             "isHost": "true"  
+               }, {
+			"name": "(DANZAN 4)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+			 "url" : "https://exerciseexercise.net/embed/w67i2uz",
+			 "referer": "https://1stream.buzz/",
+             "isHost": "true"  
+			  }, {
+			"name": "(DANZAN 4)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+       "urs" : "https://sportskart.click/embed/stream-448.php",
+			"isHost" : "true"
+	            }, {
+			"name": "(DANZAN 4)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+       "url": "https://vikistream.com/embed2.php?player=desktop&live=do32",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+	          }, {
+			"name": "(DANZAN 4)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+       "url": "https://vikistream.com/embed2.php?player=desktop&live=do34",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+	            }, {
+			"name": "(DANZAN 4)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+       "url": "https://unbiasedsenseevent.com/embed/n09ipt12zu",
+              "referer": "https://1l1l.to/",
+             "isHost": "true"
+                     }, {
+                        "name": "(Sky premier)", 
+			"name": "Burnley - Manchester City(Extranjero)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+      "url": "https://candlesouth.net/embed/taj6r",
+			"referer": "https://l1l1.to/",
+             "isHost": "true" 
+                       }, {
+			"name": "(Extranjero)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+       "url": "https://vikistream.com/embed2.php?player=desktop&live=do4",
+			"referer": "https://l1l1.to/",
+             "isHost": "true" 
+                      }, {
+			"name": "(Extranjero)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+       "url": "https://vikistream.com/embed2.php?player=desktop&live=do5",
+			"referer": "https://l1l1.to/",
+             "isHost": "true" 
+                       }, {
+			"name": "(Extranjero)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+       "url": "https://vikistream.com/embed2.php?player=desktop&live=do35",
+			"referer": "https://l1l1.to/",
+             "isHost": "true" 
+                      }, {
+			"name": "(Extranjero)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+       "url": "https://vikistream.com/embed2.php?player=desktop&live=do36",
+			"referer": "https://l1l1.to/",
+             "isHost": "true" 
+                    }, {
+			"name": "(Extranjero)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+       "url": "https://vikistream.com/embed2.php?player=desktop&live=do33",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+		}]
+		}, {
+		"name": "Francia",
+		"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+		"info": "",
+		"stations": [{
+ 			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+        "url": "https://fractionhostile.net/embed/af34f3lsimxj",
+              "referer" : "https://elixx.xyz/",
+            "isHost":"true"
+		}, {
+                        "name" : "38",
+			"name": "Nice - Liye",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+			 "url": "https://candlesouth.net/embed/4o8n25qm1duhfl",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+        }, {
+                        "name" : "Milan", 
+			"name": "Nice - Liye",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+       "url": "https://abolishstand.net/embed/fxf2qstg",
+			"referer": "https://elixx.xyz/",
+             "isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+			   "url": "https://fractionhostile.net/embed/g359w0ew",
+              "referer" : "https://elixx.xyz/",
+            "isHost":"true"
+                    }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+        "url": "https://vikistream.com/embed2.php?player=desktop&live=do22",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+                    }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+        "url" : "https://exerciseexercise.net/embed/m3vupvihp89n",
+			 "referer": "https://1stream.buzz/",
+             "isHost": "true"  
+		   }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+			 "url" : "https://exerciseexercise.net/embed/wrb8nlfkv3f5a",
+			 "referer": "https://1stream.buzz/",
+             "isHost": "true"  
+		}, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+			 "url": "https://exerciseexercise.net/embed/gtyxnveukc1tw0i",
+			"referer": "https://elixx.xyz/",
+             "isHost": "true"
+			 }, {
+			 "name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+    "url": "https://vikistream.com/embed2.php?player=desktop&live=do3",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+			 "url" : "https://new.ucplay2.com/hembedplayer/yggxlive024/3/1536/712",
+			 "referer": "https://1stream.buzz/",
+             "isHost": "true"  
+			 }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+       "url" : "https://new.ucplay2.com/hembedplayer/yggxlive026/3/1536/712",
+			 "referer": "https://1stream.buzz/",
+             "isHost": "true"  
+	        }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+        "url" : "https://new.ucplay2.com/hembedplayer/yggxlive028/3/1536/712",
+			 "referer": "https://1stream.buzz/",
+             "isHost": "true"  
+	      }, {
+			"name": "",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
+        "url": "https://vikistream.com/embed2.php?player=desktop&live=do22",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+		}]
+	}, {
+		"name": "Italia 1",
+		"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+		"info": "",
+		"stations": [{
+ 			"name": "(M-Vamos)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+        "url" : "https://new.ucplay2.com/hembedplayer/yggxlive071/3/1536/712",
+	        "referer" : "https://1stream.buzz/",
+            "isHost":"true"
+		}, {
+			"name": "(M-Vamos)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			 "url": "https://sportskart.click/embed/stream-521.php",
+			"isHost" : "true"
+        }, {
+			"name":"(M-Campeones)",
+                      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+                       "url": "https://exerciseexercise.net/embed/lbr3etluqsw",
+			"referer": "https://1stream.buzz/",
+             "isHost": "true"
+		}, {
+			"name": "(M-Campeones)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			"url" : "https://exerciseexercise.net/embed/lbr3etluqsw",
+	        "referer" : "https://1stream.buzz/",
+            "isHost":"true"
+                    }, {
+			"name": "(M-Campeones)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+      "url" : "https://exerciseexercise.net/embed/lbr3etluqsw",
+	        "referer" : "https://1stream.buzz/",
+            "isHost":"true"
+		}, {
+			"name": "(M-Campeones)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			  "url": "https://sportskart.click/embed/stream-435.php",
+			"isHost" : "true"
+			 }, {
+			"name": "(M-Campeones)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+        "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
+			"referer": "https://leet365.cc/",
+             "isHost": "true"
+		}, {
+			"name": "(M-Campeones)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			 "url": "https://sportskart.click/embed/stream-435.php",
+			"isHost" : "true"
+			 }, {
+			 "name": "(M-Campeones)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+        "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
+			"referer": "https://leet365.cc/",
+             "isHost": "true"
+		}, {
+			"name": "(M-Campeones)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			 "url": "https://utopianwilderness.com/embed/ktpqv1iq2",
+			  "referer" : "https://starlive.xyz/",
+			"isHost" : "true"
+			 }, {
+			"name": "(M-Campeones 2)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+        "url": "https://voraciousglove.net/embed/cmms5rk1",
+			"referer": "https://leet365.cc/",
+             "isHost": "true"
+	        }, {
+			"name": "(M-Campeones 2)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+        "url": "https://exerciseexercise.net/embed/cmms5rk1",
+			 "referer" : "https://1stream.buzz/",
+             "isHost": "true"
+	        }, {
+			"name": "(M-Campeones 2)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			 "url": "https://grosseaffiche.com/footy.php?player=desktop&live=ufeed65",
+			"referer": "https://leet365.cc/",
+             "isHost": "true"  
+		}, {
+			"name": "(M-Campeones 2)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			 "url": "https://grosseaffiche.com/footy.php?player=desktop&live=ufeed65",
+			"referer": "https://leet365.cc/",
+             "isHost": "true"  
+	       }, {
+			"name": "(M-Campeones 3)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			  "url": "https://exerciseexercise.net/embed/gagr8b",
+			 "referer" : "https://1stream.buzz/",
+             "isHost": "true"
+                    }, {
+			"name": "(M-Campeones 3)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+        "url": "https://parsimoniousinvincible.net/embed/gagr8b",
+			"referer": "https://leet365.cc/",
+             "isHost": "true"
+                  }, {
+			"name": "",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+     "url": "https://vikistream.com/embed2.php?player=desktop&live=do1",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			 "url": "https://fractionhostile.net/embed/ouittc4oaboy",
+			 "referer" : "https://elixx.xyz/",
+             "isHost": "true"
+	        }, {
+			"name": "",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do1",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+                }, {
+			"name": "",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			"url": "https://fractionhostile.net/embed/ouittc4oaboy",
+			 "referer" : "https://elixx.xyz/",
+             "isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			 "url": "https://parsimoniousinvincible.net/embed/t83h07fpraz",
+			 "referer" : "https://streamonsport.ru/",
+             "isHost": "true"
+           }, {
+			"name": "",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do5",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+	        }, {
+			"name": "",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			"url": "https://unbiasedsenseevent.com/embed/ypzz73m5m",
+			 "referer" : "https://1l1l.to/",
+             "isHost": "true"
+                }, {
+			"name": "",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			"url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
+			 "referer" : "https://elixx.xyz/",
+             "isHost": "true"
+	       }, {
+			"name": "",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do37",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+                }, {
+			"name": "",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
+			"url": "https://unbiasedsenseevent.com/embed/ez3sjcbvjr4",
+			 "referer" : "https://elixx.xyz/",
+             "isHost": "true"
+		}]
 		}, {
 		"name": "Deport-mix",
 		"image": "https://i.ibb.co/qDPjMPk/deportes2.gif",
@@ -733,9 +1566,9 @@
               }, {
 			"name": "La de España (opción 3)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-			"url" :  "https://candlesouth.net/embed/av8q3fwxcb",
-		"referer" : "https://l1l1.to/",
-			 "isHost":"true"  
+			"url": "https://abolishstand.net/embed/bpnl5io93two",
+			"referer": "https://nopay.info/",
+             "isHost": "true" 
                                         },{
                  "name": "La de España (opción 4)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
@@ -751,13 +1584,13 @@
 	      }, {
 			"name": "La Segunda de España (op 2)",
 			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
-           "url": "https://embx207272.apl197.me/player/live.php?id=207272&w=100%&h=100%",
+           "url": "https://assia25.com/live/mix-sport33/?lang=es",
              "isHost": "true"
 	       }, {
 			"name": "La Segunda de España (op 3)",
 			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
-			"url": "https://new.ucplay2.com/hembedplayer/yggxlive061/3/1536/712",
-			"referer": "https://1stream.buzz/",
+			"url": "https://candlesouth.net/embed/jwpz3ec0iqz",
+			"referer": "https://l1l1.to/",
 			"isHost" : "true"
                }, {
 			"name": "La Segunda de España (op 4)",
@@ -774,7 +1607,7 @@
               }, {
 			"name": "La Segunda de España (op 6)",
 			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do8",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do19",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
 		}, {
