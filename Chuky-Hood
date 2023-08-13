@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 12-08-2023)",
+    "author": "chuky (Haz-tu-liada al 13-08-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,7 +19,7 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "",
+			"name": "Houston Rockets 🏀 Cleveland",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
@@ -194,32 +194,32 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "New York Giants 🏈 Detroit Lions ",
+			"name": "Tennessee Titans 🏈 Chicago Bears",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "Pittsburgh Steelers 🏈 Tampa Bay Buccaneers",
+          "name": "Indianapolis Colts 🏈 Buffalo Bills",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
          }, {  
-          "name": "Green Bay Packers 🏈 Cincinnati Bengals",
+          "name": "New York Jets 🏈 Carolina Panthers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Atlanta Falcons 🏈 Miami Dolphins",
+                        "name": "Jacksonville Jaguars 🏈 Dallas Cowboys",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-04/",
 			"isHost": "true"
               }, {
-			"name": "Washington Commanders 🏈 Cleveland Browns",
+			"name": "Philadelphia Eagles 🏈 Baltimore Ravens",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-05/",
 			"isHost": "true"
              }, {
-			"name": "Denver Broncos 🏈 Arizona Cardinals",
+			"name": "Los Angeles Chargers 🏈 Los Angeles Rams",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-06/",
 			"isHost": "true"
@@ -354,82 +354,82 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Guardians ⚾ Rays",
+                        "name": "Braves ⚾ Mets",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Yankees ⚾ Marlins",
+			"name": "Cubs ⚾ Blue Jays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Reds ⚾ Pirates",
+			"name": "Yankees ⚾ Marlins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Athletics ⚾ Nationals",
+                         "name": "Tigers ⚾ Red Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Twins ⚾ Phillies",
+			"name": "Guardians ⚾ Rays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Cubs ⚾ Blue Jays",
+			"name": "Twins ⚾ Phillies",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Braves ⚾ Mets",
+			"name": "Athletics ⚾ Nationals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Tigers ⚾ Red Sox",
+			"name": "Reds ⚾ Pirates",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Cardinals ⚾ Royals",
+			"name": "Braves ⚾ Mets",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Brewers ⚾ White Sox",
+			"name": "Cardinals ⚾ Royals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Angels ⚾ Astros",
+			"name": "Brewers ⚾ White Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Padres ⚾ Diamondbacks",
+			"name": "Angels ⚾ Astros",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Rockies ⚾ Dodgers",
+			  "name": "Padres ⚾ Diamondbacks",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Orioles ⚾ Mariners",
+			  "name": "Rangers ⚾ Giants",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "Rangers ⚾ Giants",
+			  "name": "Rockies ⚾ Dodgers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
                                 }, {  
-                            "name": "",
+                            "name": "Orioles ⚾ Mariners",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-16/",
 			"isHost": "true"
@@ -645,7 +645,7 @@
                         "name" : "prueva stream",
 			"name": "La de España ⚽ (opción 5)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-			     "url" :  "https://abolishstand.net/embed/xfkc2i",
+			     "url" :  "https://abolishstand.net/embed/opthng68di66m",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 	              }, {
@@ -699,8 +699,9 @@
                        }, {
                     "name": "DANZAN 1",
                     "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
-			    "url": "http://65.21.63.126:8080/live/s4Oqt12JwG/yBUCFCCm6X/1147.m3u8",
-             "userAgent": ""
+			   "url": "https://candlesouth.net/embed/jwpz3ec0iqz",
+                       "referer" : "https://l1l1.to/",
+			"isHost": "true"
                         }, {
                     "name": "DANZAN 1",
                     "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
@@ -714,7 +715,7 @@
 			 },{ 
                  "name": "DANZAN 2",
                     "image": "https://i.ibb.co/p4p6c5t/Dazan-2.jpg",
-            "url" : "http://65.21.63.126:8080/live/s4Oqt12JwG/yBUCFCCm6X/1148.m3u8",
+            "url" : "http://65.21.63.126:8080/live/shdtHuU4nj/QrTrDP0Fnm/1148.m3u8",
             "userAgent": "" 
                     },{ 
                  "name": "DANZAN 2",
@@ -1076,27 +1077,27 @@
 		"info": "",
 		"stations": [{
                         "name" : "lat10",
-	                "name": "Arsenal - Nottingham Forest (DANZAN 1)",
+	                "name": "Brentford vs Tottenham Hotspur(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			"url": "http://65.21.63.126:8080/live/s4Oqt12JwG/yBUCFCCm6X/1147.m3u8",
              "userAgent": ""
                }, {
-			"name": "Arsenal - Nottingham Forest(DANZAN 1)",
+			"name": "Brentford - Tottenham Hotspur(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			    "url":"https://sportskart.click/embed/stream-445.php",
             "isHost" : "true"
 	      }, {
-			 "name": "(DANZAN 1)",
+			 "name": "Chelsea - Liverpool(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
-			"url": "http://65.21.63.126:8080/live/s4Oqt12JwG/yBUCFCCm6X/1147.m3u8",
+			"url": "http://65.21.63.126:8080/live/shdtHuU4nj/QrTrDP0Fnm/1147.m3u8",
              "userAgent": ""
                   }, {
-			"name": "AFC Bournemouth - West Ham United(DANZAN 1)",
+			"name": "Chelsea - Liverpool(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			    "url":"https://sportskart.click/embed/stream-445.php",
             "isHost" : "true"
                 }, {
-			"name": "Newcastle United - Aston Villa(DANZAN 1)",
+			"name": "(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			  "url": "https://sportskart.click/embed/stream-445.php",
              "isHost": "true" 
@@ -1106,7 +1107,7 @@
 			    "url":"https://sportskart.click/embed/stream-445.php",
             "isHost" : "true"
             }, {
-			"name": "Everton - Fulham(DANZAN 2)",
+			"name": "(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			 "url" : "https://sportskart.click/embed/stream-546.php",
              "isHost": "true"  
@@ -1117,7 +1118,7 @@
              "referer": "https://tucanaldeportivo.com/",
              "isHost": "true"
             }, {
-			"name": "Everton - Fulham(DANZAN 2)",
+			"name": "(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			    "url" : "http://65.21.63.126:8080/live/s4Oqt12JwG/yBUCFCCm6X/1148.m3u8",
             "userAgent": ""   
@@ -1133,7 +1134,7 @@
 			 "referer": "https://1stream.buzz/",
              "isHost": "true"  
 	       }, {
- 			"name": "Brighton & Hove Albion - Luton Town(DANZAN 3)",
+ 			"name": "(DANZAN 3)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			  "urs" : "https://sportskart.click/embed/stream-447.php",
 			"isHost" : "true"
@@ -1150,7 +1151,7 @@
 			 "referer": "https://1stream.buzz/",
              "isHost": "true"  
 			  }, {
-			"name": "Sheffield United - Crystal Palace(DANZAN 4)",
+			"name": "(DANZAN 4)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
        "urs" : "https://sportskart.click/embed/stream-448.php",
 			"isHost" : "true"
@@ -1216,44 +1217,46 @@
 		"info": "",
 		"stations": [{
                         "name" : "everton",
- 			"name": "Marseille - Reims",
+ 			"name": "Clermont - Monaco",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
         "url": "https://abolishstand.net/embed/40ltfs8ms26hmy",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		}, {
                         "name" : "38",
-			"name": "Marseille - Reims",
+			"name": "Clermont - Monaco",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			 "url": "https://candlesouth.net/embed/4o8n25qm1duhfl",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
         }, {
                         "name" : "28",
-                        "name" : "Ajax", 
-			"name": " PSG - Lorient",
+			"name": "Brest - Lens",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
        "url": "https://candlesouth.net/embed/swdrsibexfxe5wj",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
-			"name": " PSG - Lorient",
+                         "name" : "everton",  
+			"name": "Brest - Lens",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
-			   "url": "https://fractionhostile.net/embed/g359w0ew",
+			  "url": "https://abolishstand.net/embed/40ltfs8ms26hmy",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
                     }, {
-			"name": "",
+                         "name" : "28", 
+			"name": "Rennes vs Metz",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
-        "url": "https://vikistream.com/embed2.php?player=desktop&live=do22",
+        "url": "https://candlesouth.net/embed/swdrsibexfxe5wj",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                     }, {
-			"name": "",
+                         "name" : "everton",  
+			"name": "Rennes vs Metz",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
-        "url" : "https://exerciseexercise.net/embed/m3vupvihp89n",
-			 "referer": "https://1stream.buzz/",
-             "isHost": "true"  
+         "url": "https://abolishstand.net/embed/40ltfs8ms26hmy",
+              "referer" : "https://elixx.xyz/",
+            "isHost":"true"
 		   }, {
 			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
@@ -1500,6 +1503,13 @@
         "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
+                                       },{
+                 "name" : "La liga Live",
+                 "name": "La de España (opción 5)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+        "url" :  "https://wecazt.com/popy.php?stream=4eLyr2RZq7v",
+		"referer" : "https://livetvstream.pro/",
+			 "isHost":"true"
 		}, {
 			"name": "La Segunda de España (op 1)",
 			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
@@ -1509,8 +1519,9 @@
 	      }, {
 			"name": "La Segunda de España (op 2)",
 			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
-           "url": "https://assia25.com/live/livestream/?lang=",
-             "isHost": "true"
+           "url" :  "https://abolishstand.net/embed/xfkc2i",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
 	       }, {
 			"name": "La Segunda de España (op 3)",
 			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
@@ -1534,6 +1545,20 @@
 			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
+                       }, {
+                        "name" : "live2",
+			"name": "La Segunda de España (op 7)",
+			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
+			"url": "https://wecazt.com/popy.php?stream=CJ9AwYimdyUo",
+			"referer": "https://livetvstream.pro/",
+             "isHost": "true" 
+                       }, {
+                           "name": "soccers",
+                        "name": "La Segunda de España (op 8)",
+			 "image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
+                 "url": "https://wecazt.com/badir1/hIER0xdlRlY",
+               "referer" : "https://soccerstream100.co/",
+			 "isHost": "true"
 		}, {
 			"name": "M-Campeones",
             "image": "https://i.ibb.co/F83JgnB/Campeones.jpg", 
