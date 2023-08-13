@@ -1902,27 +1902,6 @@
 			 "url" :  "https://abolishstand.net/embed/vtwhdedmj96",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
-		 }, {
-              "name": "Benfica-TV",
-			"image": "https://i0.wp.com/www.zapping-tv.com/wp-content/uploads/2014/03/Benfica-TV.jpg?fit=954%2C530&ssl=1",
-			 "url" :  "https://www.freeshot.live/live-tv/benfica-tv/46",
-			 "isHost":"true"	  
-                }, {
-              "name": "Fox NFL",
-			"image": "https://i.ytimg.com/vi/E1VNJ6YgrcY/maxresdefault.jpg",
-			"url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
-                    "referer": "https://em.bedsport.live/",
-                    "isHost": "true"      
-		 }, {
-              "name": "ESPN U",
-			"image": "https://www.nicepng.com/png/detail/36-369397_espnu-logo-espn-u.png",
-			"url": "https://pahaplayers.click/ch/pahe044ch.php",
-                    "isHost": "true"
-		}, {
-			"name": "Redbull TV",
-			"image": "https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1",
-			"url": "hhttps://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-			"isHost": "true"
 		}]
 			}, {
 		"name": "M-Sin-servicio",
