@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 13-08-2023)",
+    "author": "chuky (Haz-tu-liada al 14-08-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1475,8 +1475,7 @@
            }, {
                    "name": "M-Vamos",
 			"image": "https://i.ibb.co/FYK4TSS/vamos.jpg",
-              			"url" :  "https://candlesouth.net/embed/jwpz3ec0iqz",
-		"referer" : "https://l1l1.to/",
+              			"url" :  "https://sportskart.click/embed/stream-521.php",
 			 "isHost":"true" 
            }, {
  			"name": "M-Vamos",
@@ -1594,8 +1593,8 @@
          }, {
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
-			"url":"http://185.71.64.28:2052/live/belguimm/PT88yuPMSsBt/151429.m3u8",
-	   	"userAgent" : ""
+			"url":"https://sportskart.click/embed/stream-436.php",
+	   	"isHost" : "true"
 			  }, {  
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
@@ -1610,14 +1609,13 @@
                    }, {
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/wscdBMn/deportes-2.jpg",
-			 "url": "https://embx209096.apl214.me/player/live.php?id=209096&w=100%&h=100%",
+			 "url": "https://sportskart.click/embed/stream-438.php",
              "isHost": "true" 
          }, {
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
-			     "url": "http://209.126.119.148:20102/live/e32f07c426894869a09ceaae609269e1/9919f995325c41f79b7aafb820ac7660/327.m3u8",
-              "referer" : "http://vortex.tv",
-			 "userAgent": "OmegaMediaPlayer/1.4.8"
+			     "url": "https://sportskart.click/embed/stream-524.php",
+			 "isHost": "true"
 		}, {
 			"name": "Teledeporte",
 			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
@@ -1662,8 +1660,8 @@
                 }, {
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/VxjDWBr/Golf.jpg",
-			"url" : "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323627.m3u8",
-			"userAgent": ""	
+			"url" : "https://sportskart.click/embed/stream-749.php",
+			"isHost": "true"	
                         }, {
 			 "name": "Cuernos",
 			"image": "https://i.pinimg.com/550x/b3/70/61/b370611b24bad7b5bc2c5915bbae4ec0.jpg",
@@ -1762,19 +1760,18 @@
 		}, {
 			"name": "Fox Sport 1-Argentina",
 			"image": "https://i.pinimg.com/originals/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg",
-                  "url": "https://kepa.pw/abed.php?file=foxargentinabahia",
-                     "referer": "https://bahiadeportes.com/",  
+                  "url": "https://sportskart.click/embed/stream-767.php",  
 					"isHost":"true"
 		}, {
 			"name": "Fox Sport 2-Argentina",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzWOE1xMXXiPmjUaz-3LdohqBsNK17JmWlVh2EYvH7fK3ZDNNjRzAzxqANSy8hLZporQ&usqp=CAU",
-                       			 "url": "http://168.194.171.33:8000/play/a01k/index.m3u8",
-			 "userAgent" : ""
+                       			 "url": "https://sportskart.click/embed/stream-768.php",
+			 "isHost" : "true"
 		}, {
 			"name": "Fox Sport 3-Argentina",
 			"image": "https://i.ytimg.com/vi/Z2_19oGaU-g/hqdefault.jpg",
-		 "url": "http://168.194.171.33:8000/play/a01l/index.m3u8",
-			 "userAgent" : ""
+		 "url": "https://sportskart.click/embed/stream-769.php",
+			 "isHost" : "true"
            }, {
 			"name": "TUDN",
 			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
@@ -1786,10 +1783,10 @@
 			"url": "http://168.194.171.33:8000/play/a01b/index.m3u8",
               "userAgent": ""
                                 }, {
-			"name": "TUDN",
+			"name": "TUDN-USA",
 			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
-			"url":"http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29669",
-	                "userAgent": ""
+			"url":"https://sportskart.click/embed/stream-66.php",
+	                "isHost": "true"
            }, {
 			"name": "DirecTV Sports",
 			"image": "https://pbs.twimg.com/profile_images/430086061675778048/q6z2tn5R.jpeg",
@@ -1811,19 +1808,12 @@
 		}, {
 			"name": "TyC Sport",
 			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
-			"url": "https://daddyhd.com/embed/stream-157.php",
-                         "referer" : "https://www.yallashot.top/",
+			"url": "https://sportskart.click/embed/stream-746.php",
 			 "isHost" : "true"
                }, {
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url": "https://embx205608.apl232.me/player/live.php?id=205608&w=100%&h=100%",
-	           "isHost": "true"
-              }, {
-			"name": "TNT Sports",
-			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url":"https://www.tutele.nl/online.php?a=4",
-           "referer" : "https://www.freelive365.net/",
+			"url": "https://sportskart.click/embed/stream-388.php",
 	           "isHost": "true"
 		 }, {
 			"name": "Win Sports +",
@@ -1859,8 +1849,7 @@
                }, {
 			"name": "Sky Sport football",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
-			"url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=skysfott",
-            "referer" : "https://www.freeshot.live/",
+			"url": "https://sportskart.click/embed/stream-35.php",
 			"isHost": "true" 
 			 }, {
               "name": "sky sport darts",
@@ -1875,7 +1864,7 @@
 		 }, {
               "name": "sky sport arena",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/1200px-Sky_Sport_Arena_-_Logo_2018.svg.png",
-			"url": "https://watchtvchh.xyz/channel/ch017025.php",
+			"url": "https://sportskart.click/embed/stream-36.php",
 			"isHost": "true"	 
               }, {
               "name": "Sport TV-1",
