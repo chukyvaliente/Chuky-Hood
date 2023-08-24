@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 20-08-2023)",
+    "author": "chuky (Haz-tu-liada al 24-08-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -194,57 +194,57 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "Jacksonville Jaguars 🏈 Detroit Lions",
+			"name": "Pittsburgh Steelers 🏈 Atlanta Falcons",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "Miami Dolphins 🏈 Houston Texans",
+          "name": "Indianapolis Colts 🏈 Philadelphia Eagles",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
          }, {  
-          "name": "Buffalo Bills 🏈 Pittsburgh Steelers",
+          "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Chicago Bears 🏈 Indianapolis Colts",
+                        "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-04/",
 			"isHost": "true"
               }, {
-			"name": "Tampa Bay Buccaneers 🏈 New York Jets",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-05/",
 			"isHost": "true"
              }, {
-			"name": "Kansas City Chiefs 🏈 Arizona Cardinals",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-06/",
 			"isHost": "true"
               }, {  
-                         "name": "New England Patriots 🏈 Green Bay Packers",
+                         "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-07/",
 			"isHost": "true"
               }, {
-			"name": "Tennessee Titans 🏈 Minnesota Vikings",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-08/",
 			"isHost": "true"
              }, {
-			"name": "Denver Broncos 🏈 San Francisco 49ers",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-09/",
 			"isHost": "true"
              }, {
-			"name": "Las Vegas Raiders 🏈 Los Angeles Rams",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-10/",
 			"isHost": "true"
               }, {
-			"name": "Dallas Cowboys 🏈 Seattle Seahawks",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-11/",
 			"isHost": "true"
@@ -354,92 +354,92 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Red Sox ⚾ Yankees",
+                        "name": "Nationals ⚾ Yankees",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Royals ⚾ Cubs",
+			"name": "Dodgers ⚾ Guardians",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Marlins ⚾ Dodgers",
+			"name": "Rockies ⚾ Rays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Diamondbacks ⚾ Padres",
+                         "name": "Red Sox ⚾ Astros",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Brewers ⚾ Rangers",
+			"name": "Dodgers ⚾ Guardians",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Phillies ⚾ Nationals",
+			"name": "Cubs ⚾ Pirates",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Rays ⚾ Angels",
+			"name": "Blue Jays ⚾ Orioles",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Blue Jays ⚾ Reds",
+			"name": "Rangers ⚾ Twins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Tigers ⚾ Guardians",
+			"name": "Athletics ⚾ White Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Pirates ⚾ Twins",
+			"name": "Reds ⚾ Diamondbacks",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Mariners ⚾ Astros",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Mets ⚾ Cardinals",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Giants ⚾ Braves",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "White Sox ⚾ Rockies",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "Diamondbacks ⚾ Padres",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
                                 }, {  
-                            "name": "Rays ⚾ Angels",
+                            "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-16/",
 			"isHost": "true"
                               }, { 
-			  "name": "Orioles ⚾ Athletics",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-17/",
 			"isHost": "true"
                                 }, {  
-                            "name": "Marlins ⚾ Dodgers",
+                            "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-18/",
 			"isHost": "true"
@@ -507,80 +507,131 @@
 		}]
                    },{       
             "name": "Tenis 🎾",
-            "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+            "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
             "info": "",
-            "stations": [{
-                "name": "Sport TV-1",
-			"image": "https://i.ibb.co/vQT9hPg/Tenis.png",
-		 "url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-                     }, {
-             "name": "Sport TV-2",
-			"image": "https://i.ibb.co/vQT9hPg/Tenis.png",
-			 "url" :  "https://abolishstand.net/embed/hx9ejf",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-                    },{ 
+            "stations": [{ 
                  "name": "Pista 1 🎾",
-                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten1",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
                  "name": "Pista 2 🎾",
-                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten2",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                     },{ 
                  "name": "Pista 3 🎾",
-                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten3",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
                  "name": "Pista 4 🎾",
-                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten4",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                    },{ 
                  "name": "Pista 5 🎾",
-                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten5",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
                  "name": "Pista 6 🎾",
-                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten6",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                     },{ 
                  "name": "Pista 7 🎾",
-                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten7",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
                  "name": "Pista 8 🎾",
-                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten8",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
                  "name": "Pista 9 🎾",
-                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten9",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
                      },{ 
                  "name": "Pista 10 🎾",
-                    "image": "https://i.ibb.co/vQT9hPg/Tenis.png",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
                       "url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten10",
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
+		}]
+                      },{       
+            "name": "Basket Fiba 🏀",
+            "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
+            "info": "",
+            "stations": [{ 
+                   "name": "España 🏀",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
+                  "url" :  "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8",
+		"userAgent" : ""
+                    },{ 
+                   "name": "España 🏀",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
+                  "url" :  "https://www.rtve.es/ztnr/1688877.m3u8",
+		"userAgent" : ""
+                      },{ 
+                 "name": "Cancha 1 🏀",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
+                      "url": "https://abolishstand.net/embed/cj43emy3yok2h6",
+            "referer" : "https://nopay.info/",
+                 "isHost": "true"
+                     },{ 
+                 "name": "Cancha 2 🏀",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
+                 "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do9",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
+                    },{ 
+                 "name": "Cancha 3 🏀",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
+                "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do20",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
+                     },{ 
+                 "name": "Cancha 4 🏀",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
+                "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do21",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
+                   },{ 
+                 "name": "Cancha 5 🏀",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
+                 "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do22",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
+                     },{ 
+                 "name": "Cancha 6 🏀",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
+                "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do24",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
+                    },{ 
+                 "name": "Cancha 7 🏀",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
+                  "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do25",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
+                     },{ 
+                 "name": "Cancha 8 🏀",
+                    "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelo",
+                  "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
 		}]
                       },{       
             "name": "Zona Messi ⚽",
@@ -1270,7 +1321,7 @@
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
                     }, {
-                         "name" : 16", 
+                         "name" : "16", 
 			"name": "Reims vs Clermont",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do16",
