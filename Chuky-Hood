@@ -740,6 +740,11 @@
                     "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
 			      "url": "https://sportskart.click/embed/stream-538.php",
 			 "isHost": "true" 
+                         }, {
+                    "name": "DANZAN La de España",
+                    "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
+			 "url" :  "https://soccerinhd.com/live/valencia-vs-osasuna",
+			 "isHost":"true"
                         }, {
                          "name": "DANZAN 1",
                     "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
