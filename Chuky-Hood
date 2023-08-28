@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 27-08-2023)",
+    "author": "chuky (Haz-tu-liada al 28-08-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -194,17 +194,17 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "Detroit Lions 🏈 Carolina Panthers",
+			"name": "Houston Texans 🏈 New Orleans Saints",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "New England Patriots 🏈 Tennessee Titans",
+          "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
          }, {  
-          "name": "Los Angeles Chargers 🏈 San Francisco 49ers",
+          "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
@@ -354,77 +354,77 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Nationals ⚾ Marlins",
+                        "name": "Angels ⚾ Phillies",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Yankees ⚾ Rays",
+			"name": "Yankees ⚾ Tigers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Astros ⚾ Tigers",
+			"name": "White Sox ⚾ Orioles",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Rockies ⚾ Orioles",
+                         "name": "Nationals ⚾ Blue Jays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Cubs ⚾ Pirates",
+			"name": "Rangers ⚾ Mets",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Cardinals ⚾ Phillies",
+			"name": "Astros ⚾ Red Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Guardians ⚾ Blue Jays",
+			"name": "Guardians ⚾ Twins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Dodgers ⚾ Red Sox",
+			"name": "Padres ⚾ Cardinals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Angels ⚾ Mets",
+			"name": "Brewers ⚾ Cubs",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Athletics ⚾ White Sox",
+			"name": "Pirates ⚾ Royals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Padres ⚾ Brewers",
+			"name": "Braves ⚾ Rockies",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Rangers ⚾ Twins",
+			"name": "Athletics ⚾ Mariners",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Reds ⚾ Diamondbacks",
+			  "name": "Reds ⚾ Giants",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Royals ⚾ Mariners",
+			  "name": "Diamondbacks ⚾ Dodgers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "Braves ⚾ Giants",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
@@ -499,6 +499,16 @@
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                    "url": "http://sportsurge.stream/embed/boxing5.php",
               "isHost":"true"
+                       },{ 
+                 "name": "Evento 12 WWE",
+                    "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+                   "url": "http://sportsurge.stream/embed/wwe2.php",
+             "isHost":"true"
+                       },{ 
+                 "name": "Evento 13 WWE",
+                    "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+                   "url": "http://sportsurge.stream/embed/wwe3.php",
+             "isHost":"true"
 		}]
                    },{       
             "name": "Tenis 🎾",
@@ -588,31 +598,31 @@
                      },{ 
                  "name": "Cancha 2 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                 "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
+                 "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do20",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                     },{ 
                  "name": "Cancha 3 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do24",
+                "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do21",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                      },{ 
                  "name": "Cancha 4 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do25",
+                "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do22",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                    },{ 
                  "name": "Cancha 5 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                 "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
+                 "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do28",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                      },{ 
                  "name": "Cancha 6 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do36",
+                "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do30",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                     },{ 
@@ -743,7 +753,7 @@
                          }, {
                     "name": "DANZAN La de España",
                     "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
-			 "url" :  "https://soccerinhd.com/live/valencia-vs-osasuna",
+			 "url" :  "https://soccerinhd.com/live/getafe-vs-alaves",
 			 "isHost":"true"
                         }, {
                          "name": "DANZAN 1",
@@ -855,9 +865,9 @@
 		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
 		"info": "",
 		"stations": [{
-              "name": "Coche 1 Gran Belgica (En diferido).",
-			"image": "https://i0.wp.com/f1ntastic.com/wp-content/uploads/2020/09/image-3.png?fit=1170%2C876&ssl=1",
-			 "url" : "https://upstream.to/5hg80asaeddg",
+              "name": "Coche 1 Gran Holanda (En diferido).",
+			"image": "https://cdn-imgix.headout.com/media/images/f2986f83e69f5f4d4a319864d3836a6d-ref.png?auto=format&w=733.44&h=458.4&q=90&fit=crop&ar=16%3A10",
+			 "url" : "https://upstream.to/37wwif4f63cr",
 			"userAgent": "true" 
                            }, {
           "name": "Manujaz MotoRSport",
@@ -1387,13 +1397,13 @@
 			 "url": "https://sportskart.click/embed/stream-521.php",
 			"isHost" : "true"
         }, {
-			"name":"(M-Campeones)",
+			"name":"Cagliari vs Inter Milan(M-Campeones)",
                       "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
                        "url": "https://abolishstand.net/embed/lbr3etluqsw",
 			"referer": "https://1stream.buzz/",
              "isHost": "true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Cagliari vs Inter Milan(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url": "https://abolishstand.net/embed/plo0t0",
 			"referer": "https://nopay.info/",
@@ -1405,7 +1415,7 @@
 	        "referer" : "https://1stream.buzz/",
             "isHost":"true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Cagliari vs Inter Milan(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			  "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
@@ -1476,15 +1486,15 @@
              "isHost": "true"
 		}, {
                         "name": "partizan",
-			"name": "",
+			"name": "Salernitana vs Udinese",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://abolishstand.net/embed/ugce3jz6chx",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
 	        }, {
-			"name": "",
+			"name": "Salernitana vs Udinese",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do5",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do6",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
