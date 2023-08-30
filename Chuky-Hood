@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 29-08-2023)",
+    "author": "chuky (Haz-tu-liada al 30-08-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -354,7 +354,7 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Rays ⚾ Marlins",
+                        "name": "White Sox ⚾ Orioles",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
@@ -364,62 +364,62 @@
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Yankees ⚾ Tigers",
+			"name": "Guardians ⚾ Twins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "White Sox ⚾ Orioles",
+                         "name": "Padres ⚾ Cardinals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Nationals ⚾ Blue Jays",
+			"name": "Brewers ⚾ Cubs",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Rangers ⚾ Mets",
+			"name": "Nationals ⚾ Blue Jays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Astros ⚾ Red Sox",
+			"name": "Reds ⚾ Giants",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Guardians ⚾ Twins",
+			"name": "Athletics ⚾ Mariners",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Padres ⚾ Cardinals",
+			"name": "Astros ⚾ Red Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Brewers ⚾ Cubs",
+			"name": "Rangers ⚾ Mets",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Pirates ⚾ Royals",
+			"name": "Rays ⚾ Marlins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Braves ⚾ Rockies",
+			"name": "Yankees ⚾ Tigers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Athletics ⚾ Mariners",
+			  "name": "Pirates ⚾ Royals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Reds ⚾ Giants",
+			  "name": "Braves ⚾ Rockies",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
@@ -587,8 +587,8 @@
                     },{ 
                    "name": "España 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                  "url" :  "https://www.rtve.es/ztnr/1688877.m3u8",
-		"userAgent" : ""
+                 "url": "https://www.rtve.es/directo/teledeporte/",
+			"isHost": "true"
                       },{ 
                  "name": "Cancha 1 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
@@ -660,7 +660,7 @@
                   "name" : "CHA4",
                  "name": "Campo 3",
                  "image": "https://media.airedesantafe.com.ar/p/34c72c3c1eb9a34f2cb4e47514334b4b/adjuntos/268/imagenes/003/756/0003756517/1200x675/smart/messi-inter-miami.png",
-                "url": "https://candlesouth.net/embed/taj6r",
+                "url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40257",
 			"referer": "https://l1l1.to/",
              "isHost": "true"  
                       },{ 
@@ -672,48 +672,48 @@
              "isHost": "true" 
                      }]
                   }, {
-		"name": "Eventos deportivos mix (La Champions League)",
+		"name": "Eventos deportivos mix ⚽ (La Champions League)",
 		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Panathinaikos vs Sporting Braga",
+			"name": "PSV ⚽ Rangers",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
      			     "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                        }, {
-			"name": "Panathinaikos vs Sporting Braga",
+			"name": "PSV ⚽ Rangers",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            			       "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
                        }, {
-			"name": "Panathinaikos vs Sporting Braga",
+			"name": "PSV ⚽ Rangers",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		      "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                      }, {
-			"name": "Young Boys vs Maccabi Haifa",
+			"name": "Copenhagen ⚽ Rakow Czestochowa",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 	          "url" :  "https://abolishstand.net/embed/gagr8b",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                      }, {
-			"name": "Young Boys vs Maccabi Haifa",
+			"name": "Copenhagen ⚽ Rakow Czestochowa",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		      "url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40281",
+		      "url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40256",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                      }, {
-			"name": "Galatasaray vs Molde",
+			"name": "AEK Athens ⚽ Antwerp",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url" :  "https://abolishstand.net/embed/cmms5rk1",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                     }, {
-			"name": "Galatasaray vs Molde",
+			"name": "AEK Athens ⚽ Antwerp",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url": "https://soccerinhd.com/live/galatasaray-vs-molde",
+			 "url": "https://emb.apl266.me/player/live.php?id=210724&w=100%&h=100%",
              "isHost": "true"
                      }]
                 }, {
