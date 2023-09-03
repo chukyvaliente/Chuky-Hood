@@ -644,17 +644,17 @@
             "image": "https://media.airedesantafe.com.ar/p/34c72c3c1eb9a34f2cb4e47514334b4b/adjuntos/268/imagenes/003/756/0003756517/1200x675/smart/messi-inter-miami.png",
             "info": "",
             "stations": [{
-                     "name": "HD1", 
+                     "name": "HD2", 
 	             "name": "Campo 1",
                     "image": "https://media.airedesantafe.com.ar/p/34c72c3c1eb9a34f2cb4e47514334b4b/adjuntos/268/imagenes/003/756/0003756517/1200x675/smart/messi-inter-miami.png",
-                 "url" : "https://abolishstand.net/embed/fyg9m",
+                 "url" : "https://abolishstand.net/embed/w131e7go",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                     },{ 
-                  "name" : "Ajax",
+                  "name" : "Valencia",
                  "name": "Campo 2",
                  "image": "https://media.airedesantafe.com.ar/p/34c72c3c1eb9a34f2cb4e47514334b4b/adjuntos/268/imagenes/003/756/0003756517/1200x675/smart/messi-inter-miami.png",
-                "url": "https://abolishstand.net/embed/1tl2lq8",
+                "url": "https://abolishstand.net/embed/ejj6a0rybyyp",
 			"referer": "https://elixx.xyz/",
              "isHost": "true"  
                     },{ 
@@ -730,8 +730,8 @@
                           }, {
 			"name": "La de España ⚽ (opción 2)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-			  "url": "https://soccerinhd.com/live/atletico-madrid-vs-sevilla",
-             "isHost": "true"
+			  "url": "https://mrgamingstreams.com/soccer-3/",
+             "userAgent": "navigator"
                           }, {
 			"name": "La de España ⚽ (opción 3)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
@@ -798,8 +798,8 @@
                          }, {
                     "name": "DANZAN La de España",
                     "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
-			 "url" :  "https://soccerinhd.com/live/alaves-vs-valencia",
-			 "isHost":"true"
+			 "url" :  "https://mlb.mrgamingstreams.com/viaes.m3u8",
+			 "userAgent":""
                         }, {
                          "name": "DANZAN 1",
                     "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
