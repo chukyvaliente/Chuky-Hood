@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 03-09-2023)",
+    "author": "chuky (Haz-tu-liada al 05-09-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -354,77 +354,77 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Marlins ⚾ Nationals",
+                        "name": "Twins ⚾ Guardians",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Angels ⚾ Athletics",
+			"name": "Brewers ⚾ Pirates",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Rays ⚾ Guardians",
+			"name": "Mariners ⚾ Reds",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Cubs ⚾ Reds",
+                         "name": "Dodgers ⚾ Marlins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Red Sox ⚾ Royals",
+			"name": "Red Sox ⚾ Rays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Tigers ⚾ White Sox",
+			"name": "Mets ⚾ Nationals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Yankees ⚾ Astros",
+			"name": "Tigers ⚾ Yankees",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Mariners ⚾ Mets",
+			"name": "Cardinals ⚾ Braves",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Twins ⚾ Rangers",
+			"name": "Giants ⚾ Cubs",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Pirates ⚾ Cardinals",
+			"name": "White Sox ⚾ Royals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Phillies ⚾ Brewers",
+			"name": "Astros ⚾ Rangers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Blue Jays ⚾ Rockies",
+			"name": "Orioles ⚾ Angels",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Orioles ⚾ Diamondbacks",
+			  "name": "Phillies ⚾ Padres",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Giants ⚾ Padres",
+			  "name": "Blue Jays ⚾ Athletics",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "Braves ⚾ Dodgers",
+			  "name": "Rockies ⚾ Diamondbacks",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
@@ -580,17 +580,17 @@
             "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
             "info": "",
             "stations": [{ 
-                   "name": "España 🏀",
+                   "name": "España La 2 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                  "url" :  "https://rtvelivestream.akamaized.net/eventual/oca/irtve26_main_360.m3u8",
-		"userAgent" : ""
+                 "url": "https://www.rtve.es/directo/la-2/",
+			"isHost": "true"
                    }, {
-                   "name": "España 🏀",
+                   "name": "España TVE 1 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                  "url" :  "https://rtvelivestream.akamaized.net/rtvesec/oca/irtve18_main_1080.m3u8",
-		"userAgent" : ""
+                  "url": "https://www.rtve.es/directo/la-1/",
+			"isHost": "true"
                     },{ 
-                   "name": "España 🏀",
+                   "name": "España Teledeporte 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
                  "url": "https://www.rtve.es/directo/teledeporte/",
 			"isHost": "true"
@@ -603,7 +603,7 @@
                      },{ 
                  "name": "Cancha 2 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                 "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do34",
+                 "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do8",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                     },{ 
@@ -614,13 +614,14 @@
                      },{ 
                  "name": "Cancha 4 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                "url" :  "https://streamamg-court01.akamaized.net/hls/live/2103309/game1/index.m3u8",
+                "url" :  "https://streamamg-court01.akamaized.net/hls/live/2103309/game2/index.m3u8",
 			 "userAgent":""
                    },{ 
                  "name": "Cancha 5 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                  "url" :  "https://streamamg-court01.akamaized.net/hls/live/21033010/game1/index.m3u8",
-			 "userAgent":""
+                 "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do24",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
                      },{ 
                  "name": "Cancha 6 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
@@ -629,13 +630,13 @@
                     },{ 
                  "name": "Cancha 7 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                  "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do28",
+                  "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do24",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                      },{ 
                  "name": "Cancha 8 🏀",
                     "image": "https://images.vexels.com/media/users/3/302017/isolated/preview/8ec527f56dd5d75dd6f84f4528ac205a-dibujos-animados-retro-de-pelota-de-baloncesto.png",
-                  "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do35",
+                  "url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do6",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
 		}]
