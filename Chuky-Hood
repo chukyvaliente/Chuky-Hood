@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 07-09-2023)",
+    "author": "chuky (Haz-tu-liada al 08-09-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -354,77 +354,77 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Twins ⚾ Guardians",
+                        "name": "Diamondbacks ⚾ Cubs",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Brewers ⚾ Pirates",
+			"name": "Cardinals ⚾ Reds",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Mariners ⚾ Reds",
+			"name": "Mariners ⚾ Rays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Dodgers ⚾ Marlins",
+                         "name": "White Sox ⚾ Tigers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Red Sox ⚾ Rays",
+			"name": "Brewers ⚾ Yankees",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Mets ⚾ Nationals",
+			"name": "Marlins ⚾ Phillies",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Tigers ⚾ Yankees",
+			"name": "Dodgers ⚾ Nationals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Cardinals ⚾ Braves",
+			"name": "Royals ⚾ Blue Jays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Giants ⚾ Cubs",
+			"name": "Orioles ⚾ Red Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "White Sox ⚾ Royals",
+			"name": "Pirates ⚾ Braves",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Astros ⚾ Rangers",
+			"name": "Athletics ⚾ Rangers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Orioles ⚾ Angels",
+			"name": "Padres ⚾ Astros",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Phillies ⚾ Padres",
+			  "name": "Mets ⚾ Twins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Blue Jays ⚾ Athletics",
+			  "name": "Guardians ⚾ Angels",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "Rockies ⚾ Diamondbacks",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
@@ -1027,7 +1027,7 @@
 	             }, {
 			"name": "Moto",
 			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
-             "url": "https://s.cdn2.link/ch26.php",
+             "url": "https://s.cdn2.link/ch10.php",
              "isHost": "true"
                           }, {
 			"name": "Moto",
@@ -1042,13 +1042,13 @@
                       }, {
 			"name": "Moto",
 			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
-           "url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40281",
+           "url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40263",
 			"referer": "https://s.cdn2.link/",
              "isHost": "true"  
                        }, {
 			"name": "Moto",
 			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
-           "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
+           "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
                        "referer" : "https://l1l1.to/",
 			"isHost": "true"   
                       }, {
