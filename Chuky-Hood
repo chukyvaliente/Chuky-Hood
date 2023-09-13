@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 10-09-2023)",
+    "author": "chuky (Haz-tu-liada al 13-09-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -194,7 +194,7 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "Houston Texans 🏈 New Orleans Saints",
+			"name": "Buffalo Bills 🏈 New York Jets",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
@@ -354,77 +354,77 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Diamondbacks ⚾ Cubs",
+                        "name": "Rays ⚾ Twins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Cardinals ⚾ Reds",
+			"name": "Cubs ⚾ Rockies",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Mariners ⚾ Rays",
+			"name": "Guardians ⚾ Giants",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "White Sox ⚾ Tigers",
+                         "name": "Angels ⚾ Mariners",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Brewers ⚾ Yankees",
+			"name": "Nationals ⚾ Pirates",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Marlins ⚾ Phillies",
+			"name": "Cardinals ⚾ Orioles",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Dodgers ⚾ Nationals",
+			"name": "Braves ⚾ Phillies",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Royals ⚾ Blue Jays",
+			"name": "Reds ⚾ Tigers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Orioles ⚾ Red Sox",
+			"name": "Rangers ⚾ Blue Jays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Pirates ⚾ Braves",
+			"name": "Athletics ⚾ Astros",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Athletics ⚾ Rangers",
+			"name": "Yankees ⚾ Red Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Padres ⚾ Astros",
+			"name": "Diamondbacks ⚾ Mets",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Mets ⚾ Twins",
+			  "name": "Marlins ⚾ Brewers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Guardians ⚾ Angels",
+			  "name": "Royals ⚾ White Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "",
+			  "name": "Padres ⚾ Dodgers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
@@ -1936,6 +1936,11 @@
 			"url": "https://www.tutele.nl/online.php?a=8",
 			 "referer" : "https://www.freelive365.net/",
 	           "isHost": "true"
+                  }, {
+			"name": "TyC Sport",
+			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
+			"url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
+			 "userAgent" : ""
 		}, {
 			"name": "TyC Sport",
 			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
