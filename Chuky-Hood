@@ -1737,12 +1737,12 @@
 		   }, {
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/VxjDWBr/Golf.jpg",
-			  "url": "https://sportskart.click/embed/stream-528.php",
-                  "isHost": "true"
+			  "url" : "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323627.m3u8",
+			"userAgent":"" 
                 }, {
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/VxjDWBr/Golf.jpg",
-			"url" : "https://sportskart.click/embed/stream-749.php",
+			"url" : "https://sportskart.click/embed/stream-528.php",
 			"isHost": "true"	
                         }, {
 			 "name": "Cuernos",
