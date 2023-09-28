@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 24-09-2023)",
+    "author": "chuky (Haz-tu-liada al 28-09-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -194,12 +194,12 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "New York Giants 🏈 San Francisco",
+			"name": "Detroit Lions 🏈 Green Bay Packers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "New Orleans Saints 🏈 Carolina Panthers",
+          "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
@@ -269,37 +269,37 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "NHL Draft",
+                        "name": "Bruins 🏒 Sabres",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Kings 🏒 Coyotes",
+                        "name": "Lightning 🏒 Hurricanes",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Penguins 🏒 Red Wings",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Islanders 🏒 Rangers",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Wild 🏒 Stars",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Blue Jackets 🏒 Blues",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Ducks 🏒 Sharks",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
@@ -354,77 +354,77 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Diamondbacks ⚾ Yankees",
+                        "name": "Detroit Tigers ⚾ Kansas City Royals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Braves ⚾ Nationals",
+			"name": "Minnesota Twins ⚾ Oakland Athletics",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Angels ⚾ Twins",
+			"name": "Chicago White Sox ⚾ Arizona Diamondbacks",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Rockies ⚾ Cubs",
+                         "name": "Milwaukee Brewers ⚾ St. Louis Cardinals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Mets ⚾ Phillies",
+			"name": "Philadelphia Phillies ⚾ Pittsburgh Pirates",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Tigers ⚾ Athletics",
+			"name": "Baltimore Orioles ⚾ Boston Red Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Brewers ⚾ Marlins",
+			"name": "Toronto Blue Jays ⚾ New York Yankees",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "White Sox ⚾ Red Sox",
+			"name": "New York Mets ⚾ Miami Marlins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Blue Jays ⚾ Rays",
+			"name": "Atlanta Braves ⚾ Chicago Cubs",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Orioles ⚾ Guardians",
+			"name": "Colorado Rockies ⚾ Los Angeles Dodgers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Pirates ⚾ Reds",
+			"name": "Seattle Mariners ⚾ Texas Rangers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Mariners ⚾ Rangers",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Royals ⚾ Astros",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Cardinals ⚾ Padres",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "Giants ⚾ Dodgers",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
@@ -633,7 +633,7 @@
                           }, {
 			"name": "La de España ⚽ (opción 4)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-			 "url": "https://live.ucplay2.com/fgthdghLfvsdgf",
+			 "url": "https://live.ucplay2.com/erghedh4gdfhg4",
 			"isHost": "true"
                         }, {
                         "name" : "prueva stream",
@@ -651,8 +651,8 @@
                      }, {
 			"name": "La de España ⚽ (opción 7)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-		        "url" :  "https://abolishstand.net/embed/52g8nnqi37bly6",
-		"referer" : "https://1stream.buzz/",
+		         "url" :  "https://abolishstand.net/embed/6na79kddf",
+		        "referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                           }, {
 			"name": "La de España ⚽ (opción 8)",
@@ -679,7 +679,7 @@
                 },{ 
                     "name": "Opción 2(M-Deportes)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-             "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
+             "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
                        "referer" : "https://l1l1.to/",
 			"isHost": "true"
                 },{
@@ -703,9 +703,8 @@
                       },{
                      "name": "Opción 8(M-Deportes 2)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-             "url": "https://vikistream.com/embed2.php?player=desktop&live=do22",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
+             "url": "https://sportskart.click/embed/stream-438.php",
+             "isHost": "true" 
 			 },{
                      "name": "Opción 9(M-Deportes 3)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
