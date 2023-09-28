@@ -1900,8 +1900,9 @@
                   }, {
 			"name": "TyC Sport",
 			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
-			"url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
-			 "userAgent" : ""
+			"url": "http://209.126.124.36:20202/live/b0d4b83719ab404ca0956b0f28bd98fd/029a1589b0ba4fce909d47f629fcec53/87.m3u8",
+                     "referer" : "http://vortex.tv ",
+			"userAgent": "OmegaMediaPlayer/0.3.6"
 		}, {
 			"name": "TyC Sport",
 			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
