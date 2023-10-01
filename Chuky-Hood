@@ -863,10 +863,10 @@
 		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
 		"info": "",
 		"stations": [{
-              "name": "Coche 1 Gran Japón (En diferido).",
-			"image": "https://www.formulaf1.es/wp-content/uploads/2011/10/Nueva-imagen1.jpg",
-			 "url" : "https://upstream.to/ta6kdwlm87i9",
-			"userAgent": "true" 
+              "name": "Coche 1 Gran Japón (En diferido)",
+			"image": "https://rsl00.epimg.net/iconos/resultados/2023/deportivos/motor/motogp/circuitos/mini/motegi.png",
+			 "url" : "https://upstream.to/bkumdjc71hkn",
+			"isHost": "true" 
                            }, {
           "name": "Manujaz MotoRSport",
 			"image": "https://i.ibb.co/DCqJ7VP/indi.jpg",
