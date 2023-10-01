@@ -1907,7 +1907,7 @@
                   }, {
 			"name": "TyC Sport",
 			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
-			"url": "http://209.126.124.36:20202/live/53c7317df5164387a8176f1d8b34d9b5/30bdefaeee6847fd9788abced23cc6d8/87.m3u8",
+			"url": "http://209.126.124.36:20202/live/73797c26b228429fa79dc1132417fba0/755b302dd41240698eb0d41348d3a661/87.m3u8",
                      "referer" : "http://vortex.tv",
 			"userAgent": "OmegaMediaPlayer/0.3.6"
 		}, {
