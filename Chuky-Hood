@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 04-10-2023)",
+    "author": "chuky (Haz-tu-liada al 05-10-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,7 +19,7 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "",
+			"name": "Dallas Mavericks 🏀 Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
@@ -194,7 +194,7 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "Detroit Lions 🏈 Green Bay Packers",
+			"name": "Chicago Bears 🏈 Washington Commanders",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
@@ -354,77 +354,77 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Pittsburgh Pirates ⚾ Miami Marlins",
+                        "name": "Tampa Bay Rays ⚾ Texas Rangers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Detroit Tigers ⚾ Cleveland Guardians",
+			"name": "Minnesota Twins ⚾ Toronto Blue Jays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Baltimore Orioles ⚾ Boston Red Sox",
+			"name": "Milwaukee Brewers ⚾ Arizona Diamondbacks",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Toronto Blue Jays ⚾ Tampa Bay Rays",
+                         "name": "Philadelphia Phillies ⚾ Miami Marlins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "New York Mets ⚾ Philadelphia Phillies",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Atlanta Braves ⚾ Washington Nationals",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Chicago White Sox ⚾ San Diego Padres",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Colorado Rockies ⚾ Minnesota Twins",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Kansas City Royals ⚾ New York Yankees",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Milwaukee Brewers ⚾ Chicago Cubs",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "St. Louis Cardinals ⚾ Cincinnati Reds",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Los Angeles Angels ⚾ Oakland Athletics",
+			"name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Arizona Diamondbacks ⚾ Houston Astros",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Seattle Mariners ⚾ Texas Rangers",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "San Francisco Giants ⚾ Los Angeles Dodgers",
+			  "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
@@ -1769,9 +1769,9 @@
 	       }, {
 			"name": "La Segunda de España (op 4)",
 			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
-			"url" :  "https://abolishstand.net/embed/zbz7klq",
-		"referer" : "https://1stream.buzz/",
-			 "isHost":"true"
+			"url": "https://abolishstand.net/embed/dp4tigbdvjxr4l",
+                  "referer" : "https://1stream.buzz/",
+			 "isHost": "true"
                }, {
 			"name": "La Segunda de España (op 5)",
 			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
@@ -1780,7 +1780,7 @@
                 }, {
 			"name": "La Segunda de España (op 6)",
 			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
+			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do40",
             "referer": "https://l1l1.to/",
              "isHost": "true" 
               }, {
