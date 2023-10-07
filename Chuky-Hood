@@ -1866,12 +1866,13 @@
         }, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/9pck97R/eurosport-1.jpg",
-         "url": "https://sportskart.click/embed/stream-524.php",
+         "url": "https://lovesomecommunity.com/deportivo.php?player=desktop&live=3U27L",
+                         "referer" : "https://www.freeshot.live/",
 			  "isHost": "true"
 		}, {
-			"name": "Euro-Sport 1",
+			"name": "Euro-Sport 1 EXtranjero",
 			"image": "https://i.ibb.co/9pck97R/eurosport-1.jpg",
-                     "url": "http://37.49.230.42:8080/live/9a7c64ba/faf0c6591c/1160.m3u8",
+                     "url": "http://45.132.87.69:8080/eurosport1/mono.m3u8",
              "userAgent": ""
         }, {
 			"name": "Euro-Sport 2",
