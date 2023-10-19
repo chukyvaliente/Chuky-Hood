@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 17-10-2023)",
+    "author": "chuky (Haz-tu-liada al 19-10-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,32 +19,32 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "New Orleans Pelicans 🏀 Orlando Magic",
+			"name": "Charlotte Hornets 🏀 Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "New York Knicks 🏀 Boston Celtics",
+                        "name": "Chicago Bulls 🏀 Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Toronto Raptors 🏀 Chicago Bulls",
+                        "name": "TOklahoma City Thunder 🏀 Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Milwaukee Bucks 🏀 Oklahoma City Thunder",
+                        "name": "Los Angeles Lakers 🏀 Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Ra’anana Maccabi 🏀 Minnesota Timberwolves",
+			"name": "Los Angeles Clippers 🏀 Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Denver Nuggets 🏀 LA Clippers",
+			"name": "Sacramento Kings 🏀 Utah Jazz",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
@@ -98,86 +98,164 @@
                     "embed": "true",
                     "url": "https://es.global.nba.com/schedule/",
                     "image": "https://cdn.nba.net/nba-drupal-prod/2019-10/GameTime_NBATV_showtile_main.png"
+                        "name": "Partidos NBA 🏀",
+			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
+			"userAgent": ""
                 }, {
-               "name": "NBA Streams 🏀",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+               "name": "Clika los logos del equipo para ver el partido",
+			"image": "https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0432.gif",
 			"url" : "https://www.google.es/",
 			"isHost": "true"
-               }, {
-			"name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba1.php",
-			"isHost": "true"
-                 }, {  
-                        "name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba2.php",
-			"isHost": "true"
-               }, {  
-                        "name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba3.php",
-			"isHost": "true"
-               }, {  
-                        "name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba4.php",
-			"isHost": "true"
-              }, {
-			"name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba5.php",
-			"isHost": "true"
-             }, {
-			"name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba3.php",
-			"isHost": "true"
-              }, {  
-                         "name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba7.php",
-			"isHost": "true"
-              }, {
-			"name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba8.php",
-			"isHost": "true"
-             }, {
-			"name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba9.php",
-			"isHost": "true"
-             }, {
-			"name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba5.php",
-			"isHost": "true"
-              }, {
-			"name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba7.php",
-			"isHost": "true"
-			 }, {
-			"name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "http://sportsurge.stream/embed/nba12.php",
-			"isHost": "true" 
+                }, {
+             "name": "Celtis",
+			"url": "https://givemereddit.eu/nba/celtics.html",
+			"image": "http://content.sportslogos.net/logos/6/213/thumbs/slhg02hbef3j1ov4lsnwyol5o.gif",
+            "isHost": "true"
 		}, {
-			"name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "http://sportsurge.stream/embed/nba5.php",
+			"name": "Brooklyn Nets",
+			"url": "https://givemereddit.eu/nba/nets.html",
+			"image": "http://content.sportslogos.net/logos/6/3786/thumbs/hsuff5m3dgiv20kovde422r1f.gif",
 			"isHost": "true"
 		}, {
-			"name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "http://sportsurge.stream/embed/nba14.php",
-			"isHost": "true"
-                 }, {
-			"name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "http://sportsurge.stream/embed/nba14.php",
-			"isHost": "true"  
+			"name": "Charlotte Hornets",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/hornets.html",
+			"image": "http://content.sportslogos.net/logos/6/5120/thumbs/512019262015.gif"
+		}, {
+			"name": "Chicago Bulls",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/bulls.html",
+			"image": "http://content.sportslogos.net/logos/6/221/thumbs/hj3gmh82w9hffmeh3fjm5h874.gif"
+		}, {
+			"name": "Cleveland Cavaliers",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/cavaliers.html",
+			"image": "http://content.sportslogos.net/logos/6/222/thumbs/22269212018.gif"
+		}, {
+			"name": "Dallas Mavericks",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/mavericks.html",
+			"image": "http://content.sportslogos.net/logos/6/228/thumbs/22834632018.gif"
+		}, {
+			"name": "Denver Nuggets",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/nuggets.html",
+			"image": "http://content.sportslogos.net/logos/6/229/thumbs/22989262019.gif"
+		}, {
+			"name": "Detroit Pistons",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/pistons.html",
+			"image": "http://content.sportslogos.net/logos/6/223/thumbs/22321642018.gif"
+		}, {
+			"name": "Golden State Warriors",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/warriors.html",
+			"image": "http://content.sportslogos.net/logos/6/235/thumbs/qhhir6fj8zp30f33s7sfb4yw0.gif"
+		}, {
+			"name": "Houston Rockets",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/rockets.html",
+			"image": "http://content.sportslogos.net/logos/6/230/thumbs/8xe4813lzybfhfl14axgzzqeq.gif"
+		}, {
+			"name": "Indiana Pacers",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/pacers.html",
+			"image": "http://content.sportslogos.net/logos/6/224/thumbs/22448122018.gif"
+		}, {
+			"name": "Los Angeles Clippers",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/clippers.html",
+			"image": "http://content.sportslogos.net/logos/6/236/thumbs/23654622016.gif"
+		}, {
+			"name": "Los Angeles Lakers",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/lakers.html",
+			"image": "http://content.sportslogos.net/logos/6/237/thumbs/uig7aiht8jnpl1szbi57zzlsh.gif"
+		}, {
+			"name": "Memphis Grizzlies",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/grizzlies.html",
+			"image": "http://content.sportslogos.net/logos/6/231/thumbs/23143732019.gif"
+		}, {
+			"name": "Miami Heat",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/heat.html",
+			"image": "http://content.sportslogos.net/logos/6/214/thumbs/burm5gh2wvjti3xhei5h16k8e.gif"
+		}, {
+			"name": "Milwaukee Bucks",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/bucks.html",
+			"image": "http://content.sportslogos.net/logos/6/225/thumbs/22582752016.gif"
+		}, {
+			"name": "Minnesota Timberwolves",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/timberwolves.html",
+			"image": "http://content.sportslogos.net/logos/6/232/thumbs/23296692018.gif"
+		}, {
+			"name": "New Orleans Pelicans",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/pelicans.html",
+			"image": "http://content.sportslogos.net/logos/6/4962/thumbs/496226812014.gif"
+		}, {
+			"name": "New York Knicks",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/knicks.html",
+			"image": "http://content.sportslogos.net/logos/6/216/thumbs/2nn48xofg0hms8k326cqdmuis.gif"
+		}, {
+			"name": "Oklahoma City Thunder",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/thunders.html",
+			"image": "http://content.sportslogos.net/logos/6/2687/thumbs/khmovcnezy06c3nm05ccn0oj2.gif"
+		}, {
+			"name": "Orlando Magic",
+			"url": "https://givemereddit.eu/nba/magic.html",
+			"isHost": "true",
+			"image": "http://content.sportslogos.net/logos/6/217/thumbs/wd9ic7qafgfb0yxs7tem7n5g4.gif"
+		}, {
+			"name": "Philadelphia 76ers",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/76ers.html",
+			"image": "http://content.sportslogos.net/logos/6/218/thumbs/21870342016.gif"
+		}, {
+			"name": "Phoenix Suns",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/suns.html",
+			"image": "http://content.sportslogos.net/logos/6/238/thumbs/23843702014.gif"
+		}, {
+			"name": "Portland Trail Blazers",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/blazers.html",
+			"image": "http://content.sportslogos.net/logos/6/239/thumbs/23997252018.gif"
+		}, {
+			"name": "Sacramento Kings",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/kings.html",
+			"image": "http://content.sportslogos.net/logos/6/240/thumbs/24040432017.gif"
+		}, {
+			"name": "San Antonio Spurs",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/spurs.html",
+			"image": "http://content.sportslogos.net/logos/6/233/thumbs/23325472018.gif"
+		}, {
+			"name": "Toronto Raptors",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/raptors.html",
+			"image": "http://content.sportslogos.net/logos/6/227/thumbs/22745782016.gif"
+		}, {
+			"name": "Utah Jazz",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/jazz.html",
+			"image": "http://content.sportslogos.net/logos/6/234/thumbs/23467492017.gif"
+		}, {
+			"name": "Washington Wizards",
+			"isHost": "true",
+			"url": "https://givemereddit.eu/nba/wizards.html",
+			"image": "http://content.sportslogos.net/logos/6/219/thumbs/21956712016.gif"
+        }, {
+          "name": "Atlanta Hawks",
+          "image": "https://content.sportslogos.net/logos/6/220/thumbs/22091682016.gif",
+          "url": "https://givemereddit.eu/nba/hawks.html",
+          "isHost": "true"
 		              }] 
                       },{
             "name": "NFL 🏈",
@@ -194,7 +272,7 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "Dallas Cowboys 🏈 Los Angeles Chargers",
+			"name": "New Orleans Saints 🏈 Jacksonville Jaguars",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
@@ -269,62 +347,62 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Philadelphia Flyers 🏒 Vancouver Canucks",
+                        "name": "Calgary 🏒 Buffalo",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Montréal Canadiens 🏒 Minnesota Wild",
+                        "name": "Vancouver 🏒 Tampa Bay",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Buffalo Sabres 🏒 Tampa Bay Lightning",
+			"name": "Toronto 🏒 Florida",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "New York Islanders 🏒 Arizona Coyotes",
+			"name": "Nashville 🏒 New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Nashville Predators 🏒 Edmonton Oilers",
+                         "name": "Edmonton 🏒 Philadelphia",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Winnipeg Jets 🏒 Los Angeles Kings",
+			"name": "Arizona 🏒 St. Louis",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "Seattle Kraken 🏒 Colorado Avalanche",
+			"name": "Los Angeles 🏒 Minnesota",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "Vegas Golden Knights 🏒 Dallas Stars",
+			"name": "Vegas 🏒 Winnipeg",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "San Jose Sharks 🏒 Carolina Hurricanes",
+			"name": "Dallas 🏒 Anaheim",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-19/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Carolina 🏒 Seattle",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-10/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Chicago 🏒 Colorado",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-11/",
 			"isHost": "true"
                  }, {
-			"name": "",
+			"name": "Boston 🏒 San Jose",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-12/",
 			"isHost": "true"  
@@ -354,12 +432,12 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Diamondbacks ⚾ Phillies",
+                        "name": "Phillies ⚾ Diamondbacks",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Astros ⚾ Rangers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
