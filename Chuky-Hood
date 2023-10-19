@@ -97,11 +97,7 @@
                     "name": "Clika para ver la programación",
                     "embed": "true",
                     "url": "https://es.global.nba.com/schedule/",
-                    "image": "https://cdn.nba.net/nba-drupal-prod/2019-10/GameTime_NBATV_showtile_main.png"
-                      },{
-                        "name": "Partidos NBA 🏀",
-			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
-			"userAgent": ""
+                    "image": "https://i0.wp.com/deportes24.live/wp-content/uploads/2021/02/NBA-TV-StarSat.jpg"
                 }, {
                "name": "Clika los logos del equipo para ver el partido",
 			"image": "https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0432.gif",
