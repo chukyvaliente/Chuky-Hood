@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 03-11-2023)",
+    "author": "chuky (Haz-tu-liada al 04-11-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,37 +19,37 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Cleveland Cavaliers vs Indiana Pacers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "New York Knicks vs Milwaukee Bucks",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Washington Wizards vs Miami Heat",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Brooklyn Nets vs Chicago Bulls",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Golden State Warriors vs Oklahoma City Thunder",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Dallas Mavericks vs Denver Nuggets",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Memphis Grizzlies vs Portland Trail Blazers",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
@@ -269,12 +269,12 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "Tennessee Titans 🏈 Pittsburgh Steelers",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "Tennessee Titans 🏈 Pittsburgh Steelers",
+          "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
@@ -344,12 +344,12 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Philadelphia 🏒 Buffalo",
+                        "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "New Jersey 🏒 St. Louis",
+                        "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
@@ -429,7 +429,7 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Rangers ⚾ Diamondbacks",
+                        "name": "",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
@@ -526,8 +526,8 @@
             "stations": [{
                  "name": "Evento 1 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                 "url": "https://candlesouth.net/embed/3d44n21uf8pkocd",
-            "referer" : "https://l1l1.to/",
+                 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do23",
+			"referer": "https://l1l1.to/",
              "isHost": "true"
                     },{
                  "name": "evento 2 MMA",
@@ -783,7 +783,7 @@
                         "name": "campeones",
 			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	         "url" :  "https://emb.apl274.me//player/live.php?id=187714&w=100%&h=100%",
+	         "url" :  "https://embx210615.apl279.me//player/live.php?id=187714&w=100%&h=100%",
 			 "isHost":"true"
                      
                          }, {
@@ -1039,13 +1039,13 @@
                           }, {
 			"name": "La de España ⚽ (opción 2)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-			  "url": "https://emb.apl274.me//player/live.php?id=210777&w=100%&h=100%",
+			  "url": "https://embx210615.apl279.me//player/live.php?id=210777&w=100%&h=100%",
                           "referer" : "https://livetvstream.pro/",
             "isHost": "true"
                           }, {
 			"name": "La de España ⚽ (opción 3)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-			  "url": "https://my.playuct1.com/erghedh4gdfhg4",
+			  "url": "https://es.ucplay2.com/erghedh4gdfhg4",
             "isHost": "true"
                           }, {
 			"name": "La de España ⚽ (opción 4)",
@@ -1055,7 +1055,7 @@
                           }, {
 			"name": "La de España ⚽ (opción 5)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-			 "url": "http://emb.apl284.me/live/rer51/",
+			 "url": "http://emb.apl243.me/live/rer51/",
 			"isHost": "true"
                         }, {
                         "name" : "prueva stream",
@@ -1173,13 +1173,14 @@
                           }, {
                     "name": "DANZAN La de España",
                     "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
-			      "url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
+			      "url": "https://vikistream.com/embed2.php?player=desktop&live=do40",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                          }, {
                     "name": "DANZAN La de España",
                     "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
-			 "url": "https://emb.apl274.me//player/live.php?id=210615&w=100%&h=100%",
+			 "url": "https://embx210615.apl279.me//player/live.php?id=210615&w=100%&h=100%",
+                         "referer" : "https://aliezstream1.pro/",
 			"isHost" : "true" 
                          }, {
                     "name": "DANZAN La de España 2",
@@ -1201,7 +1202,7 @@
                         }, {
                     "name": "DANZAN 1",
                     "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
-	         "url":"https://one.ucplay2.com/hdfhdfh7vgdfhdfgmm",
+	         "url":"https://huffedpleuch.in/player/05d29a6d25119f3a-82c1578f44f99b94fe664dd0eb48eef1",
             "isHost" : "true" 
 			}, {
                     "name": "DANZAN 1",
@@ -1233,8 +1234,9 @@
 	           },{ 
                  "name": "DANZAN 2",
                     "image": "https://i.ibb.co/p4p6c5t/Dazan-2.jpg",
-                                  "url":"https://emb.apl217.me/player/live.php?id=210937&w=100%&h=100%",
-            "isHost" : "true"
+                                  "url": "https://vikistream.com/embed2.php?player=desktop&live=do23",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
                     },{ 
                  "name": "DANZAN 2",
                     "image": "https://i.ibb.co/p4p6c5t/Dazan-2.jpg",
@@ -1345,8 +1347,8 @@
                       }, {
           "name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
-			        "url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
-               "referer" : "https://elixx.xyz/",
+			        "url": "https://cast2record.com/embed2.php?player=desktop&live=do10",
+               "referer" : "https://em.bedsport.live/",
 			 "isHost":"true"
                   }, {
                   	"name": "M-F1*",
@@ -1356,7 +1358,7 @@
 	     }, {
                   	"name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
-                        "url": "https://my.playuct1.com/hdfhdfh7vgdfhdfgmm",
+                        "url": "https://es.ucplay2.com/hdfhdfh7vgdfhdfgmm",
 			"isHost": "true"
           }, {
           "name": "M-F1",
@@ -1411,7 +1413,7 @@
                           }, {
 			"name": "Moto",
 			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
-              "url":"https://my.playuct1.com/hdfhdfh7vgdfhdfgmm",
+              "url":"https://es.ucplay2.com/hdfhdfh7vgdfhdfgmm",
                 "isHost": "true"
                       }, {
 			"name": "Moto",
@@ -1453,25 +1455,25 @@
 		"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 		"info": "",
 		"stations": [{
-			"name": "(M-Vamos)",
+			"name": "Borussia Dortmund vs Bayern Munchen(M-Vamos)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			      "url": "https://coolcast2.com/embed.php?player=desktop&live=7AW02",
            "referer": "https://www.freeshot.live/",
 			"isHost": "true"
             }, {
-			"name": "(M-Vamos)",
+			"name": "Borussia Dortmund vs Bayern Munchen(M-Vamos)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			    "url" : "https://abolishstand.net/embed/rq4g6",
 	        "referer" : "https://1stream.buzz/",
             "isHost":"true"
             }, {
-			"name": "Eintracht Frankfurt vs Borussia Dortmund(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
          "url": "https://abolishstand.net/embed/lbr3etluqsw",
 			"referer": "https://1stream.buzz/",
              "isHost": "true"
 		}, {
-			"name": "Eintracht Frankfurt vs Borussia Dortmund(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			 "url": "https://dlhd.sx/tele/stream-435.php",
 			"isHost" : "true"
@@ -1487,13 +1489,13 @@
 			 "url": "https://dlhd.sx/tele/stream-435.php",
 			"isHost" : "true"
 		 }, {
-			"name": "Bayer Leverkusen vs Freiburg(M-Campeones 2)",
+			"name": "Hoffenheim vs Bayer Leverkusen(M-Campeones 2)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://abolishstand.net/embed/cmms5rk1",
 			"referer": "https://1stream.buzz/",
              "isHost": "true"
 		}, {
-			"name": "Bayer Leverkusen vs Freiburg(M-Campeones 2)",
+			"name": "Hoffenheim vs Bayer Leverkusen(M-Campeones 2)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://abolishstand.net/embed/cmms5rk1",
             "referer" : "https://1stream.buzz/",
@@ -1511,76 +1513,83 @@
             "referer" : "https://1stream.buzz/",
              "isHost": "true"
 	          }, {
-			"name": "(M-Campeones 3)",
+			"name": "Mainz 05 vs RB Leipzig(M-Campeones 3)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://abolishstand.net/embed/gagr8b",
 			"referer": "https://1stream.buzz/",
              "isHost": "true"
 		}, {
-			"name": "(M-Campeones 3)",
+			"name": "Mainz 05 vs RB Leipzig(M-Campeones 3)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			  "url": "https://new.ucplay2.com/hembedplayer/yggxlive066/3/1536/712",
 			"referer": "https://1stream.buzz/",
              "isHost": "true"
                   }, {
-			"name": "(M-Campeones 4)",
+			"name": "Union Berlin vs Eintracht Frankfurt(M-Campeones 4)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
                  "url" :  "https://abolishstand.net/embed/dxcfd934ttzx",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
              }, {
                         "name": "Lacio",
-			"name": "Eintracht Frankfurt vs Borussia Dortmund",
+			"name": "Hoffenheim vs Bayer Leverkusen",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://abolishstand.net/embed/x3euisb4tt7",
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
           }, {
-			"name": "Eintracht Frankfurt vs Borussia Dortmund",
+			"name": "Union Berlin vs Eintracht Frankfurt",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do40",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do12",
 			"referer": "https://l1l1.to/",
              "isHost": "true"   
 	   }, {
-			"name": "Bayer Leverkusen vs Freiburg",
+			"name": "Freiburg vs Borussia M'gladbach",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do11",
+			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do14",
 			"referer": "https://l1l1.to/",
              "isHost": "true"  
           }, {
-			"name": "",
+			"name": "Hoffenheim vs Bayer Leverkusen",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do13",
 			"referer": "https://l1l1.to/",
+             "isHost": "true" 
+           }, {
+                        "name": "Milan",
+			"name": "Mainz 05 vs RB Leipzig",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
+			"url": "https://abolishstand.net/embed/fxf2qstg",
+			"referer": "https://elixx.xyz/",
              "isHost": "true"  
           }, {
-			"name": "",
+			"name": "Mainz 05 vs RB Leipzig",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do15",
 			"referer": "https://l1l1.to/",
              "isHost": "true"            
           }, {
                         "name": "everton",
-			"name": "Bayer Leverkusen vs Freiburg",
+			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://abolishstand.net/embed/40ltfs8ms26hmy",
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
            }, {
                         "name": "Lacio",
-			"name": "",
+			"name": "Borussia Dortmund vs Bayern Munchen",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://abolishstand.net/embed/x3euisb4tt7",
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
                    }, {
-			"name": "",
+			"name": "Cologne vs Augsburg",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do14",
             "referer" : "https://l1l1.to/",
              "isHost": "true"
                          }, {
-			"name": "",
+			"name": "Cologne vs Augsburg",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do16",
             "referer" : "https://l1l1.to/",
@@ -1592,37 +1601,37 @@
 		"info": "",
 		"stations": [{
                         "name" : "stream",
-	                "name": "West Ham United vs Everton(DANZAN 1)",
+	                "name": "Fulham vs Manchester United(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 		 "url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                }, {
-			"name": "West Ham United vs Everton(DANZAN 1)",
+			"name": "Fulham vs Manchester United(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
-			   "url": "https://one.ucplay2.com/hdfhdfh7vgdfhdfgmm",
+			   "url": "https://huffedpleuch.in/player/05d29a6d25119f3a-82c1578f44f99b94fe664dd0eb48eef1",
              "isHost": "true" 
 	      }, {
-			 "name": "Manchester United vs Manchester City(DANZAN 1)",
+			 "name": "Manchester City vs AFC Bournemouth(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
-		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
+		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do31",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
-			"name": "Manchester United vs Manchester City(DANZAN-1)",
+			"name": "Manchester City vs AFC Bournemouth(DANZAN-1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			 "url": "https://dlhd.sx/tele/stream-445.php",
              "isHost": "true"
                 }, {
-			"name": "Manchester United vs Manchester City(DANZAN 1)",
+			"name": "Newcastle United vs Arsenal(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			"url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                     }, {
-			"name": "Manchester United vs Manchester City(DANZAN 1)",
+			"name": "Newcastle United vs Arsenal(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
-			"url" :  "https://one.ucplay2.com/hdfhdfh7vgdfhdfgmm",
+			"url" :  "https://huffedpleuch.in/player/05d29a6d25119f3a-82c1578f44f99b94fe664dd0eb48eef1",
 			 "isHost":"true"  
                       }, {
 			"name": "(DANZAN 1)",
@@ -1633,15 +1642,15 @@
                     }, {
 			"name": "(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
-			"url" :  "https://one.ucplay2.com/hdfhdfh7vgdfhdfgmm",
+			"url" :  "https://huffedpleuch.in/player/05d29a6d25119f3a-82c1578f44f99b94fe664dd0eb48eef1",
 			 "isHost":"true"  
             }, {
-			"name": "Brighton & Hove Albion vs Fulham(DANZAN 2)",
+			"name": "Everton vs Brighton & Hove Albion(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			 "url" : "https://dlhd.sx/tele/stream-546.php",
              "isHost": "true"  
                 }, {
-			"name": "Brighton & Hove Albion vs Fulham(DANZAN 2)",
+			"name": "Everton vs Brighton & Hove Albion(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			   "url" :  "https://abolishstand.net/embed/xmr0xxbbmzod",
 		"referer" : "https://1stream.buzz/",
@@ -1652,15 +1661,15 @@
 			   "url":"https://dlhd.sx/tele/stream-446.php",
             "isHost" : "true"
                 }, {
-			"name": "Liverpool vs Nottingham Forest(DANZAN 3)",
+			"name": "Brentford vs West Ham United(DANZAN 3)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			 "url" : "https://abolishstand.net/embed/xvofyfktwqkwrr",
 			 "referer": "https://1stream.buzz/",
              "isHost": "true"  
 	       }, {
- 			"name": "Liverpool vs Nottingham Forest(DANZAN 3)",
+ 			"name": "Brentford vs West Ham United(DANZAN 3)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do33",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do32",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
                 }, {
@@ -1670,13 +1679,13 @@
 			 "referer": "https://1stream.buzz/",
              "isHost": "true"  
                }, {
-			"name": "(DANZAN 4)",
+			"name": "Sheffield United vs Wolverhampton Wanderers(DANZAN 4)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			 "url" : "https://abolishstand.net/embed/w67i2uz",
 			 "referer": "https://1stream.buzz/",
              "isHost": "true"  
 			  }, {
-			"name": "(DANZAN 4)",
+			"name": "Sheffield United vs Wolverhampton Wanderers(DANZAN 4)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
        "urs" : "https://dlhd.sx/tele/stream-448.php",
 			"isHost" : "true"
@@ -1741,21 +1750,21 @@
 		"info": "",
 		"stations": [{
                         "name" : "Milan",
- 			"name": "Lille vs Monaco",
+ 			"name": "Marseille vs Lille",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
          "url": "https://abolishstand.net/embed/fxf2qstg",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
-		}, {
+		}, { 
                         "name" : "28",
-			"name": "Lille vs Monaco",
+			"name": "Marseille vs Lille",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			 "url": "https://candlesouth.net/embed/swdrsibexfxe5wj",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
         }, {
                         "name" : "38",
-			"name": "",
+			"name": "Lorient vs Lens",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
        "url": "https://candlesouth.net/embed/4o8n25qm1duhfl",
 			"referer": "https://l1l1.to/",
@@ -1782,26 +1791,26 @@
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		   }, {
-			"name": "Metz vs Le Havre",
+			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
 			"referer": "https://l1l1.to/",
              "isHost": "true"  
 		}, {
                          "name": "Milan",
-			"name": "Rennes vs Strasbourg",
+			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			"url": "https://abolishstand.net/embed/fxf2qstg",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 			 }, {
-			 "name": "Rennes vs Strasbourg",
+			 "name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
      "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
 		}, {
-			"name": "Marseille vs Lyon",
+			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do2",
 			"referer": "https://l1l1.to/",
@@ -1844,40 +1853,40 @@
 	        "referer" : "https://1stream.buzz/",
             "isHost":"true"
 		}, {
-			"name": "Inter Milan vs Roma (M-Vamos)",
+			"name": "(M-Vamos)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125654",
 			"userAgent" : "true"
                     }, {
-			"name": "Inter Milan vs Roma (M-Vamos)",
+			"name": "(M-Vamos)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125654",
 			"userAgent" : "true"
                     }, {
-			"name": "Napoli vs Milan(M-Vamos)",
+			"name": "(M-Vamos)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url" : "https://abolishstand.net/embed/rq4g6",
 	        "referer" : "https://1stream.buzz/",
             "isHost":"true"
         }, {
-			"name":"Inter Milan vs Roma (M-Campeones)",
+			"name":"Salernitana vs Napoli (M-Campeones)",
                       "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
                        "url": "https://abolishstand.net/embed/lbr3etluqsw",
 			"referer": "https://1stream.buzz/",
              "isHost": "true"
 		}, {
-			"name": "Inter Milan vs Roma (M-Campeones)",
+			"name": "Salernitana vs Napoli (M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://dlhd.sx/tele/stream-435.php",
 			"isHost" : "true"
                     }, {
-			"name": "Napoli vs Milan(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
       "url" : "https://abolishstand.net/embed/lbr3etluqsw",
 	        "referer" : "https://1stream.buzz/",
             "isHost":"true"
 		}, {
-			"name": "Napoli vs Milan(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			  "url": "https://dlhd.sx/tele/stream-435.php",
 			"isHost" : "true"
@@ -1905,13 +1914,13 @@
 			  "referer" : "https://starlive.xyz/",
 			"isHost" : "true"
 			 }, {
-			"name": "(M-Campeones 2)",
+			"name": "Atalanta vs Inter Milan(M-Campeones 2)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://voraciousglove.net/embed/cmms5rk1",
 			"referer": "https://leet365.cc/",
              "isHost": "true"
 	        }, {
-			"name": "(M-Campeones 2)",
+			"name": "Atalanta vs Inter Milan(M-Campeones 2)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://abolishstand.net/embed/cmms5rk1",
 			 "referer" : "https://1stream.buzz/",
@@ -1941,34 +1950,34 @@
 			"referer": "https://leet365.cc/",
              "isHost": "true"
                   }, {
-			"name": "Napoli vs Milan",
+			"name": "Salernitana vs Napoli",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
-     "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do1",
+     "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do36",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
                         "name": "Roma",
-			"name": "Inter Milan vs Roma",
+			"name": "Salernitana vs Napoli",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://abolishstand.net/embed/lhfsvq5z",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
 	        }, {
-			"name": "Inter Milan vs Roma",
+			"name": "Atalanta vs Inter Milan",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do34",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do36",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
                         "name": "Roma",
-			"name": "Monza vs Udinese",
+			"name": "Atalanta vs Inter Milan",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url": "https://abolishstand.net/embed/lhfsvq5z",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
                        }, {
                         "name": "ajax",
-			"name": "Napoli vs Milan",
+			"name": "",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://abolishstand.net/embed/1tl2lq8",
 			 "referer" : "https://streamonsport.ru/",
@@ -1981,9 +1990,9 @@
 			 "referer" : "https://streamonsport.ru/",
              "isHost": "true"
            }, {
-			"name": "Monza vs Udinese",
+			"name": "AC Milan vs Udinese",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do3",
+			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do1",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	        }, {
@@ -1995,7 +2004,7 @@
                 }, {
 			
                         "name": "Roma",
-			"name": "Lecce vs Torino",
+			"name": "AC Milan vs Udinese",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url": "https://abolishstand.net/embed/lhfsvq5z",
 			 "referer" : "https://elixx.xyz/",
@@ -2015,7 +2024,7 @@
              "isHost": "true"
                 }, {
                         "name": "Celtic",
-			"name": "Juventus vs Hellas Verona",
+			"name": "",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url": "https://abolishstand.net/embed/dw4k0efjo1w",
 			 "referer" : "https://elixx.xyz/",
