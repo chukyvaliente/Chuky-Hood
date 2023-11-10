@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 09-11-2023)",
+    "author": "chuky (Haz-tu-liada al 10-11-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,42 +19,42 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Milwaukee Bucks 🏀 Indiana Pacers",
+			"name": "Philadelphia 76ers 🏀 Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Atlanta Hawks 🏀 Orlando Magic",
+                        "name": "Charlotte Hornets 🏀 Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "New Orleans Pelicans 🏀 Houston Rockets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Utah Jazz 🏀 Memphis Grizzlies",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Minnesota Timberwolves 🏀 San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "LA Clippers 🏀 Dallas Mavericks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Los Angeles Lakers 🏀 Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Oklahoma City Thunder 🏀 Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
@@ -344,57 +344,57 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "New York 🏒 Boston",
+                        "name": "Minnesota 🏒 Buffalo",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Vancouver 🏒 Ottawa",
+                        "name": "Calgary 🏒 Toronto",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Montreal 🏒 Detroit",
+			"name": "Carolina 🏒 Florida",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Chicago 🏒 Tampa Bay",
+			"name": "Washington 🏒 New Jersey",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Minnesota 🏒 New York",
+                         "name": "San Jose 🏒 Vegas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Dallas 🏒 Columbus",
+			"name": "Philadelphia 🏒 Anaheim",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "Arizona 🏒 St. Louis",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "Nashville 🏒 Winnipeg",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "Seattle 🏒 Colorado",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-19/",
 			"isHost": "true"
                }, {
-			"name": "Pittsburgh 🏒 Los Angeles",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-10/",
 			"isHost": "true"
                }, {
-			"name": "Edmonton 🏒 San Jose",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-11/",
 			"isHost": "true"
@@ -651,39 +651,6 @@
             "referer" : "https://wikisport.click/",
                  "isHost": "true"
 		}]
-                      },{       
-            "name": "Zona Messi ⚽",
-            "image": "https://media.airedesantafe.com.ar/p/34c72c3c1eb9a34f2cb4e47514334b4b/adjuntos/268/imagenes/003/756/0003756517/1200x675/smart/messi-inter-miami.png",
-            "info": "",
-            "stations": [{
-                     "name": "HD2", 
-	             "name": "Campo 1",
-                    "image": "https://media.airedesantafe.com.ar/p/34c72c3c1eb9a34f2cb4e47514334b4b/adjuntos/268/imagenes/003/756/0003756517/1200x675/smart/messi-inter-miami.png",
-                 "url" : "https://abolishstand.net/embed/w131e7go",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-                    },{ 
-                  "name" : "Valencia",
-                 "name": "Campo 2",
-                 "image": "https://media.airedesantafe.com.ar/p/34c72c3c1eb9a34f2cb4e47514334b4b/adjuntos/268/imagenes/003/756/0003756517/1200x675/smart/messi-inter-miami.png",
-                "url": "https://abolishstand.net/embed/ejj6a0rybyyp",
-			"referer": "https://elixx.xyz/",
-             "isHost": "true"  
-                    },{ 
-                  "name" : "CHA4",
-                 "name": "Campo 3",
-                 "image": "https://media.airedesantafe.com.ar/p/34c72c3c1eb9a34f2cb4e47514334b4b/adjuntos/268/imagenes/003/756/0003756517/1200x675/smart/messi-inter-miami.png",
-                "url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40257",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"  
-                      },{ 
-                  "name" : "stream",
-                 "name": "Campo 4",
-                 "image": "https://media.airedesantafe.com.ar/p/34c72c3c1eb9a34f2cb4e47514334b4b/adjuntos/268/imagenes/003/756/0003756517/1200x675/smart/messi-inter-miami.png",
-                "url": "https://abolishstand.net/embed/edl8ze",
-			"referer": "https://1stream.buzz/",
-             "isHost": "true" 
-                     }]
                    }, {
 		"name": "Eventos deportivos mix ⚽ (La Champions League)",
 		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
@@ -1043,7 +1010,8 @@
                           }, {
 			"name": "La de España ⚽ (opción 4)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-			  "url" :  "https://dlhd.sx/tele/stream-538.php",
+			 "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=538",
+              "referer" : "https://dlhd.sx/",
 			 "isHost":"true"
                           }, {
 			"name": "La de España ⚽ (opción 5)",
@@ -1072,8 +1040,9 @@
                           }, {
 			"name": "La de España ⚽ (opción 9)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-			        "url": "https://dlhd.sx/tele/stream-84.php",
-			"isHost" : "true"
+		"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=84",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
 			 }, {
 			"name": "La de España ⚽ (opción 10)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
@@ -1100,7 +1069,8 @@
                 },{ 
                     "name": "Opción 2(M-Deportes)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-            	    "url" :  "https://dlhd.sx/tele/stream-39.php",
+            	     "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=39",
+              "referer" : "https://dlhd.sx/",
 			 "isHost":"true"
                 },{
                  "name": "Opción 3(Vamos)",
@@ -1206,8 +1176,9 @@
                          },{ 
                  "name": "DANZAN 1",
                     "image": "https://i.ibb.co/QnfgmsV/Dazan-3.jpg",
-              "url": "https://dlhd.sx/tele/stream-445.php",
-             "isHost": "true"   
+                                "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=445",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"  
 			 },{ 
                  "name": "DANZAN 2",
                     "image": "https://i.ibb.co/p4p6c5t/Dazan-2.jpg",
@@ -1217,8 +1188,9 @@
                     },{ 
                  "name": "DANZAN 2",
                     "image": "https://i.ibb.co/QnfgmsV/Dazan-3.jpg",
-              "url": "https://dlhd.sx/tele/stream-446.php",
-             "isHost": "true"  
+                                "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=446",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
                     },{ 
                  "name": "DANZAN 2",
                     "image": "https://i.ibb.co/p4p6c5t/Dazan-2.jpg",
@@ -1239,8 +1211,9 @@
 		     },{ 
                  "name": "DANZAN 3",
                     "image": "https://i.ibb.co/QnfgmsV/Dazan-3.jpg",
-              "url": "https://dlhd.sx/tele/stream-447.php",
-             "isHost": "true"   
+                               "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=447",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
                     },{ 
                  "name": "DANZAN 3",
                     "image": "https://i.ibb.co/QnfgmsV/Dazan-3.jpg",
@@ -1283,8 +1256,9 @@
                      },{ 
                  "name": "DANZAN 4",
                     "image": "https://i.ibb.co/VN40My9/Dazan-4.jpg",
-                     "url": "https://dlhd.sx/tele/stream-448.php",
-           "isHost" : "true"
+                                       "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=448",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
 		}]
 	}, {
 		"name": "Motor mix",
@@ -1455,16 +1429,17 @@
 	        "referer" : "https://1stream.buzz/",
             "isHost":"true"
             }, {
-			"name": "(M-Campeones)",
+			"name": "Borussia M'gladbach vs Wolfsburg(M-Campeones)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
          "url": "https://abolishstand.net/embed/lbr3etluqsw",
 			"referer": "https://1stream.buzz/",
              "isHost": "true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Borussia M'gladbach vs Wolfsburg(M-Campeones)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
-			 "url": "https://dlhd.sx/tele/stream-435.php",
-			"isHost" : "true"
+			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=435",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
 			 }, {
 			"name": "(M-Campeones)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
@@ -1474,8 +1449,9 @@
 		}, {
 			"name": "(M-Campeones)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
-			 "url": "https://dlhd.sx/tele/stream-435.php",
-			"isHost" : "true"
+			                   "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=435",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
 		 }, {
 			"name": "(M-Campeones 2)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
@@ -1520,13 +1496,13 @@
 			 "isHost":"true"
              }, {
                         "name": "Lacio",
-			"name": "",
+			"name": "Borussia M'gladbach vs Wolfsburg",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://abolishstand.net/embed/x3euisb4tt7",
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
           }, {
-			"name": "",
+			"name": "Borussia M'gladbach vs Wolfsburg",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do11",
 			"referer": "https://l1l1.to/",
@@ -1589,7 +1565,7 @@
 		"info": "",
 		"stations": [{
                         "name" : "stream",
-	                "name": "Tottenham Hotspur - Chelsea(DANZAN 1)",
+	                "name": "(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 		 "url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
@@ -1608,8 +1584,9 @@
                 }, {
 			"name": "(DANZAN-1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
-			 "url": "https://dlhd.sx/tele/stream-445.php",
-             "isHost": "true"
+			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=445",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
                 }, {
 			"name": "(DANZAN 1)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
@@ -1635,8 +1612,9 @@
             }, {
 			"name": "(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
- 			 "url" : "https://dlhd.sx/tele/stream-546.php",
-             "isHost": "true"  
+ 			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=446",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
                 }, {
 			"name": "(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
@@ -1646,8 +1624,9 @@
                   }, {
 			"name": "(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
-			   "url":"https://dlhd.sx/tele/stream-446.php",
-            "isHost" : "true"
+			                     "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=446",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
                 }, {
 			"name": "(DANZAN 3)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
@@ -1675,8 +1654,9 @@
 			  }, {
 			"name": "(DANZAN 4)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
-       "urs" : "https://dlhd.sx/tele/stream-448.php",
-			"isHost" : "true"
+                        "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=448",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
 	            }, {
 			"name": "(DANZAN 4)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
@@ -1737,19 +1717,19 @@
 		"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 		"info": "",
 		"stations": [{
- 			"name": "",
+ 			"name": "Montpellier vs Nice",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do20",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, { 
-			"name": "",
+			"name": "Montpellier vs Nice",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
-			 "url": "https://sportsurge.stream/embed/footy5.php",
+			 "url": "https://sportsurge.stream/embed/footy3.php",
              "isHost": "true"
         }, {
                         "name" : "Milan",
- 			"name": "",
+ 			"name": "Montpellier vs Nice",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
          "url": "https://abolishstand.net/embed/fxf2qstg",
               "referer" : "https://elixx.xyz/",
@@ -1876,8 +1856,9 @@
 		}, {
 			"name": "(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
-			 "url": "https://dlhd.sx/tele/stream-435.php",
-			"isHost" : "true"
+			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=435",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
                     }, {
 			"name": "(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
@@ -1898,8 +1879,9 @@
 		}, {
 			"name": "(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
-			 "url": "https://dlhd.sx/tele/stream-435.php",
-			"isHost" : "true"
+			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=435",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
 			 }, {
 			 "name": "(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
@@ -1956,13 +1938,13 @@
              "isHost": "true"
 		}, {
                         "name": "Roma",
-			"name": "",
+			"name": "Sassuolo vs Salernitana",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://abolishstand.net/embed/lhfsvq5z",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
 	        }, {
-			"name": "",
+			"name": "Sassuolo vs Salernitana",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do2",
 			"referer": "https://l1l1.to/",
@@ -2047,9 +2029,9 @@
            }, {
                    "name": "M-Vamos",
 			"image": "https://i.ibb.co/FYK4TSS/vamos.jpg",
-              			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
-			"referer": "https://l1l1.to/",
-             "isHost": "true" 
+              			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=521",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
            }, {
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/FYK4TSS/vamos.jpg",    
@@ -2208,8 +2190,9 @@
          }, {
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
-			     "url": "https://dlhd.sx/tele/stream-524.php",
-			 "isHost": "true"
+			                       "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=524",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
 		}, {
 			"name": "Teledeporte",
 			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
@@ -2289,8 +2272,9 @@
 		}, {
 			"name": "Barça TV",
 			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
-			 "url": "https://dlhd.sx/tele/stream-522.php",
-             "isHost": "true"
+			                   "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=522",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
 		}, {
 			"name": "Real MAdrid en la TV",
 			"userAgent": "",
@@ -2315,8 +2299,9 @@
                       },{
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-               "url" : "https://dlhd.sx/tele/stream-149.php",
-             "isHost": "true"
+                                "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=149",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
                     },{
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
@@ -2326,8 +2311,9 @@
                   },{
                     "name": "ESPN2-Argentina",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
-                    "url" : "https://dlhd.sx/tele/stream-150.php",
-             "isHost": "true"
+                                     "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=150",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
                  },{
                     "name": "ESPN2-Argentina",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
@@ -2354,18 +2340,21 @@
 		}, {
 			"name": "Fox Sport 1-Argentina",
 			"image": "https://i.pinimg.com/originals/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg",
-                  "url": "https://dlhd.sx/tele/stream-767.php",  
-					"isHost":"true"
+                                   "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=767",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
 		}, {
 			"name": "Fox Sport 2-Argentina",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzWOE1xMXXiPmjUaz-3LdohqBsNK17JmWlVh2EYvH7fK3ZDNNjRzAzxqANSy8hLZporQ&usqp=CAU",
-                       			 "url": "https://dlhd.sx/tele/stream-768.php",
-			 "isHost" : "true"
+                       			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=768",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
 		}, {
 			"name": "Fox Sport 3-Argentina",
 			"image": "https://i.ytimg.com/vi/Z2_19oGaU-g/hqdefault.jpg",
-		 "url": "https://dlhd.sx/tele/stream-769.php",
-			 "isHost" : "true"
+		                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=769",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
            }, {
 			"name": "TUDN",
 			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
@@ -2380,8 +2369,9 @@
                                 }, {
 			"name": "TUDN-USA",
 			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
-			"url":"https://dlhd.sx/tele/stream-66.php",
-	                "isHost": "true"
+			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=66",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
            }, {
 			"name": "DirecTV Sports",
 			"image": "https://pbs.twimg.com/profile_images/430086061675778048/q6z2tn5R.jpeg",
@@ -2415,8 +2405,9 @@
                }, {
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url": "https://dlhd.sx/tele/stream-388.php",
-	           "isHost": "true"
+			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=388",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
 		 }, {
 			"name": "Win Sports +",
 			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
@@ -2426,8 +2417,9 @@
                }, {
 			"name": "Win Sports +",
 			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
-			"url": "https://dlhd.sx/tele/stream-392.php",
-	           "isHost": "true"
+			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=392",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
                   }, {
 			"name": "Tigo Sports",
 			"image": "https://www.thesportsdb.com/images/media/channel/tvlogo/delgh01629726648.png",
@@ -2452,8 +2444,9 @@
                }, {
 			"name": "Sky Sport football",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
-			"url": "https://dlhd.sx/tele/stream-35.php",
-			"isHost": "true" 
+			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=35",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true" 
 			 }, {
               "name": "sky sport darts",
 			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/390c6d61066503.5a70fb4ebedee.jpg",
@@ -2467,8 +2460,9 @@
 		 }, {
               "name": "sky sport arena",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/1200px-Sky_Sport_Arena_-_Logo_2018.svg.png",
-			"url": "https://dlhd.sx/tele/stream-36.php",
-			"isHost": "true"	 
+			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=36",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"	 
               }, {
               "name": "Sport TV-1",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
