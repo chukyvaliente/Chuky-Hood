@@ -19,42 +19,42 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Philadelphia 76ers 🏀 Detroit Pistons",
+			"name": "Milwaukee Bucks 🏀 Orlando Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Charlotte Hornets 🏀 Washington Wizards",
+                        "name": "Toronto Raptors 🏀 Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "New Orleans Pelicans 🏀 Houston Rockets",
+                        "name": "Miami Heat 🏀 Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Utah Jazz 🏀 Memphis Grizzlies",
+                        "name": "Cleveland Cavaliers 🏀 Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Minnesota Timberwolves 🏀 San Antonio Spurs",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "LA Clippers 🏀 Dallas Mavericks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Los Angeles Lakers 🏀 Phoenix Suns",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Oklahoma City Thunder 🏀 Sacramento Kings",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
@@ -344,57 +344,57 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Minnesota 🏒 Buffalo",
+                        "name": "Columbus 🏒 Detroit",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Calgary 🏒 Toronto",
+                        "name": "Dallas 🏒 Winnipeg",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Carolina 🏒 Florida",
+			"name": "Vancouver 🏒 Toronto",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Washington 🏒 New Jersey",
+			"name": "Boston 🏒 Montreal",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "San Jose 🏒 Vegas",
+                         "name": "Calgary 🏒 Ottawa",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Philadelphia 🏒 Anaheim",
+			"name": "Carolina 🏒 Tampa Bay",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Buffalo 🏒 Pittsburgh",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Washington 🏒 New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Arizona 🏒 Nashville",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-19/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "St. Louis 🏒 Colorado",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-10/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Philadelphia 🏒 Los Angeles",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-11/",
 			"isHost": "true"
@@ -2029,11 +2029,6 @@
               			 "url" : "https://embx205977.apl287.me/player/live.php?id=212160&w=100%&h=100%",
                                  "referer" : "https://livetvstream.pro/",
 			"isHost":"true" 
-           }, {
-                  "name": "M-Vamos",
-			"image": "https://i.ibb.co/FYK4TSS/vamos.jpg",
-              	         "url": "http://flbl1.112421.net:8082/337813/mpegts?token=53A52B5776EAB1ED223024E4C3ACF642",
-			"userAgent": "PlusMediaPlayer/0.0.9"
            }, {
                    "name": "M-Vamos",
 			"image": "https://i.ibb.co/FYK4TSS/vamos.jpg",
