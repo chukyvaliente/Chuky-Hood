@@ -2185,9 +2185,10 @@
 	        "referer" : "https://1stream.buzz/",
                   "isHost": "true"
         }, {
-			"name": "M-Deportes",
+			"name": "M-Deportes-",
 			"image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
-			"url" :  "https://emb.apl288.me/player/live.php?id=216541&w=100%&h=100%",
+			"url" :  "https://embx216541.apl288.me/player/live.php?id=216541&w=100%&h=100%",
+                         "referer" : "https://livetvstream.pro/",
 			  "isHost": "true" 
                    }, {
 			"name": "M-Deportes 2",
