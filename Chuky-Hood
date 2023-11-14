@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 12-11-2023)",
+    "author": "chuky (Haz-tu-liada al 14-11-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,57 +19,57 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Charlotte Hornets vs New York Knicks",
+			"name": "Miami Heat 🏀 Charlotte Hornets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Washington Wizards vs Brooklyn Nets",
+                        "name": "Atlanta Hawks 🏀 Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Memphis Grizzlies vs LA Clippers",
+                        "name": "Indiana Pacers 🏀 Philadelphia 76ers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Indiana Pacers vs Philadelphia 76ers",
+                        "name": "Orlando Magic 🏀 Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Detroit Pistons vs Chicago Bulls",
+			"name": "San Antonio Spurs 🏀 Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Denver Nuggets vs Houston Rockets",
+			"name": "Dallas Mavericks 🏀 New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Dallas Mavericks vs New Orleans Pelicans",
+                         "name": "Portland Trail Blazers 🏀 Utah Jazz",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Miami Heat vs San Antonio Spurs",
+			"name": "LA Clippers 🏀 Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Oklahoma City Thunder vs Phoenix Suns",
+			"name": "Minnesota Timberwolves 🏀 Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Minnesota Timberwolves vs Golden State Warriors",
+			"name": "Memphis Grizzlies 🏀 Los Angeles Lakers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "Portland Trail Blazers vs Los Angeles Lakers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-11/",
 			"isHost": "true"
@@ -269,62 +269,62 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "Indianapolis Colts vs New England Patriots",
+			"name": "Denver Broncos 🏈 Buffalo Bills",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "Green Bay Packers vs Pittsburgh Steelers",
+          "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
          }, {  
-          "name": "New Orleans Saints vs Minnesota Vikings",
+          "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Houston Texans vs Cincinnati Bengals",
+                        "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-04/",
 			"isHost": "true"
               }, {
-			"name": "Cleveland Browns vs Baltimore Ravens",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-05/",
 			"isHost": "true"
              }, {
-			"name": "Tennessee Titans vs Tampa Bay Buccaneers",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-06/",
 			"isHost": "true"
               }, {  
-                         "name": "San Francisco 49ers vs Jacksonville Jaguars",
+                         "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-07/",
 			"isHost": "true"
               }, {
-			"name": "Detroit Lions vs Los Angeles Chargers",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-08/",
 			"isHost": "true"
              }, {
-			"name": "Atlanta Falcons vs Arizona Cardinals",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-09/",
 			"isHost": "true"
              }, {
-			"name": "Washington Commanders vs Seattle Seahawks",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-10/",
 			"isHost": "true"
               }, {
-			"name": "New York Giants vs Dallas Cowboys",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-11/",
 			"isHost": "true"
                }, {
-			"name": "New York Jets vs Las Vegas Raiders",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-12/",
 			"isHost": "true"
@@ -344,47 +344,47 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Chicago @ Florida",
+                        "name": "Boston 🏒 Buffalo",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Dallas @ Minnesota",
+                        "name": "Calgary 🏒 Montreal",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Vancouver @ Montreal",
+			"name": "Vegas 🏒 Washington",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Columbus @ New York",
+			"name": "Pittsburgh 🏒 Columbus",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "San Jose @ Anaheim",
+                         "name": "Tampa Bay 🏒 St. Louis",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Anaheim 🏒 Nashville",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Arizona 🏒 Dallas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "New Jersey 🏒 Winnipeg",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Florida 🏒 San Jose",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-19/",
 			"isHost": "true"
@@ -1069,14 +1069,14 @@
                 },{ 
                     "name": "Opción 2(M-Deportes)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-            	     "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=39",
+            	     "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=436",
               "referer" : "https://dlhd.sx/",
 			 "isHost":"true"
                 },{
                  "name": "Opción 3(Vamos)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-             "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
-			"referer": "https://l1l1.to/",
+             "url": "https://embx205977.apl288.me/player/live.php?id=212160&w=100%&h=100%",
+               "referer" : "https://livetvstream.pro/",
              "isHost": "true"
                     },{ 
                  "name": "Opción 4(Vamos)",
@@ -2030,7 +2030,7 @@
 		"stations": [{
                    "name": "M-Vamos",
 			"image": "https://i.ibb.co/FYK4TSS/vamos.jpg",
-              			 "url" : "https://embx205977.apl287.me/player/live.php?id=212160&w=100%&h=100%",
+              			 "url" : "https://embx205977.apl288.me/player/live.php?id=212160&w=100%&h=100%",
                                  "referer" : "https://livetvstream.pro/",
 			"isHost":"true" 
            }, {
@@ -2153,7 +2153,7 @@
                      }, {
 			"name": "M-Campeones",
             "image": "https://i.ibb.co/F83JgnB/Campeones.jpg", 
-	 "url": "https://embx214386.apl274.me//player/live.php?id=214386&w=100%&h=100%",
+	 "url": "https://embx214386.apl288.me//player/live.php?id=214386&w=100%&h=100%",
 			"isHost" : "true"
         }, {
 			"name": "M-Campeones",
@@ -2187,12 +2187,12 @@
         }, {
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
-			"url" :  "https://emb.apl287.me/player/live.php?id=216539&w=100%&h=100%",
+			"url" :  "https://emb.apl288.me/player/live.php?id=216541&w=100%&h=100%",
 			  "isHost": "true" 
                    }, {
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/wscdBMn/deportes-2.jpg",
-			 "url": "https://emb.apl274.me/player/live.php?id=214504&w=100%&h=100%",
+			 "url": "https://emb.apl288.me/player/live.php?id=214504&w=100%&h=100%",
              "isHost": "true" 
          }, {
 			"name": "Gol TV",
