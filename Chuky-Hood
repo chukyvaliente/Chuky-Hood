@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 17-11-2023)",
+    "author": "chuky (Haz-tu-liada al 18-11-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,57 +19,57 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Milwaukee Bucks 🏀 Charlotte Hornets",
+			"name": "New York Knicks 🏀 Charlotte Hornets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "New York Knicks 🏀 Washington Wizards",
+                        "name": "Minnesota Timberwolves 🏀 New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Philadelphia 76ers 🏀 Atlanta Hawks",
+                        "name": "Miami Heat 🏀 Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Detroit Pistons 🏀 Cleveland Cavaliers",
+                        "name": "Dallas Mavericks 🏀 Milwaukee",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Boston Celtics 🏀 Toronto Raptors",
+			"name": "Memphis Grizzlies 🏀 San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Sacramento Kings 🏀 San Antonio Spurs",
+			"name": "Oklahoma City Thunder 🏀 Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Orlando Magic 🏀 Chicago Bulls",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Denver Nuggets 🏀 Pelicans de Nueva Orleans",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Phoenix Suns 🏀 Utah Jazz",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Los Ángeles Lakers 🏀 Portland Trail Blazers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "Houston Rockets 🏀 LA Clippers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-11/",
 			"isHost": "true"
@@ -344,67 +344,67 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Toronto 🏒 Detroit",
+                        "name": "Vegas 🏒 Filadelfia",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Buffalo 🏒 Winnipeg",
+                        "name": "Chicago 🏒 Nashville",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Florida 🏒 Anaheim",
+			"name": "Edmonton 🏒 Bahía de Tampa",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Minnesota 🏒 Ottawa",
+			"name": "Montreal 🏒 Boston",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Nueva York 🏒 Nueva Jersey",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Pittsburgh 🏒 Carolina",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Arizona 🏒 Winnipeg",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Nueva York 🏒 Calgary",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Colón 🏒 Washington",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-19/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Colorado 🏒 Dallas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-10/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Seattle 🏒 Vancouver",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-11/",
 			"isHost": "true"
                  }, {
-			"name": "",
+			"name": "San Luis 🏒 Los Ángeles",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-12/",
 			"isHost": "true"  
 			}, {
-			"name": "",
+			"name": "Toronto 🏒 Minnesota",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-13/",
 			"isHost": "true" 
@@ -1174,7 +1174,7 @@
                         }, {
                     "name": "DANZAN 1",
                     "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
-	         "url":"https://huffedpleuch.in/player/05d29a6d25119f3a-82c1578f44f99b94fe664dd0eb48eef1",
+	         "url":"https://tastyturbine.com/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
             "isHost" : "true" 
 			}, {
                     "name": "DANZAN 1",
@@ -1379,12 +1379,12 @@
 	             }, {
 			"name": "Manujaz MotoRSport MOTO (Android)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-"url":"https://vkvsd97.mycdn.me/hls/4109330942490.m3u8/sig/1qYJepIWpWg/expires/1681740653187/srcIp/37.14.131.253/urls/45.136.21.39/clientType/13/srcAg/CHROME_ANDROID/mid/4961171811098/4109330942490_fullhd/index.m3u8",
+"url":"https://vkvsd232.mycdn.me/hls/5536100583962.m3u8/sig/oJxEwLt6aOU/srcIp/95.17.168.109/urls/185.226.52.90/expires/1700723629190/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6626241686298/id/5536100583962/5536100583962_fullhd/index.m3u8",
                        "userAgentet" : " "
                       }, {
 			"name": "Manujaz MotoRSport MOTO (IOS)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-"url":"https://vkvsd97.mycdn.me/hls/4109330942490.m3u8/sig/Zt00n0387H0/expires/1681740580934/srcIp/37.14.131.253/urls/45.136.21.39/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/4961171811098/4109330942490_fullhd/index.m3u8",
+"url":"https://vkvsd164.mycdn.me/hls/5536100583962.m3u8/sig/SpgG3svxjdY/srcIp/95.17.168.109/urls/45.136.20.62/expires/1700723574104/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6626241686298/id/5536100583962/5536100583962_fullhd/index.m3u8",
                        "userAgentet" : " "
 	              }, {
 			"name": "Moto",
@@ -1395,14 +1395,19 @@
                           }, {
 			"name": "Moto",
 			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
-              "url":"https://es.ucplay2.com/hdfhdfh7vgdfhdfgmm",
+              "url":"https://tastyturbine.com/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
                 "isHost": "true" 
                        }, {
 			"name": "Moto",
 			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
            "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
                        "referer" : "https://l1l1.to/",
-			"isHost": "true"   
+			"isHost": "true" 
+                      }, {
+			"name": "Moto",
+			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
+         "url" : "http://emb.apl291.me/live/rer52/",
+             "isHost": "true"   
                       }, {
 			"name": "Moto",
 			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
