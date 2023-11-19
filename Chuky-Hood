@@ -1330,7 +1330,7 @@
 		"info": "",
 		"stations": [{
               "name": "Formula 1: Las Vegas (En diferido)",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/4/43/2023_Las_Vegas_street_circuit.svg",
+			"image": "https://api.sofascore.app/api/v1/stage/203670/image",
 			 "url" : "https://upstream.to/zh7fy0c4avbo",
 			"isHost": "true" 
                            }, {
