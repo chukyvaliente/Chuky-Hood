@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 20-11-2023)",
+    "author": "chuky (Haz-tu-liada al 21-11-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,42 +19,42 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Boston Celtics 🏀 Charlotte Hornets",
+			"name": "Toronto Raptors 🏀 Orlando Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Denver Nuggets 🏀 Detroit Pistons",
+                        "name": "Indiana Pacers 🏀 Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Milwaukee Bucks 🏀 Washington Wizards",
+                        "name": "Cleveland Cavaliers 🏀 Filadelfia 76ers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Miami Heat 🏀 Chicago Bulls",
+                        "name": "Portland Trail Blazers 🏀 Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "New York Knicks 🏀 Minnesota Timberwolves",
+			"name": "Utah Jazz 🏀 Los Ángeles Lakers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Sacramento Kings 🏀 Pelícanos de Nueva Orleans",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "LA Clippers 🏀 San Antonio Spurs",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Houston Rockets 🏀 Golden State Warriors",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
@@ -685,7 +685,7 @@
                         "name" : "Campeones 2",
 			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	          "url": "https://emb.apl287.me//player/live.php?id=212823&w=100%&h=100%",
+	          "url": "https://emb.apl287.me//player/live.php?id=212933&w=100%&h=100%",
              "isHost": "true"
                        }, {
 			"name": "",
@@ -723,7 +723,7 @@
                         "name": "campeones",
 			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           			       "url": "https://emb.apl287.me//player/live.php?id=214386&w=100%&h=100%",
+           			       "url": "https://embx214386.apl293.me//player/live.php?id=214386&w=100%&h=100%",
              "isHost": "true"
                      }, {
                         "name": "TUDN",
@@ -743,7 +743,7 @@
                         "name": "campeones",
 			"name": "",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	         "url" :  "https://emb.apl287.me//player/live.php?id=214386&w=100%&h=100%",
+	         "url" :  "https://embx214386.apl293.me//player/live.php?id=214386&w=100%&h=100%",
 			 "isHost":"true"
                          }, {
                          "name": "",
@@ -803,14 +803,14 @@
 		"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 		"info": "",
 		"stations": [{
-			"name": "",
+			"name": "Zamora - Villarreal",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
            	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                        }, { 
                         "name": "campeones 2",
-			"name": "",
+			"name": "Zamora - Villarreal",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
            	       			     "url" :  "https://abolishstand.net/embed/cmms5rk1",
 		"referer" : "https://1stream.buzz/",
@@ -864,7 +864,7 @@
                         "name": "campeones",
 			"name": "",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url" :  "https://emb.apl284.me//player/live.php?id=214386&w=100%&h=100%",
+	         "url" :  "https://embx214386.apl293.me//player/live.php?id=214386&w=100%&h=100%",
 			 "isHost":"true"
                        }, {
                         "name": "campeones",
@@ -2118,7 +2118,7 @@
                      }, {
 			"name": "M-Campeones",
             "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png", 
-	 "url": "https://embx214386.apl288.me//player/live.php?id=214386&w=100%&h=100%",
+	 "url": "https://embx214386.apl293.me//player/live.php?id=214386&w=100%&h=100%",
 			"isHost" : "true"
         }, {
 			"name": "M-Campeones",
@@ -2135,7 +2135,7 @@
                             }, {
 			"name": "M-Campeones-2",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-			 "url": "https://emb.apl257.me/player/live.php?id=209788&w=100%&h=100%",
+			 "url": "https://emb.apl293.me//player/live.php?id=212823&w=100%&h=100%",
              "isHost": "true"
          }, {
 			"name": "M-Deportes",
@@ -2473,10 +2473,10 @@
 		"image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
 		"info": "",
 		"stations": [{
-                            "name": "España - Georgia",
+                            "name": "Zamora - Villarreal",
 			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
-                 "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8",
-			 "usrAgent": ""
+                 "url": "https://emb.apl293.me//player/live.php?id=212823&w=100%&h=100%",
+			 "isHost": "true"
                            }, {
                            "name": "",
 			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
