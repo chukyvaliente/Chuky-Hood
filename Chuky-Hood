@@ -1118,7 +1118,8 @@
                           }, {
 			"name": "La de España (Inglés) (opción 12)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
-			       "url": "https://gameshdlive.net/new/ch4.php",
+	        "url" : "https://gameshdlive.net/new/ch4.php",
+                  "referer" : "https://gameshdlive.net/",
 			 "isHost":"true"
 		}]
                  }, {
