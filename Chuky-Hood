@@ -2588,10 +2588,10 @@
 		"image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
 		"info": "",
 		"stations": [{
-                            "name": "Zamora - Villarreal",
+                            "name": "",
 			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
-                 "url": "https://emb.apl296.me//player/live.php?id=210690&w=100%&h=100%",
-			 "isHost": "true"
+                 "url": "https://www.rtve.es/ztnr/1688877.m3u8",
+			 "isHost ": "true"
                            }, {
                            "name": "",
 			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
