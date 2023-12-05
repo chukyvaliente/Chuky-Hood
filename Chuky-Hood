@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 04-12-2023)",
+    "author": "chuky (Haz-tu-liada al 05-12-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,12 +19,12 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Boston Celtics 🏀 Indiana Pacers",
+			"name": "New York Knicks 🏀 Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "New Orleans Pelicans 🏀 Sacramento Kings",
+                        "name": "Phoenix Suns 🏀 Los Angeles Lakers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
@@ -344,42 +344,42 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Dallas 🏒 Tampa Bay",
+                        "name": "New York 🏒 Ottawa",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Pittsburgh 🏒 Philadelphia",
+                        "name": "Los Angeles 🏒 Columbus",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Seattle 🏒 Montreal",
+			"name": "Detroit 🏒 Buffalo",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Carolina 🏒 Winnipeg",
+			"name": "San Jose 🏒 New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Washington 🏒 Arizona",
+                         "name": "Nashville 🏒 Chicago",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "St. Louis 🏒 Vegas",
+			"name": "Anaheim 🏒 Colorado",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Minnesota 🏒 Calgary",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "New Jersey 🏒 Vancouver",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
@@ -817,69 +817,70 @@
 		"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 		"info": "",
 		"stations": [{
-			"name": "",
+			"name": "Atzeneta vs Getafe",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-           	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
+           	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                        }, { 
                         "name": "campeones 2",
-			"name": "",
+			"name": "Atzeneta vs Getafe",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-           	       			     "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+           	       			     "url" :  "https://abolishstand.net/embed/cmms5rk1",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                        }, {
                         "name" : "Campeones",
-			"name": "",
+			"name": "Arosa vs Valencia",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 		      	 "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                      }, {
-			"name": "",
+			"name": "Arosa vs Valencia",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do21",
+	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                        }, {
-			"name": "",
+			"name": "Arosa vs Valencia",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
-             "userAgent": ""
+	         "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
                        }, {
                         "name" : "liga", 
-			"name": "",
+			"name": "Espanyol vs Real Valladolid",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url": "https://abolishstand.net/embed/52g8nnqi37bly6",
-			"referer": "https://1stream.buzz/",
+	         "url": "https://candlesouth.net/embed/av8q3fwxcb",
+			"referer": "https://l1l1.to/",
              "isHost": "true"
                        }, {
                          "name" : "Campeones 3",
-			"name": "",
+			"name": "Espanyol vs Real Valladolid",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do20",
+	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                        }, {
                         "name" : "campeones-3",
-			"name": "",
+			"name": "Espanyol vs Real Valladolid",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 	          "url" :  "https://abolishstand.net/embed/gagr8b",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                          }, {
-			"name": "",
+			"name": "Castellon vs R. Oviedo",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do20",
-			"referer": "https://l1l1.to/",
-             "isHost": "true" 
+	         "url" :  "https://abolishstand.net/embed/xfkc2i",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
                          }, {
                         "name": "campeones",
-			"name": "",
+			"name": "Castellon vs R. Oviedo",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url" :  "https://embx214386.apl293.me//player/live.php?id=214386&w=100%&h=100%",
-			 "isHost":"true"
+	         "url" :  "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8",
+			 "userAgent":""
                        }, {
                         "name": "campeones",
 			"name": "",
