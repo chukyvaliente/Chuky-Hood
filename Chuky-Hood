@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 06-12-2023)",
+    "author": "chuky (Haz-tu-liada al 07-12-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,57 +19,57 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Orlando Magic 🏀 Cleveland Cavaliers",
+			"name": "Indiana Pacers 🏀 Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Memphis Grizzlies 🏀 Detroit Pistons",
+                        "name": "New Orleans Pelicans 🏀 Los Angeles Lakers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Philadelphia 76ers 🏀 Washington Wizards",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Miami Heat 🏀 Toronto Raptors",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Brooklyn Nets 🏀 Atlanta Hawks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "San Antonio Spurs 🏀 Minnesota Timberwolves",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Charlotte Hornets 🏀 Chicago Bulls",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Oklahoma City Thunder 🏀 Houston Rockets",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Utah Jazz 🏀 Dallas Mavericks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Portland Trail Blazers 🏀 Golden State Warriors",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "Denver Nuggets 🏀 LA Clippers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-11/",
 			"isHost": "true"
@@ -269,7 +269,7 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "Cincinnati Bengals 🏈 Jacksonville Jaguars",
+			"name": "Patriots 🏈 Steelers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
@@ -817,127 +817,80 @@
 		"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Terrassa 🏆 Deportivo Alaves",
+			"name": "Arandina 🏆 Cádiz",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-           	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do29",
+           	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                        }, { 
                         "name": "campeones 2",
-			"name": "Terrassa 🏆 Deportivo Alaves",
+			"name": "Arandina 🏆 Cádiz",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
            	       	 "url" :  "https://abolishstand.net/embed/cmms5rk1",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                        }, {
                         "name" : "Campeones",
-			"name": "Andratx 🏆 Real Sociedad",
+			"name": "Cayon 🏆 Athletic Club",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-		      	"url" :  "https://abolishstand.net/embed/g16dv8bwe2pkg",
-		"referer" : "https://elixx.xyz/",
+		      	"url" :  "https://emb.apl296.me//player/live.php?id=211648?&w=100%&h=100%",
 			 "isHost":"true"
                      }, {
-			"name": "Andratx 🏆 Real Sociedad",
+			"name": "Cayon 🏆 Athletic Club",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do21",
+	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do40",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                        }, {
-			"name": "Andratx 🏆 Real Sociedad",
+			"name": "Cayon 🏆 Athletic Club",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 	         "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                        }, {
-                        "name" : "liga", 
-			"name": "Villanovense 🏆 Real Betis",
+                        "name" : "TVG2", 
+			"name": "Racing Ferrol 🏆 Leganés",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url": "https://candlesouth.net/embed/l9sfqfyguqpzc",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
+	          "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
+             "userAgent": ""
                        }, {
-                         "name" : "Campeones 3",
-			"name": "Villanovense 🏆 Real Betis",
+                         "name" : "",
+			"name": "Racing Ferrol 🏆 Leganés",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do21",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
+	        "url" :  "https://abolishstand.net/embed/xfkc2i",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
                        }, {
                         "name" : "campeones-3",
-			"name": "Villanovense 🏆 Real Betis",
+			"name": "Sestao River 🏆 Celta de Vigo",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 	          "url" :  "https://abolishstand.net/embed/gagr8b",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                          }, {
-			"name": "Levante 🏆 Amorebieta",
+			"name": "Sestao River 🏆 Celta de Vigo",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url" :  "https://abolishstand.net/embed/xfkc2i",
-		"referer" : "https://1stream.buzz/",
-			 "isHost":"true"
+	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
                          }, {
-                        "name": "campeones",
-			"name": "Levante 🏆 Amorebieta",
+                        "name": "",
+			"name": "Orihuela 🏆 Girona",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url" :  "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8",
-			 "userAgent":""
+	          "url": "https://www.rtve.es/directo/teledeporte/",
+			"isHost": "true"
                        }, {
                         "name": "campeones",
-			"name": "Valle Egues 🏆 Mallorca",
+			"name": "Orihuela 🏆 Girona",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-           			       "url": "https://abolishstand.net/embed/52g8nnqi37bly6",
+           			       "url": "https://abolishstand.net/embed/6na79kddf",
 			"referer": "https://1stream.buzz/",
              "isHost": "true"
-                     }, {
-                        "name": "direcplus",
-			"name": "Valle Egues 🏆 Mallorca",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	        "url": "https://ltinversionistas.com/jactv/directvplus.php",
-	           "isHost": "true"
-                          }, {
-             "name": "campeones 3",
-			"name": "Villanovense 🏆 Real Betis",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do21",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
-                           }, {
-			"name": "Villanovense 🏆 Real Betis",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url" :  "https://emb.apl296.me//player/live.php?id=211648?&w=100%&h=100%",
-			 "isHost":"true"
                          }, {
-                        "name" : "campeones-3",
-			"name": "Villanovense 🏆 Real Betis",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url" :  "https://abolishstand.net/embed/gagr8b",
-		"referer" : "https://1stream.buzz/",
-			 "isHost":"true"
-                         }, {
-                        "name": "campeones 2",
-			"name": "Tudelano 🏆 Las Palmas",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url" :  "https://abolishstand.net/embed/cmms5rk1",
-		"referer" : "https://1stream.buzz/",
-			 "isHost":"true"
-                         }, {
-			"name": "Tudelano 🏆 Las Palmas",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do29",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
-                         }, {
-			"name": "Atl. Astorga 🏆 FC Sevilla",
+			"name": "",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 	         "url": "https://www.rtve.es/directo/teledeporte/",
 			"isHost": "true"
-                   }, {
-                        "name" : "dazn liga",
-			"name": "Atl. Astorga 🏆 FC Sevilla",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url" :  "https://abolishstand.net/embed/6na79kddf",
-		"referer" : "https://1stream.buzz/",
-			 "isHost":"true"
                          }, {
                         "name": "Aragón",
 			"name": "",
@@ -1686,19 +1639,19 @@
 		"info": "",
 		"stations": [{
                         "name" : "stream",
-	                "name": "Aston Villa vs Manchester City(DAZN 1)",
+	                "name": "Tottenham Hotspur vs West Ham United(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 		 "url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                }, {
-			 "name": "Aston Villa vs Manchester City(DAZN 1)",
+			 "name": "Tottenham Hotspur vs West Ham United(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-			   "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do40",
+			   "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do28",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                         }, {
-			 "name": "Aston Villa vs Manchester City(DAZN 1)",
+			 "name": "Tottenham Hotspur vs West Ham United(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=445",
               "referer" : "https://dlhd.sx/",
@@ -1732,19 +1685,19 @@
 			"url" :  "https://huffedpleuch.in/player/05d29a6d25119f3a-82c1578f44f99b94fe664dd0eb48eef1",
 			 "isHost":"true"  
             }, {
-			"name": "Manchester United vs Chelsea(DAZN 2)",
+			"name": "Everton vs Newcastle United(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
- 			                  "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
+ 			                  "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do31",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
-			"name": "Manchester United vs Chelsea(DAZN 2)",
+			"name": "Everton vs Newcastle United(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
  			   "url" :  "https://abolishstand.net/embed/xmr0xxbbmzod",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true" 
                   }, {
-			"name": "Manchester United vs Chelsea(DAZN 2)",
+			"name": "Everton vs Newcastle United(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
 			 "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=446",
               "referer" : "https://dlhd.sx/",
@@ -1756,31 +1709,31 @@
               "referer" : "https://dlhd.sx/",
 			 "isHost":"true"
                 }, {
-			"name": "Sheffield United vs Liverpool(DAZN 3)",
+			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
  			 "url" : "https://abolishstand.net/embed/xvofyfktwqkwrr",
 			 "referer": "https://1stream.buzz/",
              "isHost": "true"  
 	       }, {
- 			"name": "Sheffield United vs Liverpool(DAZN 3)",
+ 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
 			 "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=447",
               "referer" : "https://dlhd.sx/",
 			 "isHost":"true"
                 }, {
-			"name": "Sheffield United vs Liverpool(DAZN 3)",
+			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
  			   "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                }, {
-			"name": "Fulham vs Nottingham Forest(DAZN 4)",
+			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
 			 "url" : "https://abolishstand.net/embed/w67i2uz",
 			 "referer": "https://1stream.buzz/",
              "isHost": "true"  
 			  }, {
-			"name": "Fulham vs Nottingham Forest(DAZN 4)",
+			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
                         "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=448",
               "referer" : "https://dlhd.sx/",
@@ -1792,7 +1745,7 @@
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	          }, {
-			"name": "Fulham vs Nottingham Forest(DAZN 4)",
+			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
        "url": "https://vikistream.com/embed2.php?player=desktop&live=do37",
 			"referer": "https://l1l1.to/",
@@ -1825,13 +1778,13 @@
                        }, {
 			"name": "Partido en Extranjero",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do35",
+       "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do31",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
                       }, {
 			"name": "(Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do36",
+       "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do32",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
                     }, {
@@ -2068,14 +2021,14 @@
 			"referer": "https://leet365.cc/",
              "isHost": "true"
                   }, {
-			"name": "Torino vs Atalanta",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
      "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do1",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
                         "name": "Roma",
-			"name": "Torino vs Atalanta",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 			 "url": "https://abolishstand.net/embed/lhfsvq5z",
 			 "referer" : "https://elixx.xyz/",
