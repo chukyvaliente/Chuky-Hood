@@ -850,8 +850,8 @@
                         "name" : "TVG2", 
 			"name": "Racing Ferrol 🏆 Leganés",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
-             "userAgent": ""
+	          "url": "https://live.playuct1.com/bff3gbgfff",
+            "isHost":"true"
                        }, {
                          "name" : "",
 			"name": "Racing Ferrol 🏆 Leganés",
@@ -2299,8 +2299,8 @@
                          "name": "Galicia",
 			"name": "TV Galicia 2",
 			"image": "https://static.wikia.nocookie.net/logopedia/images/1/11/G2_logo.png",
-	         "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
-             "userAgent": ""
+	         "url": "https://live.playuct1.com/bff3gbgfff",
+            "isHost":"true"
                          }, {
                         "name": "CMM",
 			"name": "CMM",
