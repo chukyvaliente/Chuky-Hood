@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 13-12-2023)",
+    "author": "chuky (Haz-tu-liada al 15-12-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,47 +19,47 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Philadelphia 76ers vs Detroit Pistons",
+			"name": "New Orleans Pelicans 🏀 Charlotte Hornets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "New Orleans Pelicans vs Washington Wizards",
+                        "name": "Detroit Pistons 🏀 Philadelphia",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Charlotte Hornets vs Miami Heat",
+                        "name": "Indiana Pacers 🏀 Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Atlanta Hawks vs Toronto Raptors",
+                        "name": "Orlando Magic vs Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Memphis Grizzlies vs Houston Rockets",
+			"name": "Atlanta Hawks 🏀 Toronto Raptors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Indiana Pacers vs Milwaukee Bucks",
+			"name": "Los Angeles Lakers 🏀 San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Los Angeles Lakers vs San Antonio Spurs",
+                         "name": "Houston Rockets 🏀 Memphis Grizzlies",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Brooklyn Nets vs Phoenix Suns",
+			"name": "New York Knicks 🏀 Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "New York Knicks vs Utah Jazz",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
@@ -269,12 +269,12 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "Green Bay Packers 🏈 New York Giants",
+			"name": "Los Angeles Chargers 🏈 Las Vegas Raiders",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
                          }, {  
-                        "name": "Tennessee Titans 🏈 Miami Dolphins",
+                        "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
@@ -344,32 +344,32 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Pittsburgh @ Montreal",
+                        "name": "Anaheim 🏒 New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Boston @ New Jersey",
+                        "name": "Nashville 🏒 Carolina",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Anaheim @ New York",
+			"name": "Boston 🏒 New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Buffalo @ ColoradoWinnipeg @ Los Angeles",
+			"name": "Ottawa 🏒 Dallas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "San Jose 🏒 Arizona",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Buffalo 🏒 Vegas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
@@ -526,8 +526,7 @@
             "stations": [{
                  "name": "Evento 1 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do8",
-			"referer": "https://l1l1.to/",
+                 "url": "https://markkystreams.com/video/boxing-1/",
              "isHost": "true"
                     },{
                  "name": "evento 2 MMA",
@@ -537,36 +536,37 @@
                     },{ 
                  "name": "evento 3 UFC",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                  	 "url" :  "https://gameshdlive.net/new/ch29.php",
+                  	 "url" :  "https://markkystreams.com/video/ufc/",
 			 "isHost":"true"
                         },{
-                 "name": "evento 5 UFC",
+                 "name": "evento 4 UFC",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                "url": "https://abolishstand.net/embed/8g61vpl9j92h0kv",
                "referer" : "https://buzztv.futbol/",
              "isHost": "true"
 		      },{ 
-                 "name": "Evento 6 WWE",
+                 "name": "Evento 5 WWE",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                    "url": "http://sportsurge.stream/embed/wwe.php",
              "isHost":"true"  
 		     },{ 
-                 "name": "evento 7 Boxeo",
+                 "name": "evento 6 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                 	"url" :  "https://gameshdlive.net/new/ch30.php",
+                 	"url" :  "https://abolishstand.net/embed/dw4k0efjo1w",
+                         "referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
 	             },{ 
-                 "name": "evento 8 Boxeo",
+                 "name": "evento 7 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                   	 "url" :  "https://gameshdlive.net/new/ch31.php",
 			 "isHost":"true"
                       },{ 
-                 "name": "evento 9 Boxeo",
+                 "name": "evento 8 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                   "url": "http://sportsurge.stream/embed/boxing3.php",
+                   "url": "https://streamocean.online/sportsurge/b1.php",
               "isHost":"true"
                         },{ 
-                 "name": "evento 10 Boxeo",
+                 "name": "evento 9 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                    "url": "https://abolishstand.net/embed/ovekcqb6k6jerku",
                     "referer" : "https://elixx.xyz/",
@@ -574,7 +574,7 @@
                         },{ 
                  "name": "evento 11 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                   "url": "http://sportsurge.stream/embed/boxing5.php",
+                   "url": "https://streamocean.online/sportsurge/b2.php",
               "isHost":"true"
                        },{ 
                  "name": "Evento 12 WWE",
@@ -976,7 +976,7 @@
                           }, {
 			"name": "La Liga (opción 2)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-			  "url": "https://emb.apl296.me//player/live.php?id=210690&w=100%&h=100%",
+			  "url": "https://emb.apl299.me/player/live.php?id=207274&w=100%&h=100%",
             "isHost": "true"
                           }, {
 			"name": "La Liga (opción 3)",
@@ -1201,7 +1201,7 @@
                           }, {
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
-			      "url": "https://embx216559.apl296.me//player/live.php?id=216559&w=100%&h=100%",
+			      "url": "https://emb.apl299.me/player/live.php?id=207274&w=100%&h=100%",
              "isHost": "true"
                          }, {
                     "name": "DAZN Liga",
