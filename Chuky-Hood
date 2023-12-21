@@ -1036,8 +1036,14 @@
                       "url" : "https://acierms.com/panel/gen.php?playerid=0018",
                   "referer" : "https://fastreams.live/",
 			 "isHost":"true"
+                           }, {
+			"name": "La de España (opción 14)",
+			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                      "url" : "https://wwwstream.pro/embed/KRlwgfAbMLFo",
+                  "referer" : "https://kingstreamz.lol/",
+			 "isHost":"true"
                           }, {
-			"name": "La de España (Inglés) (opción 14)",
+			"name": "La de España (Inglés) (opción 15)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
 	        "url" : "https://abolishstand.net/embed/mey8j3",
                   "referer" : "https://elixx.xyz/",
