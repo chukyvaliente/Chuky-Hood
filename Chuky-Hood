@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 23-12-2023)",
+    "author": "chuky (Haz-tu-liada al 26-12-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,67 +19,67 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "New York Knicks 🏀 Milwaukee Bucks",
+			"name": "Brooklyn Nets 🏀 Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Los Angeles Clippers 🏀 Boston Celtics",
+                        "name": "Orlando Magic 🏀 Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Charlotte Hornets 🏀 Denver Nuggets",
+                        "name": "Atlanta Hawks 🏀 Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Indiana Pacers 🏀 Orlando Magic",
+                        "name": "Indiana Pacers 🏀 Houston Rockets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "New Orleans Pelicans 🏀 Houston Rockets",
+			"name": "Memphis Grizzlies 🏀 New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Atlanta Hawks 🏀 Memphis Grizzlies",
+			"name": "Minnesota Timberwolves 🏀 Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Brooklyn Nets 🏀 Detroit Pistons",
+                         "name": "Utah Jazz 🏀 San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Toronto Raptors 🏀 Utah Jazz",
+			"name": "Sacramento Kings 🏀 Portland Trail Blazers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Chicago Bulls 🏀 Cleveland Cavaliers",
+			"name": "Charlotte Hornets 🏀 LA Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Oklahoma City Thunder 🏀 Los Angeles Lakers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "Dallas Mavericks 🏀 San Antonio Spurs",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-11/",
 			"isHost": "true"
                }, {
-			"name": "Golden State Warriors 🏀 Portland Trail Blazers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-12/",
 			"isHost": "true"
                }, {
-			"name": "Sacramento Kings 🏀 Minnesota Timberwolves",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-13/",
 			"isHost": "true"
@@ -269,17 +269,17 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "",
+			"name": "Las Vegas Raiders 🏈 Kansas City Chiefs",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
                          }, {  
-                        "name": "",
+                        "name": "New York Giants 🏈 Philadelphia Eagles",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
                          }, {  
-                         "name": "",
+                         "name": "Baltimore Ravens 🏈 San Francisco 49ers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
@@ -1329,8 +1329,9 @@
                    },{ 
                 "name": "DAZN 3",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
-                                 "url":"https://assia24.com/live/mix-sport5/?lang=es",
-            "isHost" : "true"
+                                "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
 	           },{ 
                 "name": "DAZN 3",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
@@ -1339,7 +1340,7 @@
 	          },{ 
                  "name": "DAZN 4",
                     "image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
-                      "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
+                      "url": "https://vikistream.com/embed2.php?player=desktop&live=do19",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                  },{ 
@@ -1648,30 +1649,30 @@
 		"info": "",
 		"stations": [{
                         "name" : "stream",
-	                "name": "Wolverhampton 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea(DAZN 1)",
+	                "name": "Burnley 🏴 Liverpool(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 		 "url" :  "https://primefoot.ru/go/1/81",
 			 "isHost":"true"
                }, {
-			 "name": "Wolverhampton 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea(DAZN 1)",
+			 "name": "Burnley 🏴 Liverpool(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			   "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                         }, {
-			 "name": "Wolverhampton 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea(DAZN 1)",
+			 "name": "Manchester United 🏴 Aston Villa(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			                  "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=445",
               "referer" : "https://dlhd.sx/",
 			 "isHost":"true"
                       }, {
-			 "name": "(DAZN 1)",
+			 "name": "Manchester United 🏴 Aston Villa(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
-			 "name": "(DAZN 1)",
+			 "name": "Manchester United 🏴 Aston Villa(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			"url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
