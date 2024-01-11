@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 29-12-2023)",
+    "author": "chuky (Haz-tu-liada al 11-01-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -957,6 +957,62 @@
                      "url" :  "https://abolishstand.net/embed/j5eg9s",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
+		}]
+               },{       
+            "name": "Supercopa de España",
+            "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+            "info": "",
+            "stations": [{ 
+                 "name": "Opcion 1",
+                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+                      "url": "https://abolishstand.net/embed/6na79kdd",
+            "referer" : "https://1stream.buzz/",
+                 "isHost": "true"
+                     },{ 
+                 "name": "Opcion 2",
+                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+                      "url": "https://vikistream.com/embed2.php?player=desktop&live=do40",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+                    },{ 
+                 "name": "Opcion 3",
+                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+                      "url" : "https://emb.apl299.me//player/live.php?id=219106&w=100%&h=100%",
+			 "isHost":"true"
+                     },{ 
+                 "name": "Opcion 4",
+                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+                       "url" :  "https://wwwstream.pro/badir1/BXaQAanLKPZ",
+                "referer" : "https://soccerstream100.co/",
+			 "isHost":"true"
+                   },{ 
+                 "name": "Opcion 5",
+                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+                      "url" :  "https://abolishstand.net/embed/g16dv8bwe2pkg",
+		"referer" : "https://elixx.xyz/",
+			 "isHost":"true"
+                     },{ 
+                 "name": "Opcion 6",
+                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+                      "url" :  "https://mlb.mrgamingstreams.com/espnd.m3u8",
+		"userAgent" : ""
+                    },{ 
+                 "name": "Opcion 7",
+                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+                     "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+                     },{ 
+                 "name": "Opcion 8",
+                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+                       "url" :  "https://elegantpelican.dev/player/bff13df86f44fd27-c1f56212a0aa96d21d6dd8d0d711e8a8",
+			 "isHost":"true"
+                     },{ 
+                 "name": "Opcion 9",
+                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+                     "url": "https://candlesouth.net/embed/xdpq3ptcuts1qpp",
+               "referer" : "https://l1l1.to/",
+			 "isHost":"true" 
 		}]
                 }, {
 		"name": "LaLiga EA Sports",
