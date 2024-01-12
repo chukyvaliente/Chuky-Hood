@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 11-01-2024)",
+    "author": "chuky (Haz-tu-liada al 12-01-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1426,9 +1426,9 @@
 			 "url" : "https://upstream.to/zh7fy0c4avbo",
 			"isHost": "true" 
                            }, {
-          "name": "Manujaz MotoRSport",
+          "name": "Manujaz MotoRSport-IOS",
 			"image": "https://i.ibb.co/DCqJ7VP/indi.jpg",
-			  "url": "https://d3cn710hvh4gkt.cloudfront.net/out/v1/3f63f0d669ca4fe5ac8d6375258c9479/push14us_1.m3u8",
+			  "url": "https://vkvsd8.mycdn.me/hls/5823606884890.m3u8/sig/uKRStIV5F2s/expires/1705160743849/srcIp/37.14.46.15/urls/45.136.22.63/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/6800180063002/5823606884890_fullhd/index.m3u8",
                        "userAgent" : " " 
 			  }, {
           "name": "Manujaz MotoRSport F1 (iPhone)",
@@ -1441,14 +1441,14 @@
                      "url":" https://vkvsd43.mycdn.me/hls/5478361205274.m3u8/sig/u5aB36mLtyA/expires/1699281489230/srcIp/95.17.168.109/urls/45.136.20.37/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/6590506281754/5478361205274_fullhd/index.m3u8",
                                "userAgent" : " "
                              }, {
-          "name": "Manujaz MotoRSport WRC (Android)",
+          "name": "Manujaz MotoRSport Trophee ANDROS (Android)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-	"url":"https://vkvsd83.mycdn.me/hls/5531550943770.m3u8/sig/H2bSz9Ug-So/expires/1700253412104/srcIp/95.17.168.109/urls/45.136.21.45/clientType/14/srcAg/CHROME_ANDROID/mid/6623541406490/5531550943770_fullhd/index.m3u8",
+	"url":"https://vkvsd194.mycdn.me/hls/5823606884890.m3u8/sig/mmrT12F6qC8/srcIp/37.14.46.15/urls/185.226.52.52/expires/1705533480139/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6800180063002/id/5823606884890/5823606884890_fullhd/index.m3u8",
                            "userAgent" : " "
                                  }, {
-          "name": "Manujaz MotoRSport WRC (IOS)",
+          "name": "Manujaz MotoRSport Trophee ANDROS (IOS)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-			  "url": "https://vkvsd176.mycdn.me/hls/5531550943770.m3u8/sig/69iMv6Lp814/srcIp/95.17.168.109/urls/45.136.22.54/expires/1700626020149/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6623541406490/id/5531550943770/5531550943770_fullhd/index.m3u8",
+			  "url": "https://vkvsd8.mycdn.me/hls/5823606884890.m3u8/sig/uKRStIV5F2s/expires/1705160743849/srcIp/37.14.46.15/urls/45.136.22.63/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/6800180063002/5823606884890_fullhd/index.m3u8",
                            "userAgent" : " "
                        }, {
           "name": "M-F1.st",
