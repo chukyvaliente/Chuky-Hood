@@ -1013,6 +1013,16 @@
                      "url": "https://candlesouth.net/embed/xdpq3ptcuts1qpp",
                "referer" : "https://l1l1.to/",
 			 "isHost":"true" 
+                     },{ 
+                 "name": "Opcion Manjujaz ios",
+                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+                       "url" :  "https://vkvsd166.mycdn.me/hls/5834428385818.m3u8/sig/W_8EgTJPwME/srcIp/37.14.46.15/urls/45.136.21.84/expires/1705717290963/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6807085525786/id/5834428385818/5834428385818_fullhd/index.m3u8",
+			"userAgent" : " "
+                     },{ 
+                 "name": "Opcion Manujaz Android",
+                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+                     "url": "https://vkvsd194.mycdn.me/hls/5834428385818.m3u8/sig/jd7xfW7Gdkk/srcIp/37.14.46.15/urls/45.136.21.84/expires/1705716628370/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6807085525786/id/5834428385818/5834428385818_fullhd/index.m3u8",
+                      "userAgent" : " "
 		}]
                 }, {
 		"name": "LaLiga EA Sports",
