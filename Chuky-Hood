@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 14-01-2024)",
+    "author": "chuky (Haz-tu-liada al 16-01-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,42 +19,42 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Houston Rockets 🏀 Boston Celtics",
+			"name": "Denver Nuggets 🏀 Philadelphia 76ers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Washington Wizards 🏀 Atlanta Hawks",
+                        "name": "Sacramento Kings 🏀 Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "New York Knicks 🏀 Memphis Grizzlies",
+                        "name": "Oklahoma City Thunder 🏀 LA Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Golden State Warriors 🏀 Milwaukee Bucks",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Orlando Magic 🏀 Oklahoma City Thunder",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "New Orleans Pelicans 🏀 Dallas Mavericks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Chicago Bulls 🏀 San Antonio Spurs",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Los Angeles Lakers 🏀 Utah Jazz",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
@@ -269,12 +269,12 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "",
+			"name": "Pittsburgh Steelers 🏈 Buffalo Bills",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
                          }, {  
-                        "name": "",
+                        "name": "Philadelphia Eagles 🏈 Tampa Bay Buccaneers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
@@ -344,42 +344,42 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "",
+                        "name": "Colorado 🏒 Ottawa",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Seattle 🏒 New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Anaheim 🏒 Washington",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Los Angeles 🏒 Dallas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "New York 🏒 Winnipeg",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "San Jose 🏒 Chicago",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Arizona 🏒 Calgary",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Toronto 🏒 Edmonton",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
@@ -805,97 +805,61 @@
 		"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 		"info": "",
 		"stations": [{
-			"name": "",
+			"name": "Getafe vs Sevilla",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-           	         "url": "https://emb.apl296.me//player/live.php?id=212823&w=100%&h=100%",
+           	         "url": "https://emb.apl306.me//player/live.php?id=218919&w=100%&h=100%",
              "isHost": "true"
                        }, { 
                         "name": "campeones 2",
-			"name": "",
+			"name": "Getafe vs Sevilla",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
            	       	 "url" :  "https://abolishstand.net/embed/cmms5rk1",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                        }, {
                         "name" : "Campeones",
-			"name": "",
+			"name": "Getafe vs Sevilla",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-		      	"url" :  "https://emb.apl296.me/player/live.php?id=210977&w=100%&h=100%",
-			 "isHost":"true"
+		      	"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do20",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
                      }, {
-			"name": "",
+			"name": "Athletic Club vs Deportivo Alaves",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do30",
+	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                        }, {
-			"name": "",
+			"name": "Athletic Club vs Deportivo Alaves",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+	         "url" :  "https://linenstandard.net/embed/i1d46q",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                        }, {
-                        "name" : "TVG2", 
-			"name": "",
+                        "name" : "Campeones", 
+			"name": "Athletic Club vs Deportivo Alaves",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "https://newtvassia.com/live/superliga/?lang=en",
+	          "url": "https://embx218943.apl306.me//player/live.php?id=218943&w=100%&h=100%",
             "isHost":"true"
                        }, {
-                         "name" : "",
-			"name": "",
+                         "name" : "Campeones 3",
+			"name": "Tenerife vs Mallorca",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	        "url" :  "https://abolishstand.net/embed/xfkc2i",
-		"referer" : "https://1stream.buzz/",
+	        "url" :  "https://embx219352.apl306.me//player/live.php?id=219352&w=100%&h=100%",
 			 "isHost":"true"
                        }, {
                         "name" : "campeones-3",
-			"name": "",
+			"name": "Tenerife vs Mallorca",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 	          "url" :  "https://abolishstand.net/embed/gagr8b",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                          }, {
-			"name": "",
+			"name": "Tenerife vs Mallorca",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
+	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do21",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
-                         }, {
-                        "name": "",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "https://www.rtve.es/directo/teledeporte/",
-			"isHost": "true"
-                       }, {
-                        "name": "campeones",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-           			       "url": "https://abolishstand.net/embed/6na79kddf",
-			"referer": "https://1stream.buzz/",
-             "isHost": "true"
-                         }, {
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url": "https://www.rtve.es/directo/teledeporte/",
-			"isHost": "true"
-                         }, {
-                        "name": "Aragón",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url" :  "https://cartv.streaming.aranova.es:443/hls/live/aragontv_canal1.m3u8",
-			 "usrAgent":""
-                         }, {
-                         "name": "Galicia",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
-             "userAgent": ""
-                         }, {
-                        "name": "CMM",
-			"name": "",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-		      	"url" :  "https://cdnapi.kaltura.com:443/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8",
-			 "userAgent":""
                      }]
                   },{       
             "name": "Campinos League Femenina",
@@ -959,70 +923,50 @@
 			 "isHost":"true"
 		}]
                },{       
-            "name": "Supercopa de España",
-            "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
+            "name": "Copa de Afica",
+            "image": "https://www.shutterstock.com/image-vector/rawat-islambad-7-december-2023-600nw-2397676331.jpg",
             "info": "",
             "stations": [{ 
                  "name": "Opcion 1",
-                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
-                      "url": "https://abolishstand.net/embed/6na79kddf",
-            "referer" : "https://1stream.buzz/",
+                    "image": "https://www.shutterstock.com/image-vector/rawat-islambad-7-december-2023-600nw-2397676331.jpg",
+                      "url": "https://embx219353.apl306.me//player/live.php?id=219353&w=100%&h=100%",
                  "isHost": "true"
                      },{ 
                  "name": "Opcion 2",
-                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
-                     "url": "https://goca4u.com/embed.php?player=desktop&live=do10",
+                    "image": "https://www.shutterstock.com/image-vector/rawat-islambad-7-december-2023-600nw-2397676331.jpg",
+                     "url": "https://goca4u.com/embed.php?player=desktop&live=do22",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
                     },{ 
                  "name": "Opcion 3",
-                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
-                      "url" : "https://embx218945.apl306.me/player/live.php?id=218945&w=100%&h=100%",
+                    "image": "https://www.shutterstock.com/image-vector/rawat-islambad-7-december-2023-600nw-2397676331.jpg",
+                      "url" : "https://mylivestream.pro/aliezs.php?stream=U5B3B2IfaIDf",
+                       "referer" : "https://aliezstream1.pro/",
 			 "isHost":"true"
                      },{ 
                  "name": "Opcion 4",
-                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
-                       "url" :  "https://wwwstream.pro/badir1/BXaQAanLKPZ",
-                "referer" : "https://soccerstream100.co/",
+                    "image": "https://www.shutterstock.com/image-vector/rawat-islambad-7-december-2023-600nw-2397676331.jpg",
+                       "url" :  "https://abolishstand.net/embed/mey8j3",
+                "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                    },{ 
                  "name": "Opcion 5",
-                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
-                      "url" :  "https://abolishstand.net/embed/g16dv8bwe2pkg",
+                    "image": "https://www.shutterstock.com/image-vector/rawat-islambad-7-december-2023-600nw-2397676331.jpg",
+                      "url" :  "https://abolishstand.net/embed/ejj6a0rybyyp",
 		"referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                      },{ 
                  "name": "Opcion 6",
-                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
-                      "url" :  "https://vid.playuct1.com/erghedh4gdfhg4",
-		 "isHost":"true"
+                    "image": "https://www.shutterstock.com/image-vector/rawat-islambad-7-december-2023-600nw-2397676331.jpg",
+                      "url" :  "https://linenstandard.net/embed/8g61vpl9j92h0kv",
+		 "referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
                     },{ 
                  "name": "Opcion 7",
-                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
-                     "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+                    "image": "https://www.shutterstock.com/image-vector/rawat-islambad-7-december-2023-600nw-2397676331.jpg",
+                     "url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
-                     },{ 
-                 "name": "Opcion 8",
-                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
-                       "url" :  "https://elegantpelican.dev/player/bff13df86f44fd27-c1f56212a0aa96d21d6dd8d0d711e8a8",
-			 "isHost":"true"
-                     },{ 
-                 "name": "Opcion 9",
-                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
-                     "url": "https://candlesouth.net/embed/xdpq3ptcuts1qpp",
-               "referer" : "https://l1l1.to/",
-			 "isHost":"true" 
-                     },{ 
-                 "name": "Opcion Manjujaz ios",
-                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
-                       "url" :  "https://vkvsd166.mycdn.me/hls/5834428385818.m3u8/sig/W_8EgTJPwME/srcIp/37.14.46.15/urls/45.136.21.84/expires/1705717290963/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6807085525786/id/5834428385818/5834428385818_fullhd/index.m3u8",
-			"userAgent" : " "
-                     },{ 
-                 "name": "Opcion Manujaz Android",
-                    "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/supercopa-de-espana.jpg",
-                     "url": "https://vkvsd194.mycdn.me/hls/5834428385818.m3u8/sig/jd7xfW7Gdkk/srcIp/37.14.46.15/urls/45.136.21.84/expires/1705716628370/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6807085525786/id/5834428385818/5834428385818_fullhd/index.m3u8",
-                      "userAgent" : " "
 		}]
                 }, {
 		"name": "LaLiga EA Sports",
