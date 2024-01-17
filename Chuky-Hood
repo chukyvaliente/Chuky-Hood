@@ -2201,8 +2201,9 @@
 		}, {
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			     "url": "https://ltinversionistas.com/jactv/daznf1.php",
-             "isHost": "true"  
+			      "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=537",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true" 
                  }, {
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -2308,8 +2309,15 @@
                       },{
                     "name": "Bein Sport Ñ",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",
-                  "url": "https://primefoot.ru/go/1/101",  
-					"isHost":"true"
+                  "url" :  "https://abolishstand.net/embed/onfsmh",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
+                                        }, {
+			"name": "Telemundo",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/800px-Telemundo_logo_2012.svg.png",
+                "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=131",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"  
                       },{
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
