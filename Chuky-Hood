@@ -2106,11 +2106,6 @@
 		"stations": [{
                    "name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
-              			 "url" : "https://embx218066.apl306.me/player/live.php?id=218066&w=100%&h=100%",
-			"isHost":"true" 
-           }, {
-                   "name": "M-Vamos",
-			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
               			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=521",
               "referer" : "https://dlhd.sx/",
 			 "isHost":"true"
@@ -2135,8 +2130,9 @@
                      }, {
 			"name": "M-Campeones",
             "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png", 
-	 "url": "https://viwlivehdplay.ru/maxsport.php?id=primamovistarcampeones",
-			"isHost" : "true"
+	"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=435",
+              "referer" : "https://dlhd.sx/",
+			 "isHost":"true"
         }, {
 			"name": "M-Campeones",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
@@ -2162,8 +2158,8 @@
          }, {
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
-			 "url" :  "https://wwwstream.pro/embed/kKxfgnAjIedO",
-                         "referer" : "https://wizospor.monster/",
+			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=436",
+              "referer" : "https://dlhd.sx/",
 			 "isHost":"true"
 			  }, {  
 			"name": "M-Deportes",
@@ -2171,11 +2167,6 @@
 	       			     "url" :  "https://abolishstand.net/embed/89ftq8ua1j5lr",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
-        }, {
-			"name": "M-Deportes",
-			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
-			"url": "https://ltinversionistas.com/jactv/mdeportesesp.php",
-             "isHost": "true"  
                     }, {
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
@@ -2213,7 +2204,7 @@
         }, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-         "url": "https://lovesomecommunity.com/deportivo.php?player=desktop&live=3U27L",
+         "url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=3U27L",
                          "referer" : "https://www.freeshot.live/",
 			  "isHost": "true"
 		}, {
