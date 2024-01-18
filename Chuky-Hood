@@ -851,8 +851,8 @@
                         "name" : "campeones-3",
 			"name": "Girona vs Rayo Vallecano",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	       "url": "https://www.rtve.es/directo/teledeporte/",
-			"isHost": "true"
+	       "url": "https://rtvelivestream.akamaized.net/rtvesec/oca/irtve18_main_1080.m3u8",
+			"userAgent": ""
                          }, {
 			"name": "Girona vs Rayo Vallecano",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
