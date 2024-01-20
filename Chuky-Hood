@@ -1138,7 +1138,7 @@
 	         "name": "Opción 1(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                "url": "http://flbl1.112421.net:8082/323634/mpegts?token=0C0313859D21980E031584CA319B8B57",
-                  "isHost": "true"
+                "userAgent":"" 
                 },{ 
                       "name": "Opción 2(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
@@ -1228,7 +1228,7 @@
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
 		"url" :  "http://flbl1.112421.net:8082/3575728/mpegts?token=0C0313859D21980E031584CA319B8B57",
-			 "isHost":"true"  
+			 "userAgent":""  
                           }, {
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
