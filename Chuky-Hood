@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 17-01-2024)",
+    "author": "chuky (Haz-tu-liada al 23-01-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,52 +19,52 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Minnesota Timberwolves 🏀 Detroit Pistons",
+			"name": "Denver Nuggets 🏀 Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Orlando Magic 🏀 Atlanta Hawks",
+                        "name": "New York Knicks 🏀 Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "San Antonio Spurs 🏀 Boston Celtics",
+                        "name": "Utah Jazz 🏀 New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Milwaukee Bucks 🏀 Cleveland Cavaliers",
+                        "name": "Portland Trail Blazers 🏀 Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Houston Rockets 🏀 New York Knicks",
+			"name": "Los Angeles Lakers 🏀 LA Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Miami Heat 🏀 Toronto Raptors",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Charlotte Hornets 🏀 New Orleans Pelicans",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Dallas Mavericks 🏀 Los Angeles Lakers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Golden State Warriors 🏀 Utah",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Brooklyn Nets 🏀 Portland Trail Blazers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
@@ -269,12 +269,12 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "Pittsburgh Steelers 🏈 Buffalo Bills",
+			"name": "Tampa Bay Buccaneers 🏈 Detroit Lions",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
                          }, {  
-                        "name": "Philadelphia Eagles 🏈 Tampa Bay Buccaneers",
+                        "name": "Kansas City Chiefs 🏈 Buffalo Bills",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
@@ -344,47 +344,47 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Detroit 🏒 Florida",
+                        "name": "Ottawa 🏒 Montreal",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Montreal 🏒 New Jersey",
+                        "name": "Dallas 🏒 Detroit",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Chicago 🏒 Buffalo",
+			"name": "Tampa Bay 🏒 Philadelphia",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Vegas 🏒 New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Washington 🏒 Minnesota",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "St. Louis 🏒 Calgary",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Columbus 🏒 Edmonton",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Buffalo 🏒 Anaheim",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "New York @ San Jose",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-9/",
 			"isHost": "true"
@@ -429,7 +429,7 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-                        "name": "",
+                        "name": "Rangers ⚾ Diamondbacks",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
@@ -805,60 +805,35 @@
 		"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Osasuna vs Real Sociedad",
+			"name": "Celta de Vigo vs Real Sociedad",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-           	         "url": "https://emb.apl306.me//player/live.php?id=218919&w=100%&h=100%",
-             "isHost": "true"
+           	         "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8",
+             "userAgent": ""
                        }, { 
                         "name": "campeones 2",
-			"name": "Osasuna vs Real Sociedad",
+			"name": "Celta de Vigo vs Real Sociedad",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-           	       	 "url" :  "https://abolishstand.net/embed/cmms5rk1",
+           	       	 "url" :  "https://linenstandard.net/embed/dvuf5ydd4",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
-                       }, {
-                        "name" : "Campeones",
-			"name": "Osasuna vs Real Sociedad",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-		      	"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do20",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
                      }, {
-			"name": "Valencia vs Celta de Vigo",
+			"name": "Celta de Vigo vs Real Sociedad",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                        }, {
-			"name": "Valencia vs Celta de Vigo",
+			"name": "Celta de Vigo vs Real Sociedad",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url" :  "https://abolishstand.net/embed/gagr8b",
-		"referer" : "https://1stream.buzz/",
+	          "url" :  "https://abolishstand.net/embed/g16dv8bwe2pkg",
+		"referer" : "https://https://elixx.xyz/",
 			 "isHost":"true"
                        }, {
                         "name" : "Campeones", 
-			"name": "Valencia vs Celta de Vigo",
+			"name": "Celta de Vigo vs Real Sociedad",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "  https://emb.apl306.me//player/live.php?id=218943&w=100%&h=100% ",
+	          "url": "https://tv.playuct1.com/erghedh4gdfhg4",
             "isHost":"true"
-                       }, {
-                         "name" : "Campeones 3",
-			"name": "Girona vs Rayo Vallecano",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	        "url" :  "https://embx218945.apl306.me/player/live.php?id=218945&w=100%&h=100%",
-			 "isHost":"true"
-                       }, {
-                        "name" : "campeones-3",
-			"name": "Girona vs Rayo Vallecano",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	       "url": "https://rtvelivestream.akamaized.net/rtvesec/oca/irtve18_main_1080.m3u8",
-			"userAgent": ""
-                         }, {
-			"name": "Girona vs Rayo Vallecano",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do21",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
                      }]
                   },{       
             "name": "Campinos League Femenina",
