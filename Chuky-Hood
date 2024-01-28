@@ -2259,8 +2259,8 @@
                          "name": "Galicia",
 			"name": "TV Galicia 2",
 			"image": "https://static.wikia.nocookie.net/logopedia/images/1/11/G2_logo.png",
-	         "url": "https://live.playuct1.com/bff3gbgfff",
-            "isHost":"true"
+	         "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
+            "userAgent":""
                          }, {
                         "name": "CMM",
 			"name": "CMM",
