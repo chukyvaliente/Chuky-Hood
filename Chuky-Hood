@@ -1,6 +1,7 @@
 {
 	"name": "ChukyHood",
     "author": "chuky (Haz-tu-liada al 08-02-2024)",
+    "author": "chuky (Haz-tu-liada al 28-01-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1257,13 +1258,13 @@
                              }, {
           "name": "Manujaz MotoRSport Rally de Montecarlo (Android)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-	"url":"https://vkvsd37.mycdn.me/hls/5884062403098.m3u8/sig/adLoKPs-4fs/srcIp/37.14.45.69/urls/185.226.52.52/expires/1706652417685/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6837644438298/id/5884062403098/5884062403098_fullhd/index.m3u8",
-                      "userAgent" : " "
+	"url":"https://vkvsd22.mycdn.me/hls/5895815432730.m3u8/sig/MpfSEKNkoQ8/srcIp/37.14.45.69/urls/185.226.53.64/expires/1706880014897/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6844750899994/id/5895815432730/5895815432730_fullhd/index.m3u8",
+                 "userAgent" : " "
                                  }, {
           "name": "Manujaz MotoRSport Rally de Montecarlo (IOS)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-			  "url": "https://vkvsd8.mycdn.me/hls/5884062403098.m3u8/sig/qoc0ZTraNQI/srcIp/37.14.45.69/urls/45.136.21.65/expires/1706652354593/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6837644438298/id/5884062403098/5884062403098_fullhd/index.m3u8",
-                          "userAgent" : " "
+			  "url": " https://vkvsd51.mycdn.me/hls/5895815432730.m3u8/sig/5GElM8k1Ons/srcIp/37.14.45.69/urls/45.136.22.58/expires/1706879962452/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6844750899994/id/5895815432730/5895815432730_fullhd/index.m3u8",
+                       "userAgent" : " "
                        }, {
           "name": "M-F1.st",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -2151,8 +2152,8 @@
                          "name": "Galicia",
 			"name": "TV Galicia 2",
 			"image": "https://static.wikia.nocookie.net/logopedia/images/1/11/G2_logo.png",
-	         "url": "https://live.playuct1.com/bff3gbgfff",
-            "isHost":"true"
+	         "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
+            "userAgent":""
                          }, {
 			"name": "CMM",
 			"image": "https://www.sanchezgarridoabogados.com/wp-content/uploads/2022/09/Logo-CMM-1.jpg",
