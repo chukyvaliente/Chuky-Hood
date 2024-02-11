@@ -269,7 +269,12 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "Pro Bowl Games NFC 🏈 AFC",
+			"name": "San Francisco 49ers vs Kansas City Chiefs(By Manujaz)",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "https://d10eorumvhiuus.cloudfront.net/out/v1/45ef15fff8fc4c3ebb5c0914916ed928/index_2.m3u8?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkaXN0cmlidXRpb24iOiI0NWVmMTVmZmY4ZmM0YzNlYmI1YzA5MTQ5MTZlZDkyOCIsImlzcyI6Imh0dHBzOi8vbGF4YXJ4YW1lcy5jb20iLCJhdWQiOiJodHRwczovL2xheGFyeGFtZXMuY29tIiwidGltZUJhc2UiOm51bGwsInRpbWVGcmFtZXMiOltdLCJleHAiOjE3MDc3MDg0OTkwMDAsImlhdCI6MTcwNzYxMTI5OTAwMCwibmJmIjoxNzA3NjExMjk0MDAwfQ.7xHwqyVA-rIqyBKMNb4G4EwpXFxVtoceICGulQRKYbU&hash=c-6314325491112&_t=1704883596",
+			"userAgent": ""
+                         }, {  
+			"name": "San Francisco 49ers vs Kansas City Chiefs",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
