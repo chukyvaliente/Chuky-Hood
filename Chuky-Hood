@@ -2368,13 +2368,13 @@
 			 "isHost": "true"
                       }]
 			}, {
-		"name": "Calvo-Sport(By Tiri)",
+		"name": "Calvo-Sport(By-Tiri)",
 		"image": "https://i.ibb.co/16pnWVV/calvo.jpg",
 		"info": "",
 		"stations": [{
                            "name": "Calvo-Sport",
 			 "image": "https://i.ibb.co/16pnWVV/calvo.jpg",
-                 "url": "https://raw.githubusercontent.com/ChukyHood/calvo/main/calvo#.m3u",
+                 "url": "https://raw.githubusercontent.com/ChukyHood/calvo/main/calvo",
                         "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
                     "import":"false"
 		}]
