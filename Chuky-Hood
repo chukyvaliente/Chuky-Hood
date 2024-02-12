@@ -2366,6 +2366,17 @@
                  "url": "https://wwwstream.pro/badir1/hIER0xdlRlY",
                "referer" : "https://soccerstream100.co/",
 			 "isHost": "true"
+                      }]
+			}, {
+		"name": "Calvo-Sport",
+		"image": "https://i.ibb.co/16pnWVV/calvo.jpg",
+		"info": "",
+		"stations": [{
+                           "name": "Calvo-Sport",
+			 "image": "https://i.ibb.co/16pnWVV/calvo.jpg",
+                 "url": "https://raw.githubusercontent.com/ChukyHood/calvo/main/calvo#.m3u",
+                        "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+                    "import":"false"
 		}]
              }] 
 }
