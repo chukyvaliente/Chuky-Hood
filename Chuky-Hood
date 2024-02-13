@@ -659,9 +659,10 @@
 		"stations": [{
 			"name": "RB Leipzig vs Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           	         "url": "https://emb.apl316.me//player/live.php?id=218943&w=100%&h=100%",
-             "isHost": "true"
-                       }, { 
+	          	"url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+                           }, {
                         "name": "campeones",
 			"name": "RB Leipzig vs Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
@@ -679,12 +680,6 @@
             "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 	"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=435",
               "referer" : "https://dlhd.sx/",
-			 "isHost":"true"
-                        }, {
-			"name": "RB Leipzig vs Real Madrid",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	          	"url" :  "https://abolishstand.net/embed/dvuf5ydd4",
-		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                        }, {
 			"name": "Copenhagen vs Manchester City",
