@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 16-02-2024)",
+    "author": "chuky (Haz-tu-liada al 17-02-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,7 +19,7 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "NBA Rising Stars Challenge",
+			"name": "West NBA All Stars vs West East NBA All Stars East",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
@@ -344,67 +344,67 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Carolina Carolina 🏒 Arizona Arizona",
+                        "name": "Los Angeles 🏒 Boston",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Edmonton 🏒 Dallas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Ottawa 🏒 Chicago",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Detroit 🏒 Calgary",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Florida 🏒 Tampa Bay",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Nashville 🏒 St. Louis",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Buffalo 🏒 Minnesota",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Anaheim 🏒 Toronto",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Washington 🏒 Montreal",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-9/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Philadelphia 🏒 New Jersey",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-10/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Winnipeg 🏒 Vancouver",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-11/",
 			"isHost": "true"
                  }, {
-			"name": "",
+			"name": "Carolina 🏒 Vegas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-12/",
 			"isHost": "true"  
 			}, {
-			"name": "",
+			"name": "Columbus 🏒 San Jose",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-13/",
 			"isHost": "true" 
@@ -518,6 +518,49 @@
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-18/",
 			"isHost": "true"
+		}]
+                       },{       
+            "name": "UFC 298: Volkanovski vs Topuria",
+            "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
+            "info": "",
+            "stations": [{
+                 "name": "Volkanovski vs Topuria",
+                    "image": "https://i.ibb.co/r4YSd7w/ufc-manu.jpg",
+                 "url": "https://markkystreams.com/video/boxing-1/",
+             "userAgent": ""
+                    },{
+                 "name": "Volkanovski vs Topuria",
+                    "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
+               "url": "https://markkystreams.com/video/mma/",
+             "isHost": "true"
+                    },{
+                     "name": "Volkanovski vs Topuria",
+                    "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
+                   "url" :  "https://abolishstand.net/embed/sc44nn",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"  
+                    },{ 
+                 "name": "Volkanovski vs Topuria",
+                    "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
+                  	 "url" :  "https://markkystreams.com/video/ufc/",
+			 "isHost":"true"
+                        },{
+                 "name": "Volkanovski vs Topuria",
+                    "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
+               "url": "https://linenstandard.net/embed/fyg9m",
+               "referer" : "https://buzztv.futbol/",
+             "isHost": "true"
+		      },{ 
+                 "name": "Volkanovski vs Topuria",
+                    "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
+                   "url": "https://sportsurge.stream/embed/ufc.php",
+             "isHost":"true"  
+		     },{ 
+                 "name": "Volkanovski vs Topuria",
+                    "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
+                 	"url" :  "https://linenstandard.net/embed/60qh7fce",
+                         "referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
 		}]
 		 	},{       
             "name": "Boxeo, UFC, MMA, WWE",
@@ -1003,9 +1046,9 @@
                          }, {
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
-			 "url": "https://emb.apl301.me//player/live.php?id=216559&w=100%&h=100%",
-                         "referer" : "https://aliezstream1.pro/",
-			"isHost" : "true" 
+			 "url" :  "https://abolishstand.net/embed/zbz7klq",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
                          }, {
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
@@ -1015,8 +1058,8 @@
                           }, {
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
-			     "url" : "https://wwwstream.pro/embed/0Jh5TMBIVlm",
-			     "referer" :  "https://kingstreamz.lol/",
+			      "url" : "https://ntv.tutvlive.site/canaltv.php?ch=https://tvfutbol.info/player/2/80",
+			     "referer" :  "https://www.tarjetarojatv.site/",
 			 "isHost":"true"
                          }, {
                     "name": "DAZN Liga 2",
@@ -2112,8 +2155,9 @@
                 },{
                     "name": "ESPN Premium",
                     "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt2a480c7d2a11f574/648b8b42318e1c7ce6940d8a/ESPN_Premium_Dark.jpg",
-                  			     "url" :  "https://primefoot.ru/go/1/110",
-			 "isHost":"true"  
+                   "url" :  "https://abolishstand.net/embed/sc44nn",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true" 
 		}, {
 			"name": "Fox Sport 1",
 			"image": "https://i.pinimg.com/originals/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg",
