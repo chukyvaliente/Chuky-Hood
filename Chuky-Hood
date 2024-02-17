@@ -533,6 +533,12 @@
                     "image": "https://i.ibb.co/r4YSd7w/ufc-manu.jpg",
                  "url": "https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/GlQ3QOTCtjg/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667463303/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8",
              "userAgent": ""
+                     },{
+                 "name": "Volkanovski vs Topuria",
+                    "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
+             "url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
+               "referer" : "https://elixx.xyz/",
+			 "isHost":"true"
                     },{
                  "name": "Volkanovski vs Topuria",
                     "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
@@ -552,7 +558,7 @@
                         },{
                  "name": "Volkanovski vs Topuria",
                     "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
-               "url": "https://linenstandard.net/embed/fyg9m",
+               "url": "https://abolishstand.net/embed/dvuf5ydd4",
                "referer" : "https://buzztv.futbol/",
              "isHost": "true"
 		      },{ 
