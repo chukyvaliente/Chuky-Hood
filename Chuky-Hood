@@ -524,9 +524,14 @@
             "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
             "info": "",
             "stations": [{
-                 "name": "Volkanovski vs Topuria",
+                    "name": "Volkanovski vs Topuria[By Manujaz IOS]",
                     "image": "https://i.ibb.co/r4YSd7w/ufc-manu.jpg",
-                 "url": "https://markkystreams.com/video/boxing-1/",
+                 "url": "https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/cQ70Fv_IxxE/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667617912/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8",
+             "userAgent": ""
+                    },{
+                 "name": "Volkanovski vs Topuria[By Manujaz ANDROID]",
+                    "image": "https://i.ibb.co/r4YSd7w/ufc-manu.jpg",
+                 "url": "https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/GlQ3QOTCtjg/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667463303/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8",
              "userAgent": ""
                     },{
                  "name": "Volkanovski vs Topuria",
