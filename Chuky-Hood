@@ -572,6 +572,18 @@
                  	"url" :  "https://linenstandard.net/embed/60qh7fce",
                          "referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
+                      }, {
+			"name": "Volkanovski vs Topuria [By Jordi-Latino]",
+                    "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
+                  "url" : "https://lovesomecommunity.com/embed.php?player=desktop&live=streamqatar",
+                     "referer" : "https://tvv.goluchas.com/",
+			"isHost":"true" 
+                   }, {
+			"name": "Volkanovski vs Topuria [By Jordi-Latino]",
+                    "image": "https://i.ibb.co/JRdJQyH/tupuria.jpg",
+                  "url" : "https://unanimousconsider.net/embed/xynvcvv",
+                     "referer" : "https://tv.goluchas.com/",
+			"isHost":"true" 
 		}]
 		 	},{       
             "name": "Boxeo, UFC, MMA, WWE",
