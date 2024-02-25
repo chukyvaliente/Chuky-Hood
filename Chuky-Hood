@@ -518,7 +518,8 @@
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-18/",
 			"isHost": "true"
-		}]    
+		}]  
+                    },{  
             "name": "Boxeo, UFC, MMA, WWE",
             "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
             "info": "",
