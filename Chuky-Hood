@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 25-02-2024)",
+    "author": "chuky (Haz-tu-liada al 26-02-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,37 +19,37 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Milwaukee Bucks vs Philadelphia",
+			"name": "Toronto Raptors 🏀 Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Los Angeles Lakers vs Phoenix Suns",
+                        "name": "Detroit Pistons 🏀 New York Knicks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Dallas Mavericks vs Indiana Pacers",
+                        "name": "Brooklyn Nets 🏀 Memphis Grizzlies",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Cleveland Cavaliers vs Washington Wizards",
+                        "name": "Miami Heat 🏀 Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Orlando Magic vs Atlanta Hawks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Oklahoma City Thunder vs Houston Rockets",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Chicago Bulls vs New Orleans Pelicans",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
@@ -59,17 +59,17 @@
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "San Antonio Spurs vs Utah Jazz",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Charlotte Hornets vs Portland Trail Blazers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "Sacramento Kings vs LA Clippers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-11/",
 			"isHost": "true"
@@ -344,37 +344,37 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Tampa Bay @ New Jersey",
+                        "name": "Ottawa 🏒 Washington",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Philadelphia @ Pittsburgh",
+                        "name": "New York 🏒 Dallas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Carolina @ Buffalo",
+			"name": "Los Angeles 🏒 Edmonton",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "New York @ Columbus",
+			"name": "Boston 🏒 Seattle",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Detroit @ Chicago",
+                         "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Arizona @ Winnipeg",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "Nashville @ Anaheim",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
@@ -429,87 +429,87 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-                        "name": "Orioles @ Pirates",
+                        "name": "Orioles ⚾ Braves",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Blue Jays @ Yankees",
+			"name": "Astros ⚾ Tigers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Red Sox @ Braves",
+			"name": "Twins ⚾ Yankees",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Tigers @ Rays",
+                         "name": "Mets ⚾ Nationals",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Twins @ Red Sox",
+			"name": "Phillies ⚾ Red Sox",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Yankees @ Phillies",
+			"name": "Rays ⚾ Orioles",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Cardinals @ Astros",
+			"name": "Pirates ⚾ Blue Jays",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Astros @ Mets",
+			"name": "Cardinals ⚾ Marlins",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Nationals @ Marlins",
+			"name": "Rangers ⚾ White Sox",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Giants @ Rangers",
+			"name": "Mariners ⚾ Reds",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Angels @ Reds",
+			"name": "Cubs ⚾ Royals",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Athletics @ Dodgers",
+			"name": "Diamondbacks ⚾ Athletics",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Padres @ Cubs",
+			  "name": "Angels ⚾ Giants",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Royals @ Angels",
+			  "name": "Dodgers ⚾ Rockies",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "Rockies @ Brewers",
+			  "name": "Guardians ⚾ Padres",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
                                 }, {  
-                            "name": "Guardians @ Mariners",
+                            "name": "Reds ⚾ Brewers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-16/",
 			"isHost": "true"
                               }, { 
-			  "name": "White Sox @ Diamondbacks",
+			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-17/",
 			"isHost": "true"
