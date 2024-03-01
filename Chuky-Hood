@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 28-02-2024)",
+    "author": "chuky (Haz-tu-liada al 01-03-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,47 +19,47 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "New Orleans Pelicans 🏀 Indiana Pacers",
+			"name": "Cleveland Cavaliers 🏀 Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Dallas Mavericks 🏀 Toronto Raptors",
+                        "name": "Charlotte Hornets 🏀 Philadelphia 76ers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Memphis Grizzlies 🏀 Minnesota Timberwolves",
+                        "name": "Dallas Mavericks 🏀 Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Cleveland Cavaliers 🏀 Chicago Bulls",
+                        "name": "Golden State Warriors 🏀 Toronto Raptors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Sacramento Kings 🏀 Denver Nuggets",
+			"name": "Portland Trail Blazers 🏀 Memphis Grizzlies",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Los Angeles Lakers 🏀 LA Clippers",
+			"name": "Sacramento Kings 🏀 Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Indiana Pacers 🏀 New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Milwaukee Bucks 🏀 Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Washington Wizards 🏀 LA Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
@@ -344,17 +344,17 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Columbus 🏒 New York",
+                        "name": "Arizona 🏒 Ottawa",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "St. Louis 🏒 Edmonton",
+                        "name": "Philadelphia 🏒 Washington",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "New Jersey 🏒 Anaheim",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
@@ -429,82 +429,82 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-                        "name": "Braves ⚾ Phillies",
+                        "name": "Mets ⚾ Cardinals",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Orioles ⚾ Twins",
+			"name": "Phillies ⚾ Tigers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Red Sox ⚾ Nationals",
+			"name": "Rays ⚾ Pirates",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Tigers ⚾ Pirates",
+                         "name": "Marlins ⚾ Phillies",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Rays ⚾ Blue Jays",
+			"name": "Astros ⚾ Nationals",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Astros ⚾ Marlins",
+			"name": "Red Sox ⚾ Twins",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Cardinals ⚾ Mets",
+			"name": "Orioles ⚾ Braves",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Giants ⚾ Athletics",
+			"name": "Rangers ⚾ Giants",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Padres ⚾ White Sox",
+			"name": "Athletics ⚾ Royals",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Dodgers ⚾ Rangers",
+			"name": "White Sox ⚾ Cubs",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Diamondbacks ⚾ Guardians",
+			"name": "Mariners ⚾ Rockies",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Angels ⚾ Rockies",
+			"name": "Padres ⚾ Brewers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Royals ⚾ Mariners",
+			  "name": "Angels ⚾ Padres",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Cubs ⚾ Brewers",
+			  "name": "Blue Jays ⚾ Yankees",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "",
+			  "name": "Diamondbacks ⚾ Reds",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
                                 }, {  
-                            "name": "",
+                            "name": "Guardians ⚾ Dodgers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-16/",
 			"isHost": "true"
@@ -776,18 +776,18 @@
                           }, {
 			"name": "La Liga (opción 3)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-		        "url": "https://virazo.sx/ch40",
+                        "url" : "https://godzcast.com/embed2.php?player=desktop&live=do40",
+		        "referer": "https://virazo.sx",
 			"isHost" : "true"
                           }, {
 			"name": "La Liga (opción 4)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-			 "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=84",
-              "referer" : "https://1.dlhd.sx/",
+			 "url" : "https://1.dlhd.sx/cast/stream-84.php",
 			 "isHost":"true"
                           }, {
 			"name": "La Liga (opción 5)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-			 "url": "https://new.star1.live/fgvsg556hcfgnh",
+			 "url": "https://hd.star1.live/fgvsg556hcfgnh",
 			"isHost": "true"
                         }, {
                         "name" : "prueva stream",
@@ -805,7 +805,7 @@
 	              }, {
 			"name": "La de España (opción 8)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-		 "url" :  "https://new.star1.live/fgvsg556hcfgnh",
+		 "url" :  "https://hd.star1.live/fgvsg556hcfgnh",
 			 "isHost":"true"
                      }, {
 			"name": "La de España (opción 9)",
@@ -1182,7 +1182,7 @@
               }, {
           "name": "M-F1-s2",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			       "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do40",
+			       "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do30",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
                       }, {
@@ -1191,6 +1191,12 @@
 			        "url" :  "https://pinkhorses.xyz/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
 			 "isHost":"true"
                       }, {
+          "name": "M-F1",
+			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
+			 "url": "https://gocast.pro/aliez.php?stream=RdKfpotjL5g",
+                               "referer" : "https://aliezstream.pro/",
+			"isHost": "true"
+                      }, {
           "name": "M-F1-1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
 			       "url": "https://ltinversionistas.com/jactv/daznf1.php",
@@ -1198,7 +1204,7 @@
                       }, {
           "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url": "https://new.star1.live/fgvsg556hcfgnh",
+			        "url": "https://hd.star1.live/fgvsg556hcfgnh",
 			 "isHost":"true"
                   }, {
                   	"name": "M-F1*",
