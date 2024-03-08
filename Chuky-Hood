@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 06-03-2024)",
+    "author": "chuky (Haz-tu-liada al 08-03-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -994,11 +994,6 @@
             "stations": [{
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
-		"url" :  "http://flbl1.112421.net:8082/3575728/mpegts?token=0C0313859D21980E031584CA319B8B57",
-			 "userAgent":""  
-                          }, {
-                    "name": "DAZN Liga",
-                    "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
 			      "url": "https://embx216559.apl320.me//player/live.php?id=216559&w=100%&h=100%",
              "isHost": "true"
                          }, {
@@ -1010,13 +1005,12 @@
                          }, {
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
-			 "url" : "https://1.dlhd.sx/cast/stream-538.php",
-			 "isHost":"true"
+			 "url" : "https://pirlotvenvivo.me/iframe/daznligao2.php",
+			 "embed":"true"
                           }, {
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
-			      "url" : "https://ntv.tutvlive.site/canaltv.php?ch=https://tvfutbol.info/player/2/80",
-			     "referer" :  "https://www.tarjetarojatv.site/",
+			      "url" : "https://tvhd.tutvlive.site/stream.php?ch=https://pirlotvenvivo.me/iframe/daznligao2.php",
 			 "isHost":"true"
                          }, {
                     "name": "DAZN Liga 2",
@@ -1180,7 +1174,8 @@
                       }, {
           "name": "M-F1-1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" :  "https://pinkhorses.xyz/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
+			        "url" :  "https://gocast.pro/aliez.php?stream=RdKfpotjL5g",
+                              "referer" : "https://aliezstream.pro/",
 			 "isHost":"true"
                       }, {
           "name": "M-F1",
@@ -1189,20 +1184,10 @@
                                "referer" : "https://aliezstream.pro/",
 			"isHost": "true"
                       }, {
-          "name": "M-F1-1",
-			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			       "url": "https://ltinversionistas.com/jactv/daznf1.php",
-             "isHost": "true"  
-                      }, {
           "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
 			        "url": "https://hd.star1.live/fgvsg556hcfgnh",
 			 "isHost":"true"
-                  }, {
-                  	"name": "M-F1*",
-			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-                             "url" : "http://nemochannels.vip:8080/play/xv8nNsdYcXcLBlRSbxZk2b8FEYknhAkPGivm52soLWTE9D-R1Y2cDkLb1OTDjST0",
-               "userAgent": ""
           }, {
           "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
