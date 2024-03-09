@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 08-03-2024)",
+    "author": "chuky (Haz-tu-liada al 09-03-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1968,7 +1968,12 @@
                         }, {
 			 "name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-      "url": "https://love2live.wideiptv.top/OneToro/tracks-v1a1/mono.m3u8",
+      "url": "https://love2live.wideiptv.top/OneToroES/tracks-v1a1/mono.m3u8",
+                        "userAgent": ""
+                        }, {
+			 "name": "Toros",
+			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
+      "url": "https://love2live.wideiptv.top/OneToroES/index.m3u8",
                         "userAgent": ""
                      }, {
 			"name": "Toros",
