@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 09-03-2024)",
+    "author": "chuky (Haz-tu-liada al 10-03-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1028,7 +1028,7 @@
 			}, {
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-	     "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do30",
+	     "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
             "referer" : "https://l1l1.to/",
              "isHost": "true"
                         }, {
@@ -1122,14 +1122,9 @@
 		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
 		"info": "",
 		"stations": [{
-              "name": "Formula 1:Clasificación Baréin (En diferido)",
-			"image": "https://estaticos-cdn.prensaiberica.es/clip/26001ed3-1ce3-4929-8c09-9020bc2e5c4c_alta-libre-aspect-ratio_default_0.jpg",
-			 "url" : "https://upstream.to/0rh6329lzgaa",
-			"isHost": "true" 
-                           }, {
-                            "name": "Formula 1:Carrera Baréin (En diferido)",
-			"image": "https://estaticos-cdn.prensaiberica.es/clip/26001ed3-1ce3-4929-8c09-9020bc2e5c4c_alta-libre-aspect-ratio_default_0.jpg",
-			 "url" : "https://upstream.to/lvhk8o16b661",
+                            "name": "Formula 1:Carrera arabia saudita (En diferido)",
+			"image": "https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2023/01/circuito-arabia-saudi-2942714.jpg",
+			 "url" : "https://upstream.to/ionksasdnmkh",
 			"isHost": "true" 
                            }, { 
           "name": "Manujaz MotoRSport-IOS",
@@ -1254,7 +1249,8 @@
 		 }, {
 			"name": "Moto (extranjero)",
 			"image": "https://sport-onthebox.com/wp-content/uploads/2021/02/WEB_1-720x399.jpg",
-			 "url": "https://embx217598.apl293.me/player/live.php?id=217598&w=100%&h=100%",
+			 "url": "https://abolishstand.net/embed/dw4k0efjo1w",
+                         "referer" : "https://elixx.xyz/",
              "isHost": "true"
 		}]
                   }, {
@@ -1295,15 +1291,17 @@
 			                   "url" : "https://1.dlhd.sx/cast/stream-435.php",
 			 "isHost":"true"
 		 }, {
-			"name": "(M-Campeones 2)",
+			"name": "Bayer Leverkusen vs Wolfsburg(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-        "url": "https://primefoot.ru/go/1/65",
-             "isHost": "true"
-		}, {
-			"name": "(M-Campeones 2)",
+       "url" :  "https://abolishstand.net/embed/cmms5rk1",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
+		 }, {
+			"name": "Bayer Leverkusen vs Wolfsburg(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-			"url": "https://primefoot.ru/go/1/65",
-             "isHost": "true"
+       "url" :  "https://abolishstand.net/embed/cmms5rk1",
+		"referer" : "https://primefoot.ru/",
+			 "isHost":"true"
 	      }, {
 			"name": "(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
@@ -1331,27 +1329,27 @@
 			 "isHost":"true"
              }, {
                         "name": "Lacio",
-			"name": "",
+			"name": "Bochum vs Freiburg",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
         "url": "https://abolishstand.net/embed/x3euisb4tt7",
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
           }, {
-			"name": "",
+			"name": "Bochum vs Freiburg",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do49",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do35",
 			"referer": "https://l1l1.to/",
              "isHost": "true"   
 	   }, {
-			"name": "",
+			"name": "Eintracht Frankfurt vs Hoffenheim",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
 			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do11",
 			"referer": "https://l1l1.to/",
              "isHost": "true"  
           }, {
-			"name": "",
+			"name": "Eintracht Frankfurt vs Hoffenheim",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do13",
+			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do8",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
            }, {
@@ -1376,15 +1374,15 @@
              "isHost": "true" 
            }, {
                         "name": "Lacio",
-			"name": "",
+			"name": "Bayer Leverkusen vs Wolfsburg",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
         "url": "https://abolishstand.net/embed/x3euisb4tt7",
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
                    }, {
-			"name": "",
+			"name": "Bayer Leverkusen vs Wolfsburg",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do2",
+			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do12",
             "referer" : "https://l1l1.to/",
              "isHost": "true"
                          }, {
@@ -1440,23 +1438,25 @@
 			"url" :  "https://primefoot.ru/go/1/81",
 			 "isHost":"true"
                     }, {
-			 "name": "(DAZN 2)",
+			 "name": "Aston Villa vs Tottenham Hotspur(DAZN 2)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-			"url" :  "https://primefoot.ru/go/1/82",
-			 "isHost":"true"  
+		 "url" :  "https://abolishstand.net/embed/xmr0xxbbmzod",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
             }, {
-			"name": "(DAZN 2)",
+			"name": "Aston Villa vs Tottenham Hotspur(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
- 			                  "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
+ 			         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do4",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
-			"name": "(DAZN 2)",
+			"name": "Liverpool vs Manchester City(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
- 			   "url" :  "https://primefoot.ru/go/1/82",
-			 "isHost":"true" 
+ 			  "url" :  "https://abolishstand.net/embed/xmr0xxbbmzod",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
                   }, {
-			"name": "(DAZN 2)",
+			"name": "Liverpool vs Manchester City(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
 			 "url" : "https://1.dlhd.sx/cast/stream-446.php",
 			 "isHost":"true"
@@ -1466,12 +1466,13 @@
  			                 "url" : "https://1.dlhd.sx/cast/stream-446.php",
 			 "isHost":"true"
                 }, {
-			"name": "(DAZN 3)",
+			"name": "West Ham United vs Burnley(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
- 			 "url" : "https://primefoot.ru/go/1/83",
-             "isHost": "true"  
+ 		 "url" :  "https://abolishstand.net/embed/xvofyfktwqkwrr",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true" 
 	       }, {
- 			"name": "(DAZN 3)",
+ 			"name": "West Ham United vs Burnley(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
 			 "url" : "https://1.dlhd.sx/cast/stream-447.php",
 			 "isHost":"true"
@@ -1482,12 +1483,13 @@
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                }, {
-			"name": "(DAZN 4)",
+			"name": "Brighton & Hove Albion vs Nottingham Forest(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
-			 "url" : "https://primefoot.ru/go/1/84",
-             "isHost": "true"  
+			"url" :  "https://abolishstand.net/embed/w67i2uz",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
 			  }, {
-			"name": "(DAZN 4)",
+			"name": "Brighton & Hove Albion vs Nottingham Forest(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
                         "url" : "https://1.dlhd.sx/cast/stream-448.php",
 			 "isHost":"true"
@@ -1541,37 +1543,37 @@
 		"image": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/02/07/3544930-72245768-2560-1440.jpg",
 		"info": "",
 		"stations": [{
- 			"name": "",
+ 			"name": "PSG vs Reims",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, { 
                         "name": "hoca 101", 
-			"name": "",
+			"name": "PSG vs Reims",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
 						     "url" :  "https://abolishstand.net/embed/onfsmh",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
         }, {
                         "name": "milan", 
-			"name": "",
+			"name": "Strasbourg vs Monaco",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
         "url": "https://abolishstand.net/embed/fxf2qstg",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		}, { 
-                        "name" : "36",
-			"name": "",
+                        "name" : "38",
+			"name": "Strasbourg vs Monaco",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do36",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
         }, {
-                        "name" : "26",
-			"name": "",
+                        "name" : "36",
+			"name": "Le Havre vs Toulouse",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-       "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
+       "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do36",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
@@ -1582,29 +1584,29 @@
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
                       }, { 
-                        "name": "coolrea 26", 
-			"name": "",
+                        "name": "coolrea 30", 
+			"name": "Metz vs Clermont",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			 "url": "https://coolrea.link/flash26",
+			 "url": "https://coolrea.link/flash30",
              "isHost": "true"
                     }, {
                          "name" : "38", 
-			"name": "",
+			"name": "Lille vs Rennes",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                     }, {
                          "name" : "milan",  
-			"name": "",
+			"name": "Lille vs Rennes",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
          "url": "https://abolishstand.net/embed/fxf2qstg",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		   }, {
-			"name": "",
+			"name": "Marseille vs Nantes",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do28",
+			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"  
 		}, {
@@ -1678,35 +1680,35 @@
         "url" : "https://primefoot.ru/go/1/71",
             "isHost":"true"
         }, {
-			"name":"(M-Campeones)",
+			"name":"AC Milan vs Empoli(M-Campeones)",
                       "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
                      	 "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "AC Milan vs Empoli(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
 			                  "url" : "https://1.dlhd.sx/cast/stream-435.php",
 			 "isHost":"true"
                     }, {
-			"name": "(M-Campeones)",
+			"name": "Juventus vs Atalanta(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
      			     "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Juventus vs Atalanta(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
-			  "url": "https://hocast4.com/footy.php?player=desktop&live=ufeed64",
-                          "referer": "https://1stream.buzz/",
-             "isHost": "true"
+			   "url" : "https://1.dlhd.sx/cast/stream-435.php",
+			 "isHost":"true"
 			 }, {
-			"name": "(M-Campeones)",
+			"name": "Fiorentina vs Roma(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
-       "url" : "https://primefoot.ru/go/1/64",
-            "isHost":"true"
+         "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Fiorentina vs Roma(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
 			                  "url" : "https://1.dlhd.sx/cast/stream-435.php",
 			 "isHost":"true"
@@ -1753,27 +1755,27 @@
                         "url": "https://primefoot.ru/go/1/66",
              "isHost": "true"
                   }, {
-			"name": "",
+			"name": "Lecce vs Hellas Verona",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-     "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do1",
+     "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do3",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
                         "name": "Roma",
-			"name": "",
+			"name": "Lecce vs Hellas Verona",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 			 "url": "https://abolishstand.net/embed/lhfsvq5z",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
 	        }, {
-			"name": "",
+			"name": "Juventus vs Atalanta",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do9",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do1",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
                         "name": "juventus",
-			"name": "",
+			"name": "AC Milan vs Empoli",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 			"url": "https://abolishstand.net/embed/ww6frra9pf",
 			 "referer" : "https://elixx.xyz/",
@@ -1787,27 +1789,27 @@
              "isHost": "true"
              }, {
                         "name": "partizan",
-			"name": "",
+			"name": "Juventus vs Atalanta",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 			 "url": "https://abolishstand.net/embed/ugce3jz6chx",
 			 "referer" : "https://streamonsport.ru/",
              "isHost": "true"
            }, {
-			"name": "",
+			"name": "AC Milan vs Empoli",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do7",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	        }, {
-			"name": "",
+			"name": "Fiorentina vs Roma",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do25",
+			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do1",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
 			
                         "name": "Roma",
-			"name": "",
+			"name": "Fiorentina vs Roma",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 			"url": "https://abolishstand.net/embed/lhfsvq5z",
 			 "referer" : "https://elixx.xyz/",
