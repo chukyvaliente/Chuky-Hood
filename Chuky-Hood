@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 12-03-2024)",
+    "author": "chuky (Haz-tu-liada al 13-03-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,47 +19,47 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Philadelphia 76ers 🏀 New York Knicks",
+			"name": "Detroit Pistons 🏀 Toronto Raptors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Washington Wizards 🏀 Memphis Grizzlies",
+                        "name": "Orlando Magic 🏀 Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Indiana Pacers 🏀 Oklahoma City Thunder",
+                        "name": "Indiana Pacers 🏀 Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Houston Rockets 🏀 San Antonio Spurs",
+                        "name": "Miami Heat 🏀 Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Boston Celtics 🏀 Utah Jazz",
+			"name": "Memphis Grizzlies 🏀 Charlotte Hornets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Minnesota Timberwolves 🏀 LA Clippers",
+			"name": "New Orleans Pelicans 🏀 Cleveland Cavaliers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Milwaukee Bucks 🏀 Sacramento Kings",
+                         "name": "Dallas Mavericks 🏀 Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Portland Trail Blazers 🏀 Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Sacramento Kings 🏀 Los Angeles Lakers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
@@ -344,52 +344,52 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Detroit 🏒 Buffalo",
+                        "name": "Los Angeles 🏒 St. Louis",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Columbus 🏒 Montreal",
+                        "name": "Nashville 🏒 Winnipeg",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Pittsburgh 🏒 Ottawa",
+			"name": "Washington 🏒 Edmonton",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "San Jose 🏒 Philadelphia",
+			"name": "Colorado 🏒 Vancouver",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "New York 🏒 Carolina",
+                         "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Florida 🏒 Dallas",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "Arizona 🏒 Minnesota",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "Anaheim 🏒 Chicago",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
               }, {
-			"name": "Colorado 🏒 Calgary",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-9/",
 			"isHost": "true"
                }, {
-			"name": "Vegas 🏒 Seattle",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-10/",
 			"isHost": "true"
@@ -662,38 +662,38 @@
 		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		"info": "",
 		"stations": [{
-                        "name": "Barcelona vs Napoli",
+                        "name": "Atletico Madrid vs Inter Milan",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 	          	"url" :  "https://embx220637.apl323.me//player/live.php?id=220637&w=100%&h=100%",
 			 "isHost":"true"
                            }, {
-			"name": "Barcelona vs Napoli",
+			"name": "Atletico Madrid vs Inter Milan",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 	          	"url" :  "https://abolishstand.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                            }, {
                         "name": "campeones",
-			"name": "Barcelona vs Napoli",
+			"name": "Atletico Madrid vs Inter Milan",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
+           	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                            }, {
                              "name": "campeones",
-			"name": "Barcelona vs Napoli",
+			"name": "Atletico Madrid vs Inter Milan",
                              "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
                             "url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                        }, {
-			"name": "Barcelona vs Napoli",
+			"name": "Atletico Madrid vs Inter Milan",
             "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 				     "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                      }, {
-			"name": "Barcelona vs Napoli",
+			"name": "Atletico Madrid vs Inter Milan",
             "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 	"url" : "https://1.dlhd.sx/cast/stream-435.php",
 			 "isHost":"true"
@@ -706,7 +706,7 @@
                             }, {
 			"name": "Arsenal vs Porto",
             "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
-	 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
+	 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                             }, {
@@ -722,7 +722,7 @@
                             }, {
 			"name": "Arsenal vs Porto",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	          "url": "https://markkystreams.com/video/s1/",
+	          "url": "https://sportsurge.stream/embed/footy3.php",
              "isHost": "true"
                            }, {
 			"name": "Multi",
@@ -736,8 +736,8 @@
 	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do24",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
-                     }]
-                           }, {
+                            }] 
+                            }, {
 		"name": "La Copa del Rey 🏆",
 		"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 		"info": "",
@@ -766,6 +766,41 @@
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 	          "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8",
             "userAgent":""
+                     }]
+                           }, {
+		"name": "Zona Messi",
+		"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
+		"info": "",
+		"stations": [{
+			"name": "Opción 1",
+			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
+           	       	 "url" :  "https://abolishstand.net/embed/dw4k0efjo1w",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+                     }, {
+			"name": "Opción 2",
+			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
+	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do32",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+                       }, {
+			"name": "Opción 3",
+			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
+	         "url" :  "https://abolishstand.net/embed/wgfekh",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
+                        }, {
+                        "name" : "Opción 5", 
+			"name": "https://i.ibb.co/3yRRFGv/Messi.jpg",
+			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
+	          "url": "https://sportsurge.stream/embed/footy5.php",
+           "isHost":"true"
+                          }, {
+                        "name" : "Opción 6",
+			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
+        "url": "https://abolishstand.net/embed/dw4k0efjo1w",
+              "referer" : "https://elixx.xyz/",
+            "isHost":"true" 
                      }]
                 }, {
 		"name": "LaLiga EA Sports",
@@ -904,8 +939,8 @@
             "stations": [{
 	         "name": "Opción 1(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
-                               "url": "http://flbl1.112421.net:8082/323634/mpegts?token=0C0313859D21980E031584CA319B8B57",
-                "userAgent":"" 
+                               "url": "https://mylivestream.pro/aliez.php?stream=PKwNPB3pqX3C",
+                "isHost":"true" 
                 },{ 
                       "name": "Opción 2(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
@@ -1398,19 +1433,19 @@
 		"info": "",
 		"stations": [{
                         "name" : "stream",
-	                "name": "(DAZN 1)",
+	                "name": "AFC Bournemouth vs Luton Town(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			 "url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                }, {
-			 "name": "(DAZN 1)",
+			 "name": "AFC Bournemouth vs Luton Town(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-			   "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do30",
+			   "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do31",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                         }, {
-			 "name": "(DAZN 1)",
+			 "name": "AFC Bournemouth vs Luton Town(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			                  "url" : "https://1.dlhd.sx/cast/stream-445.php",
 			 "isHost":"true"
@@ -1438,25 +1473,25 @@
 			"url" :  "https://primefoot.ru/go/1/81",
 			 "isHost":"true"
                     }, {
-			 "name": "Aston Villa vs Tottenham Hotspur(DAZN 2)",
+			 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 		 "url" :  "https://abolishstand.net/embed/xmr0xxbbmzod",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
             }, {
-			"name": "Aston Villa vs Tottenham Hotspur(DAZN 2)",
+			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
  			         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do4",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
-			"name": "Liverpool vs Manchester City(DAZN 2)",
+			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
  			  "url" :  "https://abolishstand.net/embed/xmr0xxbbmzod",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                   }, {
-			"name": "Liverpool vs Manchester City(DAZN 2)",
+			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
 			 "url" : "https://1.dlhd.sx/cast/stream-446.php",
 			 "isHost":"true"
@@ -1466,13 +1501,13 @@
  			                 "url" : "https://1.dlhd.sx/cast/stream-446.php",
 			 "isHost":"true"
                 }, {
-			"name": "West Ham United vs Burnley(DAZN 3)",
+			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
  		 "url" :  "https://abolishstand.net/embed/xvofyfktwqkwrr",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true" 
 	       }, {
- 			"name": "West Ham United vs Burnley(DAZN 3)",
+ 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
 			 "url" : "https://1.dlhd.sx/cast/stream-447.php",
 			 "isHost":"true"
@@ -1483,13 +1518,13 @@
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                }, {
-			"name": "Brighton & Hove Albion vs Nottingham Forest(DAZN 4)",
+			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
 			"url" :  "https://abolishstand.net/embed/w67i2uz",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 			  }, {
-			"name": "Brighton & Hove Albion vs Nottingham Forest(DAZN 4)",
+			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
                         "url" : "https://1.dlhd.sx/cast/stream-448.php",
 			 "isHost":"true"
