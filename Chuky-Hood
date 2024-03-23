@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 19-03-2024)",
+    "author": "chuky (Haz-tu-liada al 23-03-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1148,7 +1148,12 @@
 		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
 		"info": "",
 		"stations": [{
-                            "name": "Formula 1:Carrera arabia saudita (En diferido)",
+                           "name": "Formula 1:Pole Australia (En diferido)",
+			"image": "https://cdn-4.motorsport.com/images/amp/6D1kveD0/s1000/australian-gp-map-1.jpg",
+			 "url" : "https://opvid.org/5a5dwzacehlv",
+			"isHost": "true" 
+                           }, { 
+                            "name": "Formula 1:(En diferido)",
 			"image": "https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2023/01/circuito-arabia-saudi-2942714.jpg",
 			 "url" : "https://upstream.to/ionksasdnmkh",
 			"isHost": "true" 
