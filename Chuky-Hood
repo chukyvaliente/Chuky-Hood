@@ -1227,9 +1227,14 @@
 			"name": "M-F1-Inglés",
 			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
            "url" : "https://sportsurge.stream/embed/f1.php",
-			"isHost": "true"	
+			"isHost": "true"
+                        }, {
+			"name": "Carrera sprint Portugal diferido",			
+                      "image":"https://www.motociclismo.es/uploads/s1/65/17/06/5/gp-portugal-estoril-281010.jpeg",
+              "url": "https://upstream.to/davc2iae5npv",
+             "isHost": "true"	
                       }, {
-			"name": "Carrera Moto-Qatar diferido",			
+			"name": "Carrera diferido",			
                       "image":"https://rsl00.epimg.net/iconos/resultados/2023/deportivos/motor/motogp/circuitos/mini/losail.png",
               "url": "https://upstream.to/ex9b2xipc93a",
              "isHost": "true"
