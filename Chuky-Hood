@@ -2010,6 +2010,11 @@
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
         "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8",
 			"userAgent": "" 
+                        }, {
+			"name": "Caza y Pesca",
+			"image": "https://www.mundoplus.tv/wp-content/uploads/2021/04/caza_y_pesca.png",
+        "url": "http://31.42.185.216:8000/live/LIRestream/C18FXWEJBF/126210.m3u8",
+			"userAgent": "" 
          }, {
 			"name": "Barça TV",
 			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
