@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 30-03-2024)",
+    "author": "chuky (Haz-tu-liada al 31-03-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -676,9 +676,9 @@
                         "name": "campeones",
 			"name": "Atletico Madrid vs Inter Milan",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
+           	         "url" : "https://godzcast.com/embed.php?player=desktop&live=do19",
+		        "referer": "https://zvision.link/",
+                          "isHost":"true"
                            }, {
                              "name": "campeones",
 			"name": "Atletico Madrid vs Inter Milan",
@@ -706,9 +706,9 @@
                             }, {
 			"name": "Arsenal vs Porto",
             "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
-	 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
+	 "url" : "https://godzcast.com/embed.php?player=desktop&live=do10",
+		        "referer": "https://zvision.link/",
+                          "isHost":"true"
                             }, {
 			"name": "Arsenal vs Porto",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
@@ -733,9 +733,9 @@
                          }, {
 			"name": "Multi",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do24",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
+	          "url" : "https://godzcast.com/embed.php?player=desktop&live=do24",
+		        "referer": "https://zvision.link/",
+                         "isHost":"true"
                             }] 
                             }, {
 		"name": "La Copa del Rey 🏆",
@@ -751,9 +751,9 @@
                      }, {
 			"name": "Real Sociedad vs Mallorca",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
+	          "url" : "https://godzcast.com/embed.php?player=desktop&live=do19",
+		        "referer": "https://zvision.link/",
+                         "isHost":"true"
                        }, {
 			"name": "Real Sociedad vs Mallorca",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
@@ -780,9 +780,9 @@
                      }, {
 			"name": "Opción 2",
 			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
-	          "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do32",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
+	         "url" : "https://godzcast.com/embed.php?player=desktop&live=do32",
+		        "referer": "https://zvision.link/",
+                       "isHost":"true"
                        }, {
 			"name": "Opción 3",
 			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
@@ -866,7 +866,7 @@
 		"stations": [{
 			"name": "La Seguda división España (opción 1)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
-        		 "url" : "https://godzcast.com/embed.php?player=desktop&live=do19",
+        		 "url" : "https://godzcast.com/embed.php?player=desktop&live=do19",  
 		        "referer": "https://zvision.link/",
 			"isHost" : "true"
                           }, {
@@ -878,13 +878,15 @@
                            }, {
 			"name": "La Seguda división España (opción 3)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
-			           	"url" :  "https://primefoot.ru/go/1/61",
+			         "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed61",
+                   "referer" : "https://primefoot.ru/",
 			 "isHost":"true" 
                           }, {
                         "name": "La Liga hipermotion 2 (eurosport2)",
 			"name": "La Seguda división España (opción 4)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
-			            "url" :  "https://primefoot.ru/go/1/62",
+			       "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed62",
+                   "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                             }, {
 			"name": "La Seguda división España (opción 5)",
@@ -895,7 +897,8 @@
                           }, {
 			"name": "La Seguda división España (opción 6)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
-						"url": "https://primefoot.ru/hola.php?id=1/69",
+			         "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed69",
+                   "referer" : "https://primefoot.ru/",
 			 "isHost": "true"
                           }, {
 			"name": "La Seguda división España (opción 7)",
@@ -928,7 +931,7 @@
                      }, {
 			"name": "La Seguda división España (opción 12)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
-		       			                 "url": "https://wwwstream.pro/embed/UqoaakeCQE1a",
+		      "url": "https://wwwstream.pro/embed/UqoaakeCQE1a",
                "referer" : "https://kingstreamz.lol/",
 			 "isHost": "true"
 		}]
@@ -1097,12 +1100,14 @@
                     },{ 
                "name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
-                     "url" :  "https://primefoot.ru/go/1/83",
+                                "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed83",
+                   "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                     },{ 
                 "name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
-                    "url" : "https://primefoot.ru/hola.php?id=1/83",
+                              "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed83",
+                   "referer" : "https://primefoot.ru/",
              "isHost": "true"  
                    },{ 
                 "name": "(DAZN 3)",
@@ -1129,7 +1134,8 @@
                        },{ 
                "name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
-                   "url": "https://primefoot.ru/go/1/84",
+                            "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed84",
+                   "referer" : "https://primefoot.ru/",
             "isHost":"true"
                      },{ 
                "name": "(DAZN 4)",
@@ -1245,9 +1251,9 @@
 	              }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-                            "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do30",
-                       "referer" : "https://l1l1.to/",
-			"isHost": "true"
+                             "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
+		        "referer": "https://zvision.link/",
+                            "isHost":"true"
                           }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
@@ -1299,13 +1305,13 @@
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
             }, {
-			"name": "(M-Campeones)",
+			"name": "Stuttgart vs Heidenheim(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
         			     "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Stuttgart vs Heidenheim(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
 			                  "url" : "https://1.dlhd.sx/cast/stream-435.php",
 			 "isHost":"true"
@@ -1335,27 +1341,32 @@
 	      }, {
 			"name": "(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-        "url": "https://primefoot.ru/go/1/65",
+                         "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed65",
+                   "referer" : "https://primefoot.ru/",
              "isHost": "true"
 		}, {
 			"name": "(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-			"url": "https://primefoot.ru/go/1/65",
+			       "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed65",
+                   "referer" : "https://primefoot.ru/",
              "isHost": "true"
 	          }, {
 			"name": "(M-Campeones 3)",
 			"image": "https://i.ibb.co/64TDQj2/1-0-1-769-F-41-E-1-C00000-0-0-0.png",
-        "url": "https://primefoot.ru/go/1/66",
+                          "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed66",
+                   "referer" : "https://primefoot.ru/",
              "isHost": "true"
 		}, {
 			"name": "(M-Campeones 3)",
 			"image": "https://i.ibb.co/64TDQj2/1-0-1-769-F-41-E-1-C00000-0-0-0.png",
-			  "url": "https://primefoot.ru/go/1/66",
+			         "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed66",
+                   "referer" : "https://primefoot.ru/",
              "isHost": "true"
                   }, {
 			"name": "(M-Campeones 4)",
 			"image": "https://i.ibb.co/JC3b360/1-0-1-77-D8-40-A-1-C00000-0-0-0.png",
-                 "url" :  "https://primefoot.ru/go/1/67",
+                                   "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed67",
+                   "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
              }, {
                         "name": "Lacio",
@@ -1365,23 +1376,23 @@
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
           }, {
-			"name": "",
+			"name": "Stuttgart vs Heidenheim",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do35",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"   
+			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do5",
+		        "referer": "https://zvision.link/", 
+                          "isHost":"true"
 	   }, {
-			"name": "",
+			"name": "Stuttgart vs Heidenheim",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do11",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"  
+			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do11",
+		        "referer": "https://zvision.link/",
+                          "isHost":"true"
           }, {
-			"name": "",
+			"name": "Bochum vs Darmstadt 98",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do8",
-			"referer": "https://l1l1.to/",
-             "isHost": "true" 
+			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do12",
+		        "referer": "https://zvision.link/",
+                          "isHost":"true"
            }, {
                         "name": "Milan",
 			"name": "",
@@ -1392,9 +1403,9 @@
           }, {
 			"name": "",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do16",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"            
+			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do16",
+		        "referer": "https://zvision.link/", 
+                         "isHost":"true"         
           }, {
                         "name": "everton",
 			"name": "",
@@ -1404,22 +1415,22 @@
              "isHost": "true" 
            }, {
                         "name": "Lacio",
-			"name": "",
+			"name": "Stuttgart vs Heidenheim",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
         "url": "https://abolishstand.net/embed/x3euisb4tt7",
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
                    }, {
-			"name": "",
+			"name": "Augsburg vs Cologne",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do12",
-            "referer" : "https://l1l1.to/",
-             "isHost": "true"
+			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do12",
+		        "referer": "https://zvision.link/",
+                          "isHost":"true"
                          }, {
 			"name": "",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do15",
-            "referer" : "https://l1l1.to/",
+			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do15",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
 		}]
 	}, {
@@ -1428,16 +1439,16 @@
 		"info": "",
 		"stations": [{
                         "name" : "stream",
-	                "name": "(DAZN 1)",
+	                "name": "Liverpool vs Brighton & Hove Albion(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			 "url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                }, {
-			 "name": "(DAZN 1)",
+			 "name": "Liverpool vs Brighton & Hove Albion(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-			   "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do31",
-			"referer": "https://l1l1.to/",
+			    "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
                         }, {
 			 "name": "(DAZN 1)",
@@ -1447,25 +1458,26 @@
                       }, {
 			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do30",
-			"referer": "https://l1l1.to/",
+		 "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
                 }, {
-			 "name": "(DAZN 1)",
+			 "name": "Manchester City vs Arsenal(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			"url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                     }, {
-			 "name": "(DAZN 1)",
+			 "name": "Manchester City vs Arsenal(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
-			"referer": "https://l1l1.to/",
+			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
                       }, {
 			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-			"url" :  "https://primefoot.ru/go/1/81",
+			        "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed81",
+                   "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                     }, {
 			 "name": "(DAZN 2)",
@@ -1476,8 +1488,8 @@
             }, {
 			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
- 			         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do4",
-			"referer": "https://l1l1.to/",
+ 			          "url" : "https://godzcast.com/embed.php?player=desktop&live=do4",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
                 }, {
 			"name": "(DAZN 2)",
@@ -1509,8 +1521,8 @@
                 }, {
 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
- 			   "url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
-			"referer": "https://l1l1.to/",
+ 			   "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
                }, {
 			"name": "(DAZN 4)",
@@ -1526,8 +1538,8 @@
 	            }, {
 			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
-       "url": "https://vikistream.com/embed2.php?player=desktop&live=do19",
-			"referer": "https://l1l1.to/",
+        "url" : "https://godzcast.com/embed.php?player=desktop&live=do19",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
                      }, {
                         "name": "(Sky premier)", 
@@ -1551,14 +1563,14 @@
                        }, {
 			"name": "Partido en Extranjero",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do31",
-			"referer": "https://l1l1.to/",
+       "url" : "https://godzcast.com/embed.php?player=desktop&live=do31",
+		        "referer": "https://zvision.link/",
              "isHost": "true" 
                       }, {
 			"name": "(Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do32",
-			"referer": "https://l1l1.to/",
+       "url" : "https://godzcast.com/embed.php?player=desktop&live=do32",
+		        "referer": "https://zvision.link/",
              "isHost": "true" 
                     }, {
                          "name": "Ajax",
@@ -1573,38 +1585,38 @@
 		"image": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/02/07/3544930-72245768-2560-1440.jpg",
 		"info": "",
 		"stations": [{
- 			"name": "",
+ 			"name": "Lorient vs Brest",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-         "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do38",
-			"referer": "https://l1l1.to/",
+        "url" : "https://godzcast.com/embed.php?player=desktop&live=do38",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
 		}, { 
                         "name": "hoca 101", 
-			"name": "",
+			"name": "Lorient vs Brest",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
 						     "url" :  "https://abolishstand.net/embed/onfsmh",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
         }, {
                         "name": "milan", 
-			"name": "",
+			"name": "Nice vs Nantes",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
         "url": "https://abolishstand.net/embed/fxf2qstg",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		}, { 
                         "name" : "38",
-			"name": "",
+			"name": "Nice vs Nantes",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do38",
-			"referer": "https://l1l1.to/",
+			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do38",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
         }, {
-                        "name" : "36",
-			"name": "",
+                        "name" : "26",
+			"name": "Clermont vs Toulouse",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-       "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do36",
-			"referer": "https://l1l1.to/",
+      "url" : "https://godzcast.com/embed.php?player=desktop&live=do26",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
 		}, {
                          "name" : "juve",  
@@ -1614,30 +1626,31 @@
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
                       }, { 
-                        "name": "coolrea 30", 
-			"name": "",
+                        "name": "coolrea 33", 
+			"name": "Le Havre vs Montpellier",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			 "url": "https://coolrea.link/flash30",
+			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do33",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
                     }, {
                          "name" : "38", 
-			"name": "",
+			"name": "Strasbourg vs Rennes",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-        "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do38",
-			"referer": "https://l1l1.to/",
+         "url" : "https://godzcast.com/embed.php?player=desktop&live=do38",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
                     }, {
                          "name" : "milan",  
-			"name": "",
+			"name": "Strasbourg vs Rennes",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
          "url": "https://abolishstand.net/embed/fxf2qstg",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		   }, {
-			"name": "",
+			"name": "Marseille vs PSG",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do38",
-			"referer": "https://l1l1.to/",
+			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do38",
+		        "referer": "https://zvision.link/",
              "isHost": "true"  
 		}, {
                          "name": "juve",
@@ -1649,14 +1662,14 @@
 			 }, {
 			 "name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-     "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do46",
-			"referer": "https://l1l1.to/",
+     "url" : "https://godzcast.com/embed.php?player=desktop&live=do46",
+		        "referer": "https://zvision.link/",
              "isHost": "true" 
 		}, {
 			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do2",
-			"referer": "https://l1l1.to/",
+			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do2",
+		        "referer": "https://zvision.link/",
              "isHost": "true"  
                            }, {
                         "name": "Celtic", 
@@ -1681,8 +1694,8 @@
 	      }, {
 			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-        "url": "https://vikistream.com/embed2.php?player=desktop&live=do22",
-			"referer": "https://l1l1.to/",
+       "url" : "https://godzcast.com/embed.php?player=desktop&live=do22",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
 		}]
 	}, {
@@ -1692,7 +1705,8 @@
 		"stations": [{
  			"name": "(M-Vamos)",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
-                       "url" : "https://primefoot.ru/go/1/71",
+                                 "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed71",
+                   "referer" : "https://primefoot.ru/",
             "isHost":"true"
 		}, {
 			"name": "(M-Vamos)",
@@ -1707,7 +1721,8 @@
                     }, {
 			"name": "(M-Vamos)",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
-        "url" : "https://primefoot.ru/go/1/71",
+                         "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed71",
+                   "referer" : "https://primefoot.ru/",
             "isHost":"true"
         }, {
 			"name":"(M-Campeones)",
@@ -1745,7 +1760,8 @@
 			 }, {
 			 "name": "(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
-        "url": "https://primefoot.ru/go/1/64",
+                         "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed64",
+                   "referer" : "https://primefoot.ru/",
              "isHost": "true"
 		}, {
 			"name": "(M-Campeones)",
@@ -1762,33 +1778,38 @@
 	        }, {
 			"name": "(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-        "url": "https://primefoot.ru/go/1/65",
+                         "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed65",
+                   "referer" : "https://primefoot.ru/",
              "isHost": "true"
 	        }, {
 			"name": "(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-			 "url": "https://primefoot.ru/go/1/65",
+			 "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed65",
+                   "referer" : "https://primefoot.ru/",
              "isHost": "true"  
 		}, {
 			"name": "(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-			 "url": "https://primefoot.ru/go/1/65",
+			 "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed65",
+                   "referer" : "https://primefoot.ru/",
              "isHost": "true"  
 	       }, {
 			"name": "(M-Campeones 3)",
 			"image": "https://i.ibb.co/64TDQj2/1-0-1-769-F-41-E-1-C00000-0-0-0.png",
-			  "url": "https://primefoot.ru/go/1/66",
+			      "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed66",
+                   "referer" : "https://primefoot.ru/",
              "isHost": "true"
                     }, {
 			"name": "(M-Campeones 3)",
 			"image": "https://i.ibb.co/64TDQj2/1-0-1-769-F-41-E-1-C00000-0-0-0.png",
-                        "url": "https://primefoot.ru/go/1/66",
+                        "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed66",
+                   "referer" : "https://primefoot.ru/",
              "isHost": "true"
                   }, {
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-     "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do3",
-			"referer": "https://l1l1.to/",
+     "url" : "https://godzcast.com/embed.php?player=desktop&live=do3",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
 		}, {
                         "name": "Roma",
@@ -1800,8 +1821,8 @@
 	        }, {
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do1",
-			"referer": "https://l1l1.to/",
+			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do1",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
                 }, {
                         "name": "juventus",
@@ -1827,14 +1848,14 @@
            }, {
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do7",
-			"referer": "https://l1l1.to/",
+			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do7",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
 	        }, {
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do1",
-			"referer": "https://l1l1.to/",
+			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do1",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
                 }, {
 			
@@ -1847,8 +1868,8 @@
 	       }, {
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do7",
-			"referer": "https://l1l1.to/",
+			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do7",
+		        "referer": "https://zvision.link/",
              "isHost": "true"
                       }, {
                         "name": "dortmun",
@@ -2076,7 +2097,8 @@
                     },{
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-                  "url": "https://primefoot.ru/go/1/107",  
+                            "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed107",
+                   "referer" : "https://primefoot.ru/",
 					"isHost":"true"
                   },{
                     "name": "ESPN2-Argentina",
