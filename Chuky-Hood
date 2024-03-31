@@ -2014,18 +2014,21 @@
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
       "url": "https://cajablanca.dedyn.io/mionespt/juanorange/MundotoroTV_HD/HD/index.m3u8",
                         "userAgent": ""
-                        }, {
+                                            }, {
 			 "name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-      "url": "https://www.freeshot.live/embed/OneToroTV.php",
-                        "referer" : "https://www.freeshot.live/live-tv/onetoro-tv/760",
-                        "isHost": "true"
+     "url" : "https://love2live.wideiptv.top/OneToro/index.fmp4.m3u8?token=9bb0524c8371720fc64dbdcc17ab76376f4e1f79-96b8260ab25d2dded7fa4063307570a4-1711911583-1711900783",
+			 "userAgent":""
                      }, {
 			"name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-          "url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=702O2ES",
-		"referer": "https://www.freeshot.live/",
-                        "isHost": "true"
+         "url" : "https://1.dlhd.sx/cast/stream-749.php",
+			 "isHost":"true"
+                       }, {
+			"name": "Torolé",
+			"image": "https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg",
+         "url" : "https://media1.ultrik.com/live/torole1.m3u8",
+			 "userAgent":""
 			}, {
 			"name": "Toros-Telemadrid",
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
