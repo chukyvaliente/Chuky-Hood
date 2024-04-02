@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 01-04-2024)",
+    "author": "chuky (Haz-tu-liada al 02-04-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,47 +19,47 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Boston Celtics 🏀 Charlotte Hornets",
+			"name": "Los Angeles Lakers 🏀 Toronto Raptors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Memphis Grizzlies 🏀 Detroit Pistons",
+                        "name": "Milwaukee Bucks 🏀 Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Brooklyn Nets 🏀 Indiana Pacers",
+                        "name": "Oklahoma City Thunder 🏀 Philadelphia 76ers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Portland Trail Blazers 🏀 Orlando Magic",
+                        "name": "New York Knicks 🏀 Miami Heat",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Atlanta Hawks 🏀 Chicago Bulls",
+			"name": "Houston Rockets 🏀 Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Phoenix Suns 🏀 New Orleans Pelicans",
+			"name": "San Antonio Spurs 🏀 Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Cleveland Cavaliers 🏀 Utah Jazz",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Dallas Mavericks 🏀 Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "LA Clippers 🏀 Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
@@ -344,42 +344,42 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Florida 🏒 Toronto",
+                        "name": "Washington 🏒 Buffalo",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Detroit 🏒 Tampa Bay",
+                        "name": "Florida 🏒 Montreal",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Pittsburgh 🏒 New York",
+			"name": "Pittsburgh 🏒 New Jersey",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "New York 🏒 Philadelphia",
+			"name": "Chicago 🏒 New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Colorado 🏒 Columbus",
+                         "name": "Boston 🏒 Nashville",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Edmonton 🏒 St. Louis",
+			"name": "Ottawa 🏒 Minnesota",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "Los Angeles 🏒 Winnipeg",
+			"name": "Anaheim 🏒 Calgary",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "Seattle 🏒 San Jose",
+			"name": "Vancouver 🏒 Vegas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
@@ -429,42 +429,42 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-                        "name": "Braves ⚾ White Sox",
+                        "name": "Twins ⚾ Brewers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Rockies ⚾ Cubs",
+			"name": "Royals ⚾ Orioles",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Pirates ⚾ Nationals",
+			"name": "Angels ⚾ Marlins",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Royals ⚾ Orioles",
+                         "name": "Reds ⚾ Phillies",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Angels ⚾ Marlins",
+			"name": "Rangers ⚾ Rays",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Reds ⚾ Phillies",
+			"name": "Tigers ⚾ Mets",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Rangers ⚾ Rays",
+			"name": "Braves ⚾ White Sox",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Tigers ⚾ Mets",
+			"name": "Rockies ⚾ Cubs",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
@@ -474,22 +474,22 @@
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Cardinals ⚾ Padres",
+			"name": "Yankees ⚾ Diamondbacks",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Yankees ⚾ Diamondbacks",
+			"name": "Guardians ⚾ Mariners",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Guardians ⚾ Mariners",
+			"name": "Red Sox ⚾ Athletics",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Red Sox ⚾ Athletics",
+			  "name": "Cardinals ⚾ Padres",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
@@ -1085,8 +1085,9 @@
                     },{ 
                 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
-                   "url": "https://emb.apl323.me//player/live.php?id=220515&w=100%&h=100%",
-             "isHost": "true"
+                  "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed82",
+                   "referer" : "https://primefoot.ru/",
+            "isHost":"true"
 	           },{ 
                 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
@@ -1440,13 +1441,13 @@
 		"info": "",
 		"stations": [{
                         "name" : "stream",
-	                "name": "Liverpool vs Brighton & Hove Albion(DAZN 1)",
+	                "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			 "url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                }, {
-			 "name": "Liverpool vs Brighton & Hove Albion(DAZN 1)",
+			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			    "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
@@ -1463,13 +1464,13 @@
 		        "referer": "https://zvision.link/",
              "isHost": "true"
                 }, {
-			 "name": "Manchester City vs Arsenal(DAZN 1)",
+			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			"url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                     }, {
-			 "name": "Manchester City vs Arsenal(DAZN 1)",
+			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
@@ -1481,11 +1482,17 @@
                    "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                     }, {
-			 "name": "(DAZN 2)",
+			 "name": "West Ham United vs Tottenham Hotspur(DAZN 2)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-		 "url" :  "https://abolishstand.net/embed/xmr0xxbbmzod",
-		"referer" : "https://1stream.buzz/",
+		 "url" :  "https://unanimousconsider.net/embed/xmr0xxbbmzod",
+		"referer" : "https://primefoot.ru/",
 			 "isHost":"true"
+                    }, {
+			"name": "West Ham United vs Tottenham Hotspur(DAZN 2)",
+			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
+ 			                 "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed82",
+                   "referer" : "https://primefoot.ru/",
+            "isHost":"true"
             }, {
 			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
@@ -1503,19 +1510,14 @@
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
 			 "url" : "https://1.dlhd.sx/cast/stream-446.php",
 			 "isHost":"true"
-                  }, {
-			"name": "(DAZN 2)",
-			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
- 			                 "url" : "https://1.dlhd.sx/cast/stream-446.php",
-			 "isHost":"true"
                 }, {
-			"name": "(DAZN 3)",
+			"name": "Newcastle United vs Everton(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
  		 "url" :  "https://abolishstand.net/embed/xvofyfktwqkwrr",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true" 
 	       }, {
- 			"name": "(DAZN 3)",
+ 			"name": "Newcastle United vs Everton(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
 			 "url" : "https://1.dlhd.sx/cast/stream-447.php",
 			 "isHost":"true"
@@ -1526,13 +1528,13 @@
 		        "referer": "https://zvision.link/",
              "isHost": "true"
                }, {
-			"name": "(DAZN 4)",
+			"name": "AFC Bournemouth vs Crystal Palace(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
 			"url" :  "https://abolishstand.net/embed/w67i2uz",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 			  }, {
-			"name": "(DAZN 4)",
+			"name": "AFC Bournemouth vs Crystal Palace(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
                         "url" : "https://1.dlhd.sx/cast/stream-448.php",
 			 "isHost":"true"
@@ -1564,13 +1566,13 @@
                        }, {
 			"name": "Partido en Extranjero",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url" : "https://godzcast.com/embed.php?player=desktop&live=do31",
+       "url" : "https://godzcast.com/embed.php?player=desktop&live=do35",
 		        "referer": "https://zvision.link/",
              "isHost": "true" 
                       }, {
 			"name": "(Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url" : "https://godzcast.com/embed.php?player=desktop&live=do32",
+       "url" : "https://godzcast.com/embed.php?player=desktop&live=do33",
 		        "referer": "https://zvision.link/",
              "isHost": "true" 
                     }, {
