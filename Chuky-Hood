@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 02-04-2024)",
+    "author": "chuky (Haz-tu-liada al 03-04-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,47 +19,47 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Los Angeles Lakers 🏀 Toronto Raptors",
+			"name": "Portland Trail Blazers 🏀 Charlotte Hornets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Milwaukee Bucks 🏀 Washington Wizards",
+                        "name": "Los Angeles Lakers 🏀 Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Oklahoma City Thunder 🏀 Philadelphia 76ers",
+                        "name": "Detroit Pistons 🏀 Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "New York Knicks 🏀 Miami Heat",
+                        "name": "Oklahoma City Thunder 🏀 Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Houston Rockets 🏀 Minnesota Timberwolves",
+			"name": "Indiana Pacers 🏀 Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "San Antonio Spurs 🏀 Denver Nuggets",
+			"name": "Memphis Grizzlies 🏀 Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Cleveland Cavaliers 🏀 Utah Jazz",
+                         "name": "Toronto Raptors 🏀 Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Dallas Mavericks 🏀 Golden State Warriors",
+			"name": "Orlando Magic 🏀 New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "LA Clippers 🏀 Sacramento Kings",
+			"name": "Cleveland Cavaliers 🏀 Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
@@ -344,42 +344,42 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Washington 🏒 Buffalo",
+                        "name": "Tampa Bay 🏒 Toronto",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Florida 🏒 Montreal",
+                        "name": "New Jersey 🏒 New York",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Pittsburgh 🏒 New Jersey",
+			"name": "Edmonton 🏒 Dallas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Chicago 🏒 New York",
+			"name": "Seattle 🏒 Los Angeles",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Boston 🏒 Nashville",
+                         "name": "Vancouver 🏒 Arizona",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Ottawa 🏒 Minnesota",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "Anaheim 🏒 Calgary",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "Vancouver 🏒 Vegas",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
@@ -429,77 +429,77 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-                        "name": "Twins ⚾ Brewers",
+                        "name": "Royals ⚾ Orioles",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Royals ⚾ Orioles",
+			"name": "Rangers ⚾ Rays",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Angels ⚾ Marlins",
+			"name": "Twins ⚾ Brewers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Reds ⚾ Phillies",
+                         "name": "Angels ⚾ Marlins",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Rangers ⚾ Rays",
+			"name": "Braves ⚾ White Sox",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Tigers ⚾ Mets",
+			"name": "Red Sox ⚾ Athletics",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Braves ⚾ White Sox",
+			"name": "Yankees ⚾ Diamondbacks",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Rockies ⚾ Cubs",
+			"name": "Reds ⚾ Phillies",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Blue Jays ⚾ Astros",
+			"name": "Cardinals ⚾ Padres",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Yankees ⚾ Diamondbacks",
+			"name": "Guardians ⚾ Mariners",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Guardians ⚾ Mariners",
+			"name": "Pirates ⚾ Nationals",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Red Sox ⚾ Athletics",
+			"name": "Tigers ⚾ Mets",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Cardinals ⚾ Padres",
+			  "name": "Rockies ⚾ Cubs",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Giants ⚾ Dodgers",
+			  "name": "Blue Jays ⚾ Astros",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "",
+			  "name": "Giants ⚾ Dodgers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
@@ -541,7 +541,7 @@
                         },{
                  "name": "evento 4 UFC",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-               "url": "https://abolishstand.net/embed/8g61vpl9j92h0kv",
+               "url": "https://forgepattern.net/embed/8g61vpl9j92h0kv",
                "referer" : "https://buzztv.futbol/",
              "isHost": "true"
 		      },{ 
@@ -552,7 +552,7 @@
 		     },{ 
                  "name": "evento 6 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                 	"url" :  "https://abolishstand.net/embed/dw4k0efjo1w",
+                 	"url" :  "https://forgepattern.net/embed/dw4k0efjo1w",
                          "referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
 	             },{ 
@@ -568,7 +568,7 @@
                         },{ 
                  "name": "evento 9 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                   "url": "https://abolishstand.net/embed/ovekcqb6k6jerku",
+                   "url": "https://forgepattern.net/embed/ovekcqb6k6jerku",
                     "referer" : "https://elixx.xyz/",
               "isHost":"true"
                         },{ 
@@ -669,7 +669,7 @@
                            }, {
 			"name": "Atletico Madrid vs Inter Milan",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	          	"url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+	          	"url" :  "https://forgepattern.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                            }, {
@@ -683,13 +683,13 @@
                              "name": "campeones",
 			"name": "Atletico Madrid vs Inter Milan",
                              "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                            "url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
+                            "url": "https://forgepattern.net/embed/g16dv8bwe2pkg",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                        }, {
 			"name": "Atletico Madrid vs Inter Milan",
             "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
-				     "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+				     "url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                      }, {
@@ -700,7 +700,7 @@
                             }, {
 			"name": "Arsenal vs Porto",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			"url" :  "https://abolishstand.net/embed/cmms5rk1",
+			"url" :  "https://forgepattern.net/embed/cmms5rk1",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                             }, {
@@ -727,7 +727,7 @@
                            }, {
 			"name": "Multi",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	          "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+	          "url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                          }, {
@@ -745,7 +745,7 @@
                         "name": "campeones",
 			"name": "Real Sociedad vs Mallorca",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-           	       	 "url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+           	       	 "url" :  "https://forgepattern.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                      }, {
@@ -757,7 +757,7 @@
                        }, {
 			"name": "Real Sociedad vs Mallorca",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-	         			     "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+	         			     "url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                         }, {
@@ -774,7 +774,7 @@
 		"stations": [{
 			"name": "Opción 1",
 			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
-           	       	 "url" :  "https://abolishstand.net/embed/dw4k0efjo1w",
+           	       	 "url" :  "https://forgepattern.net/embed/dw4k0efjo1w",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                      }, {
@@ -786,7 +786,7 @@
                        }, {
 			"name": "Opción 3",
 			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
-	         "url" :  "https://abolishstand.net/embed/wgfekh",
+	         "url" :  "https://forgepattern.net/embed/wgfekh",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                         }, {
@@ -797,7 +797,7 @@
                           }, {
                         "name" : "Opción 6",
 			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
-        "url": "https://abolishstand.net/embed/dw4k0efjo1w",
+        "url": "https://forgepattern.net/embed/dw4k0efjo1w",
               "referer" : "https://elixx.xyz/",
             "isHost":"true" 
                      }]
@@ -808,7 +808,7 @@
 		"stations": [{
 			"name": "La Liga (opción 1)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-        		"url" :  "https://abolishstand.net/embed/dvuf5ydd4",
+        		"url" :  "https://forgepattern.net/embed/dvuf5ydd4",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                           }, {
@@ -839,7 +839,7 @@
                         "name" : "prueva stream",
 			"name": "La Liga (opción 6)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                        "url" :  "https://abolishstand.net/embed/6na79kddf",
+                        "url" :  "https://forgepattern.net/embed/6na79kddf",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                           }, {
@@ -851,7 +851,7 @@
 			 }, {
 			"name": "La de España (opción 8)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-			       "url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
+			       "url": "https://forgepattern.net/embed/g16dv8bwe2pkg",
                "referer" : "https://elixx.xyz/",
 			 "isHost":"true"
                           }, {
@@ -873,7 +873,7 @@
                           }, {
 			"name": "La Seguda división España (opción 2)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
-			  "url" :  "https://abolishstand.net/embed/opthng68di66m",
+			  "url" :  "https://forgepattern.net/embed/opthng68di66m",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                            }, {
@@ -892,7 +892,7 @@
                             }, {
 			"name": "La Seguda división España (opción 5)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
-			"url" :  "https://abolishstand.net/embed/xfkc2i",
+			"url" :  "https://forgepattern.net/embed/xfkc2i",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true" 
                           }, {
@@ -948,7 +948,7 @@
                 },{ 
                       "name": "Opción 2(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
-                       "url" :  "https://abolishstand.net/embed/89ftq8ua1j5lr",
+                       "url" :  "https://forgepattern.net/embed/89ftq8ua1j5lr",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                 },{ 
@@ -965,7 +965,7 @@
                     },{ 
                  "name": "Opción 2(Vamos)",
                     "image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
-              	 "url" :  "https://abolishstand.net/embed/rq4g6",
+              	 "url" :  "https://forgepattern.net/embed/rq4g6",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                      },{
@@ -976,7 +976,7 @@
                        },{
                      "name": "Opción 2(M-Deportes 2)",
                     "image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
-               	 "url" :  "https://abolishstand.net/embed/105qqn",
+               	 "url" :  "https://forgepattern.net/embed/105qqn",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                       },{
@@ -992,7 +992,7 @@
                          },{
                      "name": "Opción 2(M-Deportes 3)",
                     "image": "https://i.ibb.co/6mMfQCp/1-0-1-77-BF-40-A-1-C00000-0-0-0.png",
-                "url" :  "https://abolishstand.net/embed/dp4tigbdvjxr4l",
+                "url" :  "https://forgepattern.net/embed/dp4tigbdvjxr4l",
 		"referer" : "https://1stream.buzz/",
 			 "isHost": "true"
                       },{
@@ -1003,7 +1003,7 @@
                          },{
                      "name": "Opción 2(M-Deportes 4)",
                     "image": "https://i.ibb.co/Vx7PkPn/1-0-1-77-C8-40-A-1-C00000-0-0-0.png",
-                  "url" :  "https://abolishstand.net/embed/dxcfd934ttzx",
+                  "url" :  "https://forgepattern.net/embed/dxcfd934ttzx",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 			 },{
@@ -1024,7 +1024,7 @@
                          }, {
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
-			 "url" :  "https://abolishstand.net/embed/zbz7klq",
+			 "url" :  "https://forgepattern.net/embed/zbz7klq",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                          }, {
@@ -1045,7 +1045,7 @@
                         }, {
                     "name": "DAZN Liga 2",
                     "image": "https://i.ibb.co/3cBzLwr/1-0-1-7691-41-E-1-C00000-0-0-0.png",
-		"url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
+		"url" :  "https://forgepattern.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                         }, {
@@ -1187,7 +1187,7 @@
                        }, {
           "name": "M-F1.st",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" :  "https://abolishstand.net/embed/r23llp",
+			        "url" :  "https://forgepattern.net/embed/r23llp",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
               }, {
@@ -1211,13 +1211,13 @@
           }, {
           "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			 "url": "https://abolishstand.net/embed/r23llp",
+			 "url": "https://forgepattern.net/embed/r23llp",
                                "referer" : "https://1stream.buzz/",
 			"isHost": "true"	 
 		 }, {
                   	"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-                  	"url" :  "https://abolishstand.net/embed/ern2bja2uygn",
+                  	"url" :  "https://forgepattern.net/embed/ern2bja2uygn",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
         }, {
@@ -1259,7 +1259,7 @@
                           }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-             			     "url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
+             			     "url" :  "https://forgepattern.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                        }, {
@@ -1276,7 +1276,7 @@
                       }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-         "url" : "https://abolishstand.net/embed/h5m4gyv36vtc",
+         "url" : "https://forgepattern.net/embed/h5m4gyv36vtc",
 			 "referer": "https://1stream.buzz/",
              "isHost": "true" 
           }, {
@@ -1287,7 +1287,7 @@
 		 }, {
 			"name": "Moto (extranjero)",
 			"image": "https://sport-onthebox.com/wp-content/uploads/2021/02/WEB_1-720x399.jpg",
-			 "url": "https://abolishstand.net/embed/dw4k0efjo1w",
+			 "url": "https://forgepattern.net/embed/dw4k0efjo1w",
                          "referer" : "https://elixx.xyz/",
              "isHost": "true"
 		}]
@@ -1303,13 +1303,13 @@
            }, {
  			"name": "(M-Vamos)",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
-            		"url" :  "https://abolishstand.net/embed/rq4g6",
+            		"url" :  "https://forgepattern.net/embed/rq4g6",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
             }, {
 			"name": "Stuttgart vs Heidenheim(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
-        			     "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+        			     "url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 		}, {
@@ -1320,7 +1320,7 @@
 			 }, {
 			"name": "(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
-      			     "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+      			     "url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 		}, {
@@ -1331,13 +1331,13 @@
 		 }, {
 			"name": "(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-       "url" :  "https://abolishstand.net/embed/cmms5rk1",
+       "url" :  "https://forgepattern.net/embed/cmms5rk1",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 		 }, {
 			"name": "(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-       "url" :  "https://abolishstand.net/embed/cmms5rk1",
+       "url" :  "https://forgepattern.net/embed/cmms5rk1",
 		"referer" : "https://primefoot.ru/",
 			 "isHost":"true"
 	      }, {
@@ -1374,7 +1374,7 @@
                         "name": "Lacio",
 			"name": "",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-        "url": "https://abolishstand.net/embed/x3euisb4tt7",
+        "url": "https://forgepattern.net/embed/x3euisb4tt7",
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
           }, {
@@ -1399,7 +1399,7 @@
                         "name": "Milan",
 			"name": "",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			"url": "https://abolishstand.net/embed/fxf2qstg",
+			"url": "https://forgepattern.net/embed/fxf2qstg",
 			"referer": "https://elixx.xyz/",
              "isHost": "true"  
           }, {
@@ -1412,14 +1412,14 @@
                         "name": "everton",
 			"name": "",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			"url": "https://abolishstand.net/embed/40ltfs8ms26hmy",
+			"url": "https://forgepattern.net/embed/40ltfs8ms26hmy",
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
            }, {
                         "name": "Lacio",
 			"name": "Stuttgart vs Heidenheim",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-        "url": "https://abolishstand.net/embed/x3euisb4tt7",
+        "url": "https://forgepattern.net/embed/x3euisb4tt7",
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
                    }, {
@@ -1441,19 +1441,19 @@
 		"info": "",
 		"stations": [{
                         "name" : "stream",
-	                "name": "(DAZN 1)",
+	                "name": "Manchester City vs Aston Villa(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			  "url" : "https://claplivehdplay.ru/embedlc.php?id=81",
                      "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                }, {
-			 "name": "(DAZN 1)",
+			 "name": "Manchester City vs Aston Villa(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-			    "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+			    "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed81",
+                   "referer" : "https://primefoot.ru/",
+			 "isHost":"true"
                         }, {
-			 "name": "(DAZN 1)",
+			 "name": "Manchester City vs Aston Villa(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			                  "url" : "https://1.dlhd.sx/cast/stream-445.php",
 			 "isHost":"true"
@@ -1466,7 +1466,7 @@
                 }, {
 			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-			"url" :  "https://abolishstand.net/embed/h5m4gyv36vtc",
+			"url" :  "https://forgepattern.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                     }, {
@@ -1482,27 +1482,27 @@
                    "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                     }, {
-			 "name": "West Ham United vs Tottenham Hotspur(DAZN 2)",
+			 "name": "Arsenal vs Luton Town(DAZN 2)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 		                   "url" : "https://claplivehdplay.ru/embedlc.php?id=82",
                      "referer" : "https://primefoot.ru/",
                            "isHost":"true"
                     }, {
-			"name": "West Ham United vs Tottenham Hotspur(DAZN 2)",
+			"name": "Arsenal vs Luton Town(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
  			"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed82",
                    "referer" : "https://primefoot.ru/",
             "isHost":"true"
             }, {
-			"name": "(DAZN 2)",
+			"name": "Arsenal vs Luton Town(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
- 			          "url" : "https://godzcast.com/embed.php?player=desktop&live=do4",
+ 			          "url" : "https://godzcast.com/embed.php?player=desktop&live=do10",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
                 }, {
 			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
- 			  "url" :  "https://abolishstand.net/embed/xmr0xxbbmzod",
+ 			  "url" :  "https://forgepattern.net/embed/xmr0xxbbmzod",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                   }, {
@@ -1511,13 +1511,13 @@
 			 "url" : "https://1.dlhd.sx/cast/stream-446.php",
 			 "isHost":"true"
                 }, {
-			"name": "Newcastle United vs Everton(DAZN 3)",
+			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
  		 "url" : "https://claplivehdplay.ru/embedlc.php?id=83",
                      "referer" : "https://primefoot.ru/",
 			 "isHost":"true" 
 	       }, {
- 			"name": "Newcastle United vs Everton(DAZN 3)",
+ 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
 			 "url" : "https://1.dlhd.sx/cast/stream-447.php",
 			 "isHost":"true"
@@ -1528,13 +1528,13 @@
 		        "referer": "https://zvision.link/",
              "isHost": "true"
                }, {
-			"name": "AFC Bournemouth vs Crystal Palace(DAZN 4)",
+			"name": "Brentford vs Brighton & Hove Albion(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
 			 "url" : "https://claplivehdplay.ru/embedlc.php?id=84",
                      "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
 			  }, {
-			"name": "AFC Bournemouth vs Crystal Palace(DAZN 4)",
+			"name": "Brentford vs Brighton & Hove Albion(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
                         "url" : "https://1.dlhd.sx/cast/stream-448.php",
 			 "isHost":"true"
@@ -1554,13 +1554,13 @@
                        }, {
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url": "https://abolishstand.net/embed/dw4k0efjo1w",
+       "url": "https://forgepattern.net/embed/dw4k0efjo1w",
 			"referer": "https://elixx.xyz/",
              "isHost": "true" 
                       }, {
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-      "url": "https://abolishstand.net/embed/gy67an2ct",
+      "url": "https://forgepattern.net/embed/gy67an2ct",
 			"referer": "https://buzztv.futbol/",
              "isHost": "true" 
                        }, {
@@ -1579,7 +1579,7 @@
                          "name": "Ajax",
 			"name": "(Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url": "https://abolishstand.net/embed/1tl2lq8",
+       "url": "https://forgepattern.net/embed/1tl2lq8",
                  "referer": "https://elixx.xyz/",
              "isHost": "true" 
 		}]
@@ -1597,14 +1597,14 @@
                         "name": "hoca 101", 
 			"name": "Lorient vs Brest",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-						     "url" :  "https://abolishstand.net/embed/onfsmh",
+						     "url" :  "https://forgepattern.net/embed/onfsmh",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
         }, {
                         "name": "milan", 
 			"name": "Nice vs Nantes",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-        "url": "https://abolishstand.net/embed/fxf2qstg",
+        "url": "https://forgepattern.net/embed/fxf2qstg",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		}, { 
@@ -1625,7 +1625,7 @@
                          "name" : "juve",  
 			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			  "url": "https://abolishstand.net/embed/ww6frra9pf",
+			  "url": "https://forgepattern.net/embed/ww6frra9pf",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
                       }, { 
@@ -1646,7 +1646,7 @@
                          "name" : "milan",  
 			"name": "Strasbourg vs Rennes",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-         "url": "https://abolishstand.net/embed/fxf2qstg",
+         "url": "https://forgepattern.net/embed/fxf2qstg",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		   }, {
@@ -1659,7 +1659,7 @@
                          "name": "juve",
 			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			"url": "https://abolishstand.net/embed/ww6frra9pf",
+			"url": "https://forgepattern.net/embed/ww6frra9pf",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 			 }, {
@@ -1678,12 +1678,12 @@
                         "name": "Celtic", 
 			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-        "url": "https://abolishstand.net/embed/dw4k0efjo1w",
+        "url": "https://forgepattern.net/embed/dw4k0efjo1w",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 			 }, {
                         "name": "Valencia", 
-			"name": "",
+			"name": "prueba",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
         "url": "https://abolishstand.net/embed/ejj6a0rybyyp",
               "referer" : "https://elixx.xyz/",
@@ -1730,7 +1730,7 @@
         }, {
 			"name":"(M-Campeones)",
                       "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
-                     	 "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+                     	 "url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 		}, {
@@ -1741,7 +1741,7 @@
                     }, {
 			"name": "(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
-     			     "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+     			     "url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 		}, {
@@ -1752,7 +1752,7 @@
 			 }, {
 			"name": "(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
-         "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+         "url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 		}, {
@@ -1775,7 +1775,7 @@
 			 }, {
 			"name": "(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-      			     "url" :  "https://abolishstand.net/embed/cmms5rk1",
+      			     "url" :  "https://forgepattern.net/embed/cmms5rk1",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 	        }, {
@@ -1818,7 +1818,7 @@
                         "name": "Roma",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			 "url": "https://abolishstand.net/embed/lhfsvq5z",
+			 "url": "https://forgepattern.net/embed/lhfsvq5z",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
 	        }, {
@@ -1831,21 +1831,21 @@
                         "name": "juventus",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			"url": "https://abolishstand.net/embed/ww6frra9pf",
+			"url": "https://forgepattern.net/embed/ww6frra9pf",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
                        }, {
                         "name": "ajax",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			 "url": "https://abolishstand.net/embed/1tl2lq8",
+			 "url": "https://forgepattern.net/embed/1tl2lq8",
 			 "referer" : "https://streamonsport.ru/",
              "isHost": "true"
              }, {
                         "name": "partizan",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			 "url": "https://abolishstand.net/embed/ugce3jz6chx",
+			 "url": "https://forgepattern.net/embed/ugce3jz6chx",
 			 "referer" : "https://streamonsport.ru/",
              "isHost": "true"
            }, {
@@ -1865,7 +1865,7 @@
                         "name": "Roma",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			"url": "https://abolishstand.net/embed/lhfsvq5z",
+			"url": "https://forgepattern.net/embed/lhfsvq5z",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
 	       }, {
@@ -1878,14 +1878,14 @@
                         "name": "dortmun",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			"url": "https://abolishstand.net/embed/mey8j3",
+			"url": "https://forgepattern.net/embed/mey8j3",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
                 }, {
                         "name": "Celtic",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			"url": "https://abolishstand.net/embed/dw4k0efjo1w",
+			"url": "https://forgepattern.net/embed/dw4k0efjo1w",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
 		}]
@@ -1901,7 +1901,7 @@
            }, {
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
-            		"url" :  "https://abolishstand.net/embed/rq4g6",
+            		"url" :  "https://forgepattern.net/embed/rq4g6",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                    }, {
@@ -1913,7 +1913,7 @@
 		}, {
 			"name": "M-Campeones",
             "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png", 
-				     "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+				     "url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                      }, {
@@ -1929,7 +1929,7 @@
                            }, {
 			"name": "M-Campeones-2",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
-			"url" :  "https://abolishstand.net/embed/cmms5rk1",
+			"url" :  "https://forgepattern.net/embed/cmms5rk1",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                             }, {
@@ -1945,13 +1945,13 @@
 			  }, {  
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
-	       			     "url" :  "https://abolishstand.net/embed/89ftq8ua1j5lr",
+	       			     "url" :  "https://forgepattern.net/embed/89ftq8ua1j5lr",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                     }, {
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
-						     "url" :  "https://abolishstand.net/embed/105qqn",
+						     "url" :  "https://forgepattern.net/embed/105qqn",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                    }, {
@@ -1977,7 +1977,7 @@
                  }, {
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			      "url": "https://abolishstand.net/embed/r23llp",
+			      "url": "https://forgepattern.net/embed/r23llp",
                                "referer" : "https://1stream.buzz/",
 			"isHost": "true"
         }, {
@@ -2087,7 +2087,7 @@
                       },{
                     "name": "Bein Sport Ñ",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",
-                  "url" :  "https://abolishstand.net/embed/onfsmh",
+                  "url" :  "https://forgepattern.net/embed/onfsmh",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                                         }, {
@@ -2131,7 +2131,7 @@
                 },{
                     "name": "ESPN Premium",
                     "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt2a480c7d2a11f574/648b8b42318e1c7ce6940d8a/ESPN_Premium_Dark.jpg",
-                   "url" :  "https://abolishstand.net/embed/sc44nn",
+                   "url" :  "https://forgepattern.net/embed/sc44nn",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true" 
 		}, {
@@ -2152,7 +2152,7 @@
            }, {
 			"name": "TUDN",
 			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
-		"url" :  "https://abolishstand.net/embed/omf3vn",
+		"url" :  "https://forgepattern.net/embed/omf3vn",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                                 }, {
@@ -2198,7 +2198,7 @@
 		 }, {
 			"name": "Win Sports +",
 			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
-			"url": "https://abolishstand.net/embed/4hkxq20b10a3u69",
+			"url": "https://forgepattern.net/embed/4hkxq20b10a3u69",
 			 "referer" : "https://1stream.buzz/",
 	           "isHost": "true"   
                }, {
@@ -2250,31 +2250,31 @@
               }, {
               "name": "Sport TV-1",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-		 "url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
+		 "url" :  "https://forgepattern.net/embed/d9xskrhxh8g",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
 		}, {
              "name": "Sport TV-2",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			 "url" :  "https://abolishstand.net/embed/hx9ejf",
+			 "url" :  "https://forgepattern.net/embed/hx9ejf",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
           }, {
              "name": "Sport TV-3",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			 "url" :  "https://abolishstand.net/embed/cii4kw916f3t",
+			 "url" :  "https://forgepattern.net/embed/cii4kw916f3t",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
           }, {
               "name": "Sport TV-4",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			  "url" :  "https://abolishstand.net/embed/ern2bja2uygn",
+			  "url" :  "https://forgepattern.net/embed/ern2bja2uygn",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                 }, {
               "name": "Sport TV-5",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			 "url" :  "https://abolishstand.net/embed/vtwhdedmj96",
+			 "url" :  "https://forgepattern.net/embed/vtwhdedmj96",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
 		}]
