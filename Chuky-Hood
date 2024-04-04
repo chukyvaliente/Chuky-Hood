@@ -808,8 +808,8 @@
 		"stations": [{
 			"name": "La Liga (opción 1)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-        		"url" :  "https://forgepattern.net/embed/dvuf5ydd4",
-		"referer" : "https://buzztv.futbol/",
+        		"url" :  "https://windroses.live/man/gen.php?playerid=004",
+		"referer" : "https://fastreams.com/",
 			 "isHost":"true"
                           }, {
 			"name": "La Liga (opción 2)",
@@ -1187,9 +1187,9 @@
                        }, {
           "name": "M-F1.st",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" :  "https://forgepattern.net/embed/r23llp",
-		"referer" : "https://1stream.buzz/",
-			 "isHost":"true"
+			        "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed89",
+                   "referer" : "https://primefoot.ru/",
+            "isHost":"true"
               }, {
           "name": "M-F1-s2",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
