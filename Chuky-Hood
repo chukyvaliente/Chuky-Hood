@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 03-04-2024)",
+    "author": "chuky (Haz-tu-liada al 05-04-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -943,14 +943,15 @@
             "stations": [{
 	         "name": "Opción 1(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
-                               "url": "https://mylivestream.pro/aliez.php?stream=PKwNPB3pqX3C",
-                "isHost":"true" 
+                               "url" :  "https://mylivestream.pro/aliez.php?stream=PKwNPB3pqX3C",
+             "referer" : "https://aliezstream.pro/",
+			 "isHost":"true"
                 },{ 
                       "name": "Opción 2(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
-                       "url" :  "https://forgepattern.net/embed/89ftq8ua1j5lr",
-		"referer" : "https://1stream.buzz/",
-			 "isHost":"true"
+                           "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed67",
+		        "referer": "https://primefoot.ru/",
+             "isHost": "true"
                 },{ 
                     "name": "Opción 3(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
@@ -1940,14 +1941,15 @@
          }, {
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
-			"url" : "https://1.dlhd.sx/cast/stream-436.php",
+			"url" :  "https://mylivestream.pro/aliez.php?stream=PKwNPB3pqX3C",
+             "referer" : "https://aliezstream.pro/",
 			 "isHost":"true"
 			  }, {  
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
-	       			     "url" :  "https://forgepattern.net/embed/89ftq8ua1j5lr",
-		"referer" : "https://1stream.buzz/",
-			 "isHost":"true"
+	       	   "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed67",
+		        "referer": "https://primefoot.ru/",
+             "isHost": "true"
                     }, {
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
