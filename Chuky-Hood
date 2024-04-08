@@ -1919,9 +1919,8 @@
         }, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-         "url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=3U27L",
-                         "referer" : "https://www.freeshot.live/",
-			  "isHost": "true"
+         "url" : "https://love2live.wideiptv.top/EURO1ES/index.fmp4.m3u8?token=430c460fe4b6b5489ca5f5e62f04668b4f2a1400-b294dd53be2eed6b2adb4cbedc510d02-1712612562-1712601762",
+			 "userAgent":"" 
 		}, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
@@ -1930,9 +1929,8 @@
         }, {
 			"name": "Euro-Sport 2",
 			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
-			"url" : "https://lovesomecommunity.com/deportivo.php?player=desktop&live=3UR0ES2",
-             "referer" : "https://www.freeshot.live/",
-			  "isHost": "true"
+			 "url" : "https://love2live.wideiptv.top/EURO2ES/index.fmp4.m3u8?token=5c88715c709aa28ae0ff017e6066d620f2505720-2eaf1faff0f50bc98e037488343c8995-1712612562-1712601762",
+			 "userAgent":"" 
 		}, {
 			"name": "Euro-Sport 2",
 			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
@@ -1956,7 +1954,7 @@
                                             }, {
 			 "name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-         "url" : "https://love2live.wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=b0d618f996409d51c5a1ba6f650a7b3b44a2f185-c8c5a9788307a5e7da34bb6eb7607ce7-1712005006-1711994206",
+         "url" : "https://love2live.wideiptv.top/OneToro/index.fmp4.m3u8?token=6870b410b4776a1967ecbae5388cc4143dbdd164-45fb522f067a6ba6246e8cef9b86d8f0-1712612537-1712601737",
 			 "userAgent":"" 
                      }, {
 			"name": "Toros",
