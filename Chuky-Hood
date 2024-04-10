@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 09-04-2024)",
+    "author": "chuky (Haz-tu-liada al 10-04-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,67 +19,67 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Houston Rockets vs Dallas Mavericks",
+			"name": "Memphis Grizzlies 🏀 Cleveland Cavaliers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Cleveland Cavaliers vs LA Clippers",
+                        "name": "Charlotte Hornets 🏀 Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Miami Heat vs Indiana Pacers",
+                        "name": "Toronto Raptors 🏀 Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Portland Trail Blazers vs Boston Celtics",
+                        "name": "Dallas Mavericks 🏀 Miami Heat",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Oklahoma City Thunder vs Charlotte Hornets",
+			"name": "Orlando Magic 🏀 Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Chicago Bulls vs Orlando Magic",
+			"name": "San Antonio Spurs 🏀 Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Washington Wizards vs Toronto Raptors",
+                         "name": "Minnesota Timberwolves 🏀 Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "New Orleans Pelicans vs Phoenix Suns",
+			"name": "Phoenix Suns 🏀 LA Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "New York Knicks vs Milwaukee Bucks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Philadelphia 76ers vs San Antonio Spurs",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "Sacramento Kings vs Brooklyn Nets",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-11/",
 			"isHost": "true"
                }, {
-			"name": "Utah Jazz vs Golden State Warriors",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-12/",
 			"isHost": "true"
                }, {
-			"name": "Minnesota Timberwolves vs Los Angeles Lakers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-13/",
 			"isHost": "true"
@@ -269,57 +269,57 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
                          }, {  
-			"name": "",
+			"name": "Tampa Bay Buccaneers 🏈 Green Bay Packers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
                          }, {  
-                        "name": "",
+                        "name": "Atlanta Falcons 🏈 Carolina Panthers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
                          }, {  
-                         "name": "",
+                         "name": "New York Giants 🏈 New Orleans Saints",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
                          }, {  
-                        "name": "",
+                        "name": "Kansas City Chiefs 🏈 New England Patriots",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-04/",
 			"isHost": "true"
                         }, {
-			"name": "",
+			"name": "Houston Texans 🏈 Tennessee Titans",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-05/",
 			"isHost": "true"
                         }, {
-			"name": "",
+			"name": "Chicago Bears 🏈 Cleveland Browns",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-06/",
 			"isHost": "true"
                          }, {  
-                         "name": "",
+                         "name": "New York Jets 🏈 Miami Dolphins",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-07/",
 			"isHost": "true"
                         }, {
-			"name": "",
+			"name": "Washington Commanders 🏈 Los Angeles Rams",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-08/",
 			"isHost": "true"
                         }, {
-			"name": "",
+			"name": "San Francisco 49ers 🏈 Arizona Cardinals",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-09/",
 			"isHost": "true"
                         }, {
-			"name": "",
+			"name": "Dallas Cowboys 🏈 Buffalo Bills",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-10/",
 			"isHost": "true"
                         }, {
-			"name": "",
+			"name": "Baltimore Ravens 🏈 Jacksonville Jaguars",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-11/",
 			"isHost": "true"
@@ -344,17 +344,17 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Pittsburgh @ Toronto",
+                        "name": "Chicago 🏒 St. Louis",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Vegas @ Vancouver",
+                        "name": "Vegas 🏒 Edmonton",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Arizona 🏒 Vancouver",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
@@ -429,72 +429,72 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-                        "name": "",
+                        "name": "Dodgers ⚾ Twins",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Phillies ⚾ Cardinals",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Mariners ⚾ Blue Jays",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Diamondbacks ⚾ Rockies",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Nationals ⚾ Giants",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Rays ⚾ Angels",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "White Sox ⚾ Guardians",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Cubs ⚾ Padres",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Brewers ⚾ Reds",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Marlins ⚾ Yankees",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "",
+			"name": "Orioles ⚾ Red Sox",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "",
+			"name": "Mets ⚾ Braves",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "",
+			  "name": "Astros ⚾ Royals",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "",
+			  "name": "Athletics ⚾ Rangers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
@@ -662,7 +662,7 @@
 		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		"info": "",
 		"stations": [{
-                        "name": "Real Madrid vs Manchester City",
+                        "name": "PSG vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 	          	"url" :  "https://embx220637.apl323.me//player/live.php?id=220637&w=100%&h=100%",  
 			 "isHost":"true"
@@ -674,54 +674,54 @@
 			 "isHost":"true"
                            }, {
                         "name": "campeones",
-			"name": "Real Madrid vs Manchester City",
+			"name": "PSG vs Barcelona",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            	         "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
                           "isHost":"true"
                            }, {
                              "name": "campeones",
-			"name": "Real Madrid vs Manchester City",
+			"name": "PSG vs Barcelona",
                              "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                            "url" : "https://claplivehdplay.ru/embedlc.php?id=64",
-                     "referer" : "https://primefoot.ru/",
-			"isHost":"true" 
+                      "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
                        }, {
-			"name": "Real Madrid vs Manchester City",
+			"name": "PSG vs Barcelona",
             "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
-	         "url" : "https://godzcast.com/embed.php?player=desktop&live=do64",
-		        "referer": "https://zvision.link/",
-			"isHost" : "true"
+	              "url" :  "https://abolishstand.net/embed/cmms5rk1",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
                      }, {
-			"name": "Real Madrid vs Manchester City",
+			"name": "PSG vs Barcelona",
             "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 	"url" : "https://hd.superhit.xyz/hembedplayer/fgvsg556hcfgnh/4/500/400",
 			 "referer" : "https://hd.superhit.xyz/fgvsg556hcfgnh",
 			 "isHost":"true"
                             }, {
-			"name": "Arsenal vs Bayern München",
+			"name": "Atlético Madrid vs Borussia Dortmund",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			"url" : "https://godzcast.com/embed.php?player=desktop&live=do65",
-		        "referer": "https://zvision.link/",
+			"url" : "https://emb.apl323.me//player/live.php?id=218919&w=100%&h=100%",
 			"isHost" : "true"
                             }, {
-			"name": "Arsenal vs Bayern München",
+			"name": "Atlético Madrid vs Borussia Dortmund",
             "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 	 "url" : "https://claplivehdplay.ru/embedlc.php?id=65",
                      "referer" : "https://primefoot.ru/",
 			"isHost":"true" 
                             }, {
-			"name": "Arsenal vs Bayern München",
+			"name": "Atlético Madrid vs Borussia Dortmund",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	          "url": "https://markkystreams.com/video/s2/",
-             "isHost": "true"
+	         "url" : "https://godzcast.com/embed.php?player=desktop&live=do29",
+		        "referer": "https://zvision.link/",
+                          "isHost":"true"
                             }, {
-			"name": "Arsenal vs Bayern München",
+			"name": "Atlético Madrid vs Borussia Dortmund",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 	          "url": "https://sportsurge.stream/embed/footy1.php",
              "isHost": "true"
                             }, {
-			"name": "Arsenal vs Bayern München",
+			"name": "Atlético Madrid vs Borussia Dortmund",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 	         "url" : "https://hd.superhit.xyz/hembedplayer/gdthj8jmhgya/4/500/400",
 			 "referer" : "https://hd.superhit.xyz/gdthj8jmhgya",
@@ -729,9 +729,9 @@
                            }, {
 			"name": "Multi",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	          "url" : "https://claplivehdplay.ru/embedlc.php?id=66",
-                     "referer" : "https://primefoot.ru/",
-			"isHost":"true" 
+	         	"url" :  "https://abolishstand.net/embed/gagr8b",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
                          }, {
 			"name": "Multi",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
