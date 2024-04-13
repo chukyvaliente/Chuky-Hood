@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 11-04-2024)",
+    "author": "chuky (Haz-tu-liada al 12-04-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1020,7 +1020,7 @@
 			}, {
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-	     "url" : "https://godzcast.com/embed.php?player=desktop&live=do29",
+	     "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
 			"isHost" : "true"
                         }, {
@@ -1211,7 +1211,7 @@
 	              }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-                             "url" : "https://godzcast.com/embed.php?player=desktop&live=do10",
+                             "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
                             "isHost":"true"
                           }, {
