@@ -1179,9 +1179,9 @@
            "url" : "https://sportsurge.stream/embed/f1.php",
 			"isHost": "true"
                         }, {
-			"name": "Carrera sprint Moto GP Portugal diferido",			
-                      "image":"https://www.motociclismo.es/uploads/s1/65/17/06/5/gp-portugal-estoril-281010.jpeg",
-              "url": "https://upstream.to/davc2iae5npv",
+			"name": "Carrera sprint Moto GP Las Americas diferido",			
+                      "image":"https://www.mundodeportivo.com/files/image_449_220/uploads/2018/04/18/60e730b4990e1.jpeg",
+              "url": "https://upstream.to/cn8ljvjokibi",
              "isHost": "true"	
                       }, {
 			"name": "Carrera Moto GP Portugal diferido",			
@@ -1191,12 +1191,12 @@
 	             }, {
 			"name": "Manujaz MotoRSport MOTO (Android)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-"url":"https://vkvsd173.mycdn.me/hls/6156085627418.m3u8/sig/JiNbMwmjNSI/srcIp/37.14.45.69/urls/45.136.20.64/expires/1711731473243/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7015485418266/id/6156085627418/6156085627418_fullhd/index.m3u8",
+"url":"https://vkvsd161.mycdn.me/hls/6246852921882.m3u8/sig/VbW-mtKY4CQ/expires/1713161850378/srcIp/37.14.45.69/urls/45.136.20.66/clientType/14/srcAg/CHROME_ANDROID/mid/7070928677658/6246852921882_fullhd/index.m3u8",
                        "userAgentet" : " "
                       }, {
 			"name": "Manujaz MotoRSport MOTO (IOS)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-"url":"https://vkvsd97.mycdn.me/hls/6156085627418.m3u8/sig/E-baf6f67As/srcIp/37.14.45.69/urls/185.226.53.49/expires/1711731404437/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7015485418266/id/6156085627418/6156085627418_fullhd/index.m3u8",
+"url":"https://vkvsd161.mycdn.me/hls/6246852921882.m3u8/sig/7Yyb5vodYIM/srcIp/37.14.45.69/urls/45.136.20.66/expires/1713534707314/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7070928677658/id/6246852921882/6246852921882_fullhd/index.m3u8",
                        "userAgentet" : " "
 	              }, {
 			"name": "Moto GP",
@@ -2208,15 +2208,15 @@
 		"image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
 		"info": "",
 		"stations": [{
-                           "name": "",
+                           "name": "Moto GP",
 			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
-                  "url": "https://vkvsd22.mycdn.me/hls/6089278097946.m3u8/sig/6hT5t15nhQk/srcIp/37.14.45.69/urls/45.136.20.35/expires/1710433142682/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6973973801754/id/6089278097946/6089278097946_fullhd/index.m3u8",
+                  "url": "https://vkvsd161.mycdn.me/hls/6246852921882.m3u8/sig/VbW-mtKY4CQ/expires/1713161850378/srcIp/37.14.45.69/urls/45.136.20.66/clientType/14/srcAg/CHROME_ANDROID/mid/7070928677658/6246852921882_fullhd/index.m3u8",
              "userAgent": "" 
                             }, {
-                           "name": "",
+                           "name": "Moto GP",
 			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
-                "url": "https://vkvsd22.mycdn.me/hls/6089278097946.m3u8/sig/6hT5t15nhQk/srcIp/37.14.45.69/urls/45.136.20.35/expires/1710433142682/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6973973801754/id/6089278097946/6089278097946_fullhd/index.m3u8",
-             "userAgent": "" 
+                "url": "https://deporte.lat/194065/all.php?ch=dz1",
+             "embed": "true" 
                       }]
 			}, {
                        "name":"Calvo-Sports(By Tiri)",
