@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 17-04-2024)",
+    "author": "chuky (Haz-tu-liada al 18-04-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,12 +19,12 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Los Angeles Lakers 🏀 New Orleans Pelicans",
+			"name": "Miami Heat vs Philadelphia 76ers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Golden State Warriors 🏀 Sacramento Kings",
+                        "name": "Atlanta Hawks vs Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
@@ -344,42 +344,42 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Ottawa 🏒 Boston",
+                        "name": "Seattle @ Minnesota",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Detroit 🏒 Montreal",
+                        "name": "Vancouver @ Winnipeg",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Washington 🏒 Philadelphia",
+			"name": "San Jose @ Calgary",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Carolina 🏒 Columbus",
+			"name": "Edmonton @ Colorado",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Toronto 🏒 Florida",
+                         "name": "Anaheim @ Vegas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Seattle 🏒 Winnipeg",
+			"name": "Chicago @ Los Angeles",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
              }, {
-			"name": "Chicago 🏒 Vegas",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-7/",
 			"isHost": "true"
              }, {
-			"name": "Calgary 🏒 Vancouver",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-8/",
 			"isHost": "true"
@@ -429,77 +429,77 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-                        "name": "Rangers ⚾ Tigers",
+                        "name": "Angels @ Rays",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Twins ⚾ Orioles",
+			"name": "Rangers @ Tigers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Rockies ⚾ Phillies",
+			"name": "Guardians @ Red Sox",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Giants ⚾ Marlins",
+                         "name": "Marlins @ Cubs",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Angels ⚾ Rays",
+			"name": "Diamondbacks @ Giants",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Yankees ⚾ Blue Jays",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Pirates ⚾ Mets",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Guardians ⚾ Red Sox",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Royals ⚾ White Sox",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Padres ⚾ Brewers",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Braves ⚾ Astros",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "Cardinals ⚾ Athletics",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Reds ⚾ Mariners",
+			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Cubs ⚾ Diamondbacks",
+			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "Nationals ⚾ Dodgers",
+			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
@@ -658,97 +658,79 @@
                  "isHost": "true"
 		}]
                    }, {
-		"name": "La Champions League",
-		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		"name": "Europa League",
+		"image": "https://i.ibb.co/ryk3fPq/uefa.jpg",
 		"info": "",
 		"stations": [{
-                        "name": "Manchester City vs Real Madrid",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	          	"url" :  "https://embx220638.apl323.me//player/live.php?id=220638&w=100%&h=100%",  
-			 "isHost":"true"
-                           }, {
-			"name": "Manchester City vs Real Madrid",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			"name": "Atalanta vs Liverpool",
+			"image": "https://i.ibb.co/ryk3fPq/uefa.jpg",
 	          	 "url" :  "https://sportsonline.sx/channels/hd/hd6.php",
 		"referer" : "https://channels-1op.pages.dev/",
 			 "isHost":"true"
                            }, {
                         "name": "campeones",
-			"name": "Manchester City vs Real Madrid",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           	         "url" : "https://godzcast.com/embed.php?player=desktop&live=do26",
+			"name": "Atalanta vs Liverpool",
+			"image": "https://i.ibb.co/ryk3fPq/uefa.jpg",
+           	         "url" : "https://godzcast.com/embed.php?player=desktop&live=do29",
 		        "referer": "https://zvision.link/",
                           "isHost":"true"
-                           }, {
-                             "name": "campeones",
-			"name": "Manchester City vs Real Madrid",
-                             "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                      "url" :  "https://abolishstand.net/embed/lbr3etluqsw",
-		"referer" : "https://1stream.buzz/",
-			 "isHost":"true"
                        }, {
-			"name": "Manchester City vs Real Madrid",
-            "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			"name": "Roma vs Milan",
+            "image": "https://i.ibb.co/ryk3fPq/uefa.jpg", 
 	              "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed64",
                    "referer" : "https://primefoot.ru/",
             "isHost":"true"
                      }, {
-			"name": "Manchester City vs Real Madrid",
-            "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
-	"url" : "https://hd.superhit.xyz/hembedplayer/fgvsg556hcfgnh/4/500/400",
-			 "referer" : "https://hd.superhit.xyz/fgvsg556hcfgnh",
-			 "isHost":"true"
-                          }, {
-			"name": "Manchester City vs Real Madrid",
-            "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
-	     "url" : "https://mylivestream.pro/aliezs.php?stream=DhxJ1yVlM1ZM",
-              "referer" : "https://aliezstream.pro/",
-			 "isHost":"true" 
+			"name": "Roma vs Milan",
+            "image": "https://i.ibb.co/ryk3fPq/uefa.jpg", 
+	 "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
+		        "referer": "https://zvision.link/",
+                          "isHost":"true"
                             }, {
-			"name": "Bayern München vs Arsenal",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			"name": "Olympique Marseille vs Benfica",
+			"image": "https://i.ibb.co/ryk3fPq/uefa.jpg",
 			"url" : "https://mylivestream.pro/embed2.php?stream=3IjUKOlzLB2T",
                         "referer" : "https://livetvsx.pro/",
 			"isHost" : "true"
                             }, {
-			"name": "Bayern München vs Arsenal",
-            "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+			"name": "Olympique Marseille vs Benfica",
+            "image": "https://i.ibb.co/ryk3fPq/uefa.jpg", 
 	 "url" : "https://claplivehdplay.ru/embedlc.php?id=65",
                      "referer" : "https://primefoot.ru/",
 			"isHost":"true" 
                          }, {
-			"name": "Bayern München vs Arsenal",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			"name": "West Ham United vs Bayer Leverkusen",
+			"image": "https://i.ibb.co/ryk3fPq/uefa.jpg",
 	         "url" :  "https://abolishstand.net/embed/cmms5rk1",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                             }, {
-			"name": "Bayern München vs Arsenal",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	         "url" : "https://godzcast.com/embed.php?player=desktop&live=do29",
+			"name": "West Ham United vs Bayer Leverkusen",
+			"image": "https://i.ibb.co/ryk3fPq/uefa.jpg",
+	         "url" : "https://godzcast.com/embed.php?player=desktop&live=do26",
 		        "referer": "https://zvision.link/",
                           "isHost":"true"
                             }, {
-			"name": "Bayern München vs Arsenal",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			"name": "",
+			"image": "https://i.ibb.co/ryk3fPq/uefa.jpg",
 	          "url": "https://sportsurge.stream/embed/footy1.php",
              "isHost": "true"
                             }, {
-			"name": "Bayern München vs Arsenal",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			"name": "",
+			"image": "https://i.ibb.co/ryk3fPq/uefa.jpg",
 	         "url" : "https://hd.superhit.xyz/hembedplayer/gdthj8jmhgya/4/500/400",
 			 "referer" : "https://hd.superhit.xyz/gdthj8jmhgya",
 			 "isHost":"true"
                            }, {
 			"name": "Multi",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	         	"url" :  "https://abolishstand.net/embed/gagr8b",
+	         "url" :  "https://abolishstand.net/embed/52g8nnqi37bly6",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                          }, {
 			"name": "Multi",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-	          "url" : "https://godzcast.com/embed.php?player=desktop&live=do24",
+	          "url" : "https://godzcast.com/embed.php?player=desktop&live=do51",
 		        "referer": "https://zvision.link/",
                          "isHost":"true"
                      }]
@@ -1154,14 +1136,14 @@
               }, {
           "name": "M-F1-s2",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" : "https://godzcast.com/embed.php?player=desktop&live=do26",
+			        "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
 			"isHost" : "true"
                       }, {
           "name": "M-F1-1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" :  "https://gocast.pro/aliez.php?stream=RdKfpotjL5g",
-                              "referer" : "https://aliezstream.pro/",
+			        "url" :  "https://candlenorth.net/embed/fgvd9mt1",
+                              "referer" : "https://coolrea.link/",
 			 "isHost":"true"
                       }, {
           "name": "M-F1",
@@ -1178,7 +1160,7 @@
 		 }, {
                   	"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-                  	"url" :  "https://sportsonline.sx/channels/hd/hd10.php",
+                  	"url" :  "https://sportsonline.sx/channels/bra/br4.php",
 		"referer" : "https://channels-1op.pages.dev/",
 			 "isHost":"true"
         }, {
@@ -1923,7 +1905,7 @@
         }, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-         "url" : "https://dplus-eu-cloudfront.prod-live.h264.io/primary/2/768d16962342470596daa635f458dd02/x-discovery-token=Expires=1713107154&KeyName=primary&Signature=FMRjiVho2d_DQPwqIbiaKKkHRUk/start/1713051089/index_16.m3u8",
+         "url" : "https://love2live.wideiptv.top/EURO1ES/tracks-v1/index.fmp4.m3u8?token=ea53c2d66dedec86e581a8c8d189b8c4ce85eed3-079042b75d6f362ad0a1b15bbfa8e30b-1713475056-1713464256",
 			 "userAgent":"" 
 		}, {
 			"name": "Euro-Sport 1",
@@ -1933,7 +1915,7 @@
         }, {
 			"name": "Euro-Sport 2",
 			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
-			 "url" : "https://live-olympics-discovery.akamai.prod-live.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/hdntl=exp=1713024803~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/*~data=hdntl~hmac=2a2d4e96a7527ea4336ec040fb3a15e8ef58342e22c56180c2a980597df0c6dd/start/1712970088/index_13_0.m3u8",
+			 "url" : "https://love2live.wideiptv.top/EURO2ES/tracks-v1/index.fmp4.m3u8?token=7b67409cdedbfa6c569d40ac20c8ea11a07efb3d-3966f6d9c99f42e60c35183e2db0971b-1713475120-1713464320",
 			 "userAgent":"" 
 		}, {
 			"name": "Euro-Sport 2",
@@ -1943,12 +1925,12 @@
 		   }, {
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/16mPYdm/1-0-1-7789-424-1-C00000-0-0-0.png",
-			 "url" : "https://www.oha.to/play/3473337162/index.m3u8",
+			 "url" : "https://http://vavoo.to/play/3473337162/index.m3u8",
 			"userAgent": ""	
                 }, {
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/16mPYdm/1-0-1-7789-424-1-C00000-0-0-0.png",
-			"url" : "http://flbl1.112421.net:8082/323627/mpegts?token=0C0313859D21980E031584CA319B8B57",
+			"url" : "https://love2live.wideiptv.top/MOVISTARGOLFES/tracks-v1/index.fmp4.m3u8?token=35588a25bd21ef492a1b63e2968ec94c16d76322-5a02849fcf149179693bc7e5ee4ff21e-1713474829-1713464029",
 			"userAgent": ""	
                         }, {
 			 "name": "Toros",
@@ -1958,7 +1940,7 @@
                                             }, {
 			 "name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-         "url" : "https://love2live.wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=1c1733053e2aece2945dda4094a701b497c3fa2e-93566b26c6f5ef440549a01227188845-1713386301-1713375501",
+         "url" : "https://love2live.wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=019beafa857c6572ccbbc9ceacfd17aabf0c0ca5-caf27ac2220ac7193fb05bc81a42b676-1713473600-1713462800",
 			 "userAgent":"" 
                           }, {
 			 "name": "Toros",
