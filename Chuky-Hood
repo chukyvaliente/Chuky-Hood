@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 18-04-2024)",
+    "author": "chuky (Haz-tu-liada al 21-04-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,22 +19,22 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Miami Heat vs Philadelphia 76ers",
+			"name": "Boston Celtics vs Miami Heat",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Atlanta Hawks vs Chicago Bulls",
+                        "name": "Los Angeles Clippers vs Dallas Mavericks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Milwaukee Bucks vs Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Oklahoma City Thunder vs New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
@@ -344,32 +344,32 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Seattle @ Minnesota",
+                        "name": "Florida Panthers @ Tampa Bay Lightning",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Vancouver @ Winnipeg",
+                        "name": "New York Rangers @ Washington Capitals",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "San Jose @ Calgary",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "Edmonton @ Colorado",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
               }, {  
-                         "name": "Anaheim @ Vegas",
+                         "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-5/",
 			"isHost": "true"
               }, {
-			"name": "Chicago @ Los Angeles",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-6/",
 			"isHost": "true"
@@ -784,38 +784,45 @@
                         "url" : "https://godzcast.com/embed.php?player=desktop&live=do40",
 		        "referer": "https://zvision.link/",
 			"isHost" : "true"
-                          }, {
+                           }, {
+                        "name" : "Elixx",
 			"name": "La Liga (opción 4)",
+			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                    "url" :  "https://abolishstand.net/embed/g16dv8bwe2pkg",
+		"referer" : "https://www.elixx.xyz/",
+			 "isHost":"true"
+                          }, {
+			"name": "La Liga (opción 5)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
 			"url" : "https://claplivehdplay.ru/embedlc.php?id=60",
                      "referer" : "https://primefoot.ru/",
 			"isHost":"true" 
                          }, {
                         "name" : "prueva stream",
-			"name": "La Liga (opción 5)",
+			"name": "La Liga (opción 6)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                         "url" :  "https://forgepattern.net/embed/6na79kddf",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                           }, {
-			"name": "La de España (opción 6)",
+			"name": "La de España (opción 7)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
 		"url" : "https://hd.superhit.xyz/hembedplayer/fgvsg556hcfgnh/4/500/400",
 			 "referer" : "https://hd.superhit.xyz/fgvsg556hcfgnh",
 			 "isHost":"true"
 			 }, {
-			"name": "La de España (opción 7)",
+			"name": "La de España (opción 8)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
 			       "url" :  "https://windroses.live/man/gen.php?playerid=004",
 		"referer" : "https://fastreams.com/",
 			 "isHost":"true"
                           }, {
-			"name": "La de España (Inglés) (opción 8)",
+			"name": "La de España (Inglés) (opción 9)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
 	        "url" : "https://sportsurge.stream/embed/footy6.php",
 			 "isHost":"true"
                          }, {
-			"name": "La de España (Inglés) (opción 9)",
+			"name": "La de España (Inglés) (opción 10)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
 	        "url" : "https://sportsleading.online/live/stream_6.m3u8",
 			 "userAgent":""
@@ -884,6 +891,12 @@
 		      "url": "https://wwwstream.pro/embed/UqoaakeCQE1a",
                "referer" : "https://kingstreamz.lol/",
 			 "isHost": "true"
+                      }, {
+                        "name": "La Seguda división España (opción 11)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+        		 "url" : "https://godzcast.com/embed.php?player=desktop&live=do29",  
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"   
 		}]
                  },{
             "name": "La Liga Endesa",
@@ -1039,7 +1052,7 @@
 	           },{ 
                 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
-                                  "url" : "https://godzcast.com/embed.php?player=desktop&live=do29",
+                                  "url" : "https://godzcast.com/embed.php?player=desktop&live=do26",
 		        "referer": "https://zvision.link/",
 			"isHost" : "true"
 		     },{ 
@@ -1254,25 +1267,25 @@
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
             }, {
-			"name": "Bayer Leverkusen vs Werder Bremen(M-Campeones)",
+			"name": "Werder Bremen vs Stuttgart(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
         			     "url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 		}, {
-			"name": "Bayer Leverkusen vs Werder Bremen(M-Campeones)",
+			"name": "Werder Bremen vs Stuttgart(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
 			                  "url" : "https://claplivehdplay.ru/embedlc.php?id=64",
               "referer" : "https://tvfutbol.info/",
 			 "isHost":"true"
 			 }, {
-			"name": "(M-Campeones)",
+			"name": "Borussia Dortmund vs Bayer Leverkusen(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
       			     "url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Borussia Dortmund vs Bayer Leverkusen(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
 			                   "url" : "https://1.dlhd.sx/cast/stream-435.php",
 			 "isHost":"true"
@@ -1320,45 +1333,45 @@
 			 "isHost":"true"
              }, {
                         "name": "Lacio",
-			"name": "Darmstadt 98 vs Freiburg",
+			"name": "Borussia Dortmund vs Bayer Leverkusen",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
         "url": "https://sportsurge.stream/embed/footy9.php",
              "isHost": "true" 
           }, {
-			"name": "Darmstadt 98 vs Freiburg",
+			"name": "Borussia Dortmund vs Bayer Leverkusen",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do8",
+			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do6",
 		        "referer": "https://zvision.link/", 
                           "isHost":"true"
 	   }, {
-			"name": "Bayer Leverkusen vs Werder Bremen",
+			"name": " Werder Bremen vs Stuttgart",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
 			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do9",
 		        "referer": "https://zvision.link/",
                           "isHost":"true"
           }, {
                         "name": "DAZN1 IT",
-			"name": "Bayer Leverkusen vs Werder Bremen",
+			"name": " Werder Bremen vs Stuttgart",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
 			 "url" : "https://mylivestream.pro/aliezs.php?stream=bV0f1SLNSVTD",
 		        "referer": "https://aliezstream.pro/",
                           "isHost":"true"
            }, {
                         "name": "Milan",
-			"name": "",
+			"name": "Freiburg vs Mainz 05",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
 			"url": "https://forgepattern.net/embed/fxf2qstg",
 			"referer": "https://elixx.xyz/",
              "isHost": "true"  
           }, {
-			"name": "",
+			"name": "Freiburg vs Mainz 05",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do16",
+			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do10",
 		        "referer": "https://zvision.link/", 
                          "isHost":"true"         
           }, {
                         "name": "everton",
-			"name": "",
+			"name": "Freiburg vs Mainz 05",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
 			"url": "https://forgepattern.net/embed/40ltfs8ms26hmy",
 			"referer": "https://elixx.xyz/",
@@ -1389,25 +1402,25 @@
 		"info": "",
 		"stations": [{
                         "name" : "stream",
-	                "name": "(DAZN 1)",
+	                "name": "Everton vs Nottingham Forest(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			  "url" : "https://claplivehdplay.ru/embedlc.php?id=81",
                      "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                }, {
-			 "name": "(DAZN 1)",
+			 "name": "Everton vs Nottingham Forest(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			    "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed81",
                    "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                       }, {
-			 "name": "(DAZN 1)",
+			 "name": "Fulham vs Liverpool(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 		 "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
                 }, {
-			 "name": "(DAZN 1)",
+			 "name": "Fulham vs Liverpool(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			"url" :  "https://forgepattern.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
@@ -1425,37 +1438,37 @@
                    "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                     }, {
-			 "name": "Liverpool vs Crystal Palace(DAZN 2)",
+			 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 		                 "url" : "https://claplivehdplay.ru/embedlc.php?id=82",
               "referer" : "https://tvfutbol.info/",
 			 "isHost":"true"
                     }, {
-			"name": "Liverpool vs Crystal Palace(DAZN 2)",
+			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
  			"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed82",
                    "referer" : "https://primefoot.ru/",
             "isHost":"true"
             }, {
-			"name": "Arsenal vs Aston Villa(DAZN 2)",
+			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
- 			          "url" : "https://godzcast.com/embed.php?player=desktop&live=do29",
+ 			          "url" : "https://godzcast.com/embed.php?player=desktop&live=do26",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
                 }, {
-			"name": "Arsenal vs Aston Villa(DAZN 2)",
+			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
  			  "url" :  "https://forgepattern.net/embed/xmr0xxbbmzod",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                 }, {
-			"name": "West Ham United vs Fulham(DAZN 3)",
+			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
  		 "url" : "https://claplivehdplay.ru/embedlc.php?id=83",
                      "referer" : "https://primefoot.ru/",
 			 "isHost":"true" 
 	       }, {
- 			"name": "West Ham United vs Fulham(DAZN 3)",
+ 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
 			 "url" : "https://embx218925.apl323.me//player/live.php?id=218925&w=100%&h=100%",
 			 "isHost":"true"
@@ -1486,7 +1499,7 @@
                         "name": "(Sky premier)", 
 			"name": "Sky Premier(Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-     "url" : "https://godzcast.com/embed.php?player=desktop&live=do31",
+     "url" : "https://godzcast.com/embed.php?player=desktop&live=do33",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
                        }, {
@@ -1503,13 +1516,13 @@
                        }, {
 			"name": "Partido en Extranjero",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url" : "https://godzcast.com/embed.php?player=desktop&live=do35",
+       "url" : "https://godzcast.com/embed.php?player=desktop&live=do32",
 		        "referer": "https://zvision.link/",
              "isHost": "true" 
                       }, {
 			"name": "(Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url" : "https://godzcast.com/embed.php?player=desktop&live=do33",
+       "url" : "https://godzcast.com/embed.php?player=desktop&live=do41",
 		        "referer": "https://zvision.link/",
              "isHost": "true" 
 		}]
@@ -1518,67 +1531,67 @@
 		"image": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/02/07/3544930-72245768-2560-1440.jpg",
 		"info": "",
 		"stations": [{
- 			"name": "Le Havre vs Nantes",
+ 			"name": "Lille vs Strasbourg",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
         "url" : "https://godzcast.com/embed.php?player=desktop&live=do38",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
 		}, { 
                         "name": "hoca 101", 
-			"name": "Le Havre vs Nantes",
+			"name": "Lille vs Strasbourg",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
 		       "url" : "https://claplivehdplay.ru/embedlc.php?id=101",
                      "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
         }, {
                         "name": "milan", 
-			"name": "Clermont vs Montpellier",
+			"name": "Lille vs Strasbourg",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
         "url": "https://sportsurge.stream/embed/footy8.php",
             "isHost":"true"
 		}, { 
-                        "name" : "38",
-			"name": "Clermont vs Montpellier",
+                        "name" : "44",
+			"name": "Lille vs Strasbourg",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do38",
+			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do44",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
         }, {
                         "name" : "50",
-			"name": "Olympique Lyonnais vs Brest",
+			"name": "Brest vs Monaco",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-      "url" : "https://godzcast.com/embed.php?player=desktop&live=do50",
+      "url" : "https://godzcast.com/embed.php?player=desktop&live=do28",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
 		}, {
                          "name" : "juve",  
-			"name": "Olympique Lyonnais vs Brest",
+			"name": "Brest vs Monaco",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
 			  "url": "https://sportsurge.stream/embed/footy8.php",
             "isHost":"true"
                       }, { 
                         "name": "coolrea 33", 
-			"name": "",
+			"name": "Toulouse vs Olympique Marseille",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
+			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do1",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
                     }, {
                          "name" : "milan",  
-			"name": "",
+			"name": "Toulouse vs Olympique Marseille",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
          "url": "https://forgepattern.net/embed/fxf2qstg",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		   }, {
-			"name": "",
+			"name": "PSG vs Olympique Lyonnais",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
 			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do38",
 		        "referer": "https://zvision.link/",
              "isHost": "true"  
 		}, {
                          "name": "juve",
-			"name": "",
+			"name": "PSG vs Olympique Lyonnais",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
 			"url": "https://sportsurge.stream/embed/footy8.php",
             "isHost":"true"
@@ -1648,25 +1661,25 @@
                    "referer" : "https://primefoot.ru/",
             "isHost":"true"
         }, {
-			"name":"Sassuolo vs AC Milan(M-Campeones)",
+			"name":"Monza vs Atalanta(M-Campeones)",
                       "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
                      "url" : "https://claplivehdplay.ru/embedlc.php?id=64",
               "referer" : "https://tvfutbol.info/",
 			 "isHost":"true"
 		}, {
-			"name": "Sassuolo vs AC Milan(M-Campeones)",
+			"name": "Monza vs Atalanta(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
 			"url" :  "https://forgepattern.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                     }, {
-			"name": "Internazionale vs Cagliari(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
      			  "url" : "https://claplivehdplay.ru/embedlc.php?id=64",
               "referer" : "https://tvfutbol.info/",
 			 "isHost":"true"
 		}, {
-			"name": "Internazionale vs Cagliari(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
 			   "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed64",
                    "referer" : "https://primefoot.ru/",
@@ -1695,13 +1708,13 @@
 			  "referer" : "https://starlive.xyz/",
 			"isHost" : "true"
 			 }, {
-			"name": "Udinese vs Roma(M-Campeones 2)",
+			"name": "(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
       			     "url" :  "https://forgepattern.net/embed/cmms5rk1",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
 	        }, {
-			"name": "Udinese vs Roma(M-Campeones 2)",
+			"name": "(M-Campeones 2)",
 			"image": "https://i.ibb.co/zrgwNwJ/1-0-19-74-D5-3-F8-1-C00000-0-0-0.png",
                          "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed65",
                    "referer" : "https://primefoot.ru/",
@@ -1731,45 +1744,45 @@
                    "referer" : "https://primefoot.ru/",
              "isHost": "true"
                   }, {
-			"name": "Sassuolo vs AC Milan",
+			"name": "Torino vs Frosinone",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-     "url" : "https://godzcast.com/embed.php?player=desktop&live=do4",
+     "url" : "https://godzcast.com/embed.php?player=desktop&live=do2",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
 		}, {
                         "name": "Roma",
-			"name": "Sassuolo vs AC Milan",
+			"name": "Torino vs Frosinone",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 			 "url": "https://sportsurge.stream/embed/footy7.php",
              "isHost": "true"
 	        }, {
-			"name": "Napoli vs Frosinone",
+			"name": "Salernitana vs Fiorentina",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do2",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
                 }, {
                         "name": "juventus",
-			"name": "Napoli vs Frosinone",
+			"name": "Salernitana vs Fiorentina",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 			"url": "https://sportsurge.stream/embed/footy7.php",
              "isHost": "true"
                        }, {
                         "name": "ajax",
-			"name": "Udinese vs Roma",
+			"name": "Monza vs Atalanta",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			"url" : "https://godzcast.com/embed.php?player=desktop&live=do10",
+			"url" : "https://godzcast.com/embed.php?player=desktop&live=do36",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
              }, {
                         "name": "Bein2",
-			"name": "Udinese vs Roma",
+			"name": "Monza vs Atalanta",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 			 "url" : "https://claplivehdplay.ru/embedlc.php?id=2",
               "referer" : "https://tvfutbol.info/",
 			 "isHost":"true"
            }, {
-			"name": "Internazionale vs Cagliari",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 			 "url" : "https://godzcast.com/embed.php?player=desktop&live=do1",
 		        "referer": "https://zvision.link/",
@@ -1905,7 +1918,7 @@
         }, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-         "url" : "https://love2live.wideiptv.top/EURO1ES/tracks-v1/index.fmp4.m3u8?token=ea53c2d66dedec86e581a8c8d189b8c4ce85eed3-079042b75d6f362ad0a1b15bbfa8e30b-1713475056-1713464256",
+         "url" : "https://love2live.wideiptv.top/EURO1ES/tracks-v1/index.fmp4.m3u8?token=e7d5fe6d3e1dcf050bc3dd915ab5bd8e4a5894d5-69d459b87412666d7269ff7cb716ec7b-1713703089-1713692289",
 			 "userAgent":"" 
 		}, {
 			"name": "Euro-Sport 1",
@@ -1915,7 +1928,7 @@
         }, {
 			"name": "Euro-Sport 2",
 			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
-			 "url" : "https://love2live.wideiptv.top/EURO2ES/tracks-v1/index.fmp4.m3u8?token=7b67409cdedbfa6c569d40ac20c8ea11a07efb3d-3966f6d9c99f42e60c35183e2db0971b-1713475120-1713464320",
+			 "url" : "https://love2live.wideiptv.top/EURO2ES/tracks-v1/index.fmp4.m3u8?token=5183097b0daf0b7eb5a736073102895b9537ef3b-f39063e8798603ac5aabdcab02418f41-1713703137-1713692337",
 			 "userAgent":"" 
 		}, {
 			"name": "Euro-Sport 2",
@@ -1930,7 +1943,7 @@
                 }, {
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/16mPYdm/1-0-1-7789-424-1-C00000-0-0-0.png",
-			"url" : "https://love2live.wideiptv.top/MOVISTARGOLFES/tracks-v1/index.fmp4.m3u8?token=35588a25bd21ef492a1b63e2968ec94c16d76322-5a02849fcf149179693bc7e5ee4ff21e-1713474829-1713464029",
+			"url" : "https://love2live.wideiptv.top/MOVISTARGOLFES/tracks-v1/index.fmp4.m3u8?token=20c1b08058667c8d1227e6c70cf4ca27a276394a-af12e28ec027f56e121851293184cd32-1713703254-1713692454",
 			"userAgent": ""	
                         }, {
 			 "name": "Toros",
