@@ -1937,7 +1937,7 @@
 		}, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-                    "url" : "http://46.240.143.86/Eurosport1/video.m3u8",
+                    "url" : "http://46.240.143.86/Eurosport1/video.m3u8?token=test",
 			 "userAgent":"" 
         }, {
 			"name": "Euro-Sport 2",
@@ -1948,7 +1948,7 @@
 		}, {
 			"name": "Euro-Sport 2",
 			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
-			 "url" : "http://46.240.143.86/Eurosport2/video.m3u8",
+			 "url" : "http://46.240.143.86/Eurosport2/video.m3u8token=test",
 			 "userAgent":"" 
 		   }, {
 			"name": "M-Golf",
