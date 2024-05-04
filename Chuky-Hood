@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 02-05-2024)",
+    "author": "chuky (Haz-tu-liada al 04-05-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,12 +19,12 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Milwaukee Bucks 🏀 Indiana Pacers",
+			"name": "Cleveland Cavaliers 🏀 Orlando Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "New York Knicks 🏀 Philadelphia 76ers",
+                        "name": "LA Clippers 🏀 Dallas Mavericks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
@@ -344,12 +344,12 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Boston 🏒 Toronto",
+                        "name": "Vancouver 🏒 Nashville",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Dallas 🏒 Vegas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
@@ -429,77 +429,77 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-                        "name": "Rockies ⚾ Marlins",
+                        "name": "Brewers ⚾ Cubs",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Yankees @ Orioles",
+			"name": "Orioles ⚾ Reds",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Cubs ⚾ Mets",
+			"name": "Rockies ⚾ Pirates",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Giants ⚾ Red Sox",
+                         "name": "Giants ⚾ Phillies",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Nationals ⚾ Rangers",
+			"name": "Blue Jays ⚾ Nationals",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Guardians ⚾ Astros",
+			"name": "Mets ⚾ Rays",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Tigers ⚾ Yankees",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Angels ⚾ Guardians",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Rangers ⚾ Royals",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Mariners ⚾ Astros",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "",
+			"name": "Red Sox ⚾ Twins",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "",
+			"name": "White Sox ⚾ Cardinals",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "",
+			  "name": "Padres ⚾ Diamondbacks",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "",
+			  "name": "Marlins ⚾ Athletics",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "",
+			  "name": "Braves ⚾ Dodgers",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
@@ -558,12 +558,12 @@
 	             },{ 
                  "name": "evento 7 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                  	 "url" :  "https://sportsurge.stream/embed/boxing3.php",
+                  	 "url" :  "https://sportsurge.stream/embed/boxing2.php",
 			 "isHost":"true"
                       },{ 
                  "name": "evento 8 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                   "url": "https://streamocean.online/sportsurge/b1.php",
+                   "url": "https://sportsurge.stream/embed/boxing.php",
               "isHost":"true"
                         },{ 
                  "name": "evento 9 Boxeo",
@@ -1919,7 +1919,8 @@
 		}, {
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			"url" : "https://1.dlhd.sx/cast/stream-537.php",
+			"url" : "https://jepsikuydo1.foroactivo.com/h2-canales?id=DAZN_F1",
+                        "referer" : "https://jepsikuydo1.foroactivo.com/h2-canales?id=DAZN_LA_LIGA",
 			 "isHost":"true" 
                  }, {
 			"name": "M-F1",
@@ -1930,23 +1931,25 @@
         }, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-        "url" : "https://jepsikuydo.foroactivo.com/h2-canales?id=EUROSPORT_1_ES",
-			 "isHost":"true" 
+                        "url" : "https://jepsikuydo1.foroactivo.com/h2-canales?id=DAZN_LA_LIGA",
+                  "referer" : "https://jepsikuydo1.foroactivo.com/h2-canales?id=EUROSPORT_1_ES",
+			"isHost" : "true"
 		}, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-                    "url" : "https://1.dlhd.sx/cast/stream-524.php",
-			 "isHost":"true"
+                    "url" : "http://46.240.143.86/Eurosport1/video.m3u8",
+			 "userAgent":"" 
         }, {
 			"name": "Euro-Sport 2",
 			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
-			 "url" : "https://jepsikuydo.foroactivo.com/h2-canales?id=EUROSPORT_2_ES",
-			 "isHost":"true" 
+			  "url" : "https://jepsikuydo1.foroactivo.com/h2-canales?id=DAZN_LA_LIGA",
+                  "referer" : "https://jepsikuydo1.foroactivo.com/h2-canales?id=EUROSPORT_2_ES",
+			"isHost" : "true"
 		}, {
 			"name": "Euro-Sport 2",
 			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
-			"url" : "https://1.dlhd.sx/cast/stream-525.php",
-			 "isHost":"true"
+			 "url" : "http://46.240.143.86/Eurosport2/video.m3u8",
+			 "userAgent":"" 
 		   }, {
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/16mPYdm/1-0-1-7789-424-1-C00000-0-0-0.png",
