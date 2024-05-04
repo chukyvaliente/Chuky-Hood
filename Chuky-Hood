@@ -558,8 +558,9 @@
 	             },{ 
                  "name": "evento 7 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                  	 "url" :  "https://sportsurge.stream/embed/boxing2.php",
-			 "isHost":"true"
+                  	 "url": "https://abolishstand.net/embed/ejj6a0rybyyp",
+              "referer" : "https://elixx.xyz/",
+            "isHost":"true"
                       },{ 
                  "name": "evento 8 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
@@ -574,8 +575,9 @@
                         },{ 
                  "name": "evento 10 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                   "url": "https://gameshdlive.net/new/ch13.php",
-              "isHost":"true"
+                  "url" : "https://godzcast.com/embed.php?player=desktop&live=do33",
+		        "referer": "https://zvision.link/",
+             "isHost": "true"
                        },{ 
                  "name": "Evento 11 WWE",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
