@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 04-05-2024)",
+    "author": "chuky (Haz-tu-liada al 05-05-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1137,12 +1137,12 @@
 			  }, {
           "name": "Manujaz MotoRSport F1 (iPhone)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-			  "url": "https://vkvsd205.mycdn.me/hls/6004932282906_421613.m3u8/sig/n3GpfwaF0fA/srcIp/37.14.45.69/urls/45.136.20.83/expires/1708956402384/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6911882373914/id/6004932282906/6004932282906_fullhd/index.m3u8",
+			  "url": "https://vkvsd216.mycdn.me/hls/6344473774618.m3u8/sig/OO_1FFe6f3Q/srcIp/37.14.45.69/urls/45.136.21.89/expires/1715391762190/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7131563698970/id/6344473774618/6344473774618_fullhd/index.m3u8",
                        "userAgent" : " "
                          }, {
           "name": "Manujaz MotoRSport F1 (Android)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",	  
-                     "url":"https://vkvsd89.mycdn.me/hls/6014989896218.m3u8/sig/X-XDYuWQJhU/srcIp/37.14.45.69/urls/45.136.21.61/expires/1709129105012/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6918431451930/id/6014989896218/6014989896218_fullhd/index.m3u8",
+                     "url":"https://vkvsd183.mycdn.me/hls/6344473774618.m3u8/sig/B-Cw9gIYTV4/expires/1715019015235/srcIp/37.14.45.69/urls/45.136.22.39/clientType/14/srcAg/CHROME_ANDROID/mid/7131563698970/6344473774618_fullhd/index.m3u8",
                         "userAgent" : " "
                              }, {
           "name": "Manujaz MotoRSport WRC Safari Rally Kenia (Android)",
@@ -1178,11 +1178,12 @@
 			 "url": "https://gocast.pro/aliez.php?stream=RdKfpotjL5g",
                                "referer" : "https://aliezstream.pro/",
 			"isHost": "true"
-          }, {
-          "name": "M-F1",
+                      }, {
+                        "name" : "link 3",
+                        "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			 "url" : "https://claplivehdplay.ru/embedlc.php?id=89",
-                     "referer" : "https://primefoot.ru/",
+			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do30",
+                     "referer" : "https://zvision.link/",
 			 "isHost":"true"	 
 		 }, {
                   	"name": "M-F1",
@@ -1198,8 +1199,9 @@
 		}, {
 			"name": "M-F1-Inglés",
 			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
-           "url" : "https://sportsurge.stream/embed/f1.php",
-			"isHost": "true"
+           		 "url" :  "https://anarchy-stream.com/dhonka3.php?player=desktop&live=skysfor1",
+                 "referer": "https://sons-stream.com/",
+			 "isHost":"true"  
                         }, {
 			"name": "Carrera sprint Moto GP Las Americas diferido",			
                       "image":"https://www.mundodeportivo.com/files/image_449_220/uploads/2018/04/18/60e730b4990e1.jpeg",
