@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 05-05-2024)",
+    "author": "chuky (Haz-tu-liada al 07-05-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,12 +19,12 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Cleveland Cavaliers 🏀 Orlando Magic",
+			"name": "Cleveland Cavaliers vs Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "LA Clippers 🏀 Dallas Mavericks",
+                        "name": "Dallas Mavericks vs Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
@@ -344,12 +344,12 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Vancouver 🏒 Nashville",
+                        "name": "Carolina @ Rangers",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Dallas 🏒 Vegas",
+                        "name": "Colorado @ Dallas",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
@@ -429,77 +429,77 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-                        "name": "Brewers ⚾ Cubs",
+                        "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
               }, {
-			"name": "Orioles ⚾ Reds",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
              }, {
-			"name": "Rockies ⚾ Pirates",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
               }, {  
-                         "name": "Giants ⚾ Phillies",
+                         "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {
-			"name": "Blue Jays ⚾ Nationals",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
              }, {
-			"name": "Mets ⚾ Rays",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Tigers ⚾ Yankees",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
               }, {
-			"name": "Angels ⚾ Guardians",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
                }, {
-			"name": "Rangers ⚾ Royals",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-19/",
 			"isHost": "true"
                }, {
-			"name": "Mariners ⚾ Astros",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Red Sox ⚾ Twins",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
 			}, {
-			"name": "White Sox ⚾ Cardinals",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Padres ⚾ Diamondbacks",
+			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true"
                           }, { 
-			  "name": "Marlins ⚾ Athletics",
+			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
                             }, { 
-			  "name": "Braves ⚾ Dodgers",
+			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true"
@@ -664,48 +664,48 @@
 		"image": "https://www.elindependiente.com/wp-content/uploads/2018/03/UEFA-Champions-League.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Bayern München vs Real Madrid",
-			"image": "https://i.ibb.co/5nqSCD8/bayer-madrid.jpg",
+			"name": "PSG vs Borussia Dortmund",
+			"image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg",
 	          	 "url" :  "https://sportsonline.sx/channels/hd/hd6.php",
 		"referer" : "https://channels-1op.pages.dev/",
 			 "isHost":"true"
                            }, {
                         "name": "campeones",
-			"name": "Bayern München vs Real Madrid",
-			"image": "https://i.ibb.co/5nqSCD8/bayer-madrid.jpg",
+			"name": "PSG vs Borussia Dortmund",
+			"image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg",
            	         "url" : "https://abolishstand.net/embed/g16dv8bwe2pkg",
 		        "referer": "https://www.elixx.xyz/",
                           "isHost":"true"
                        }, {
-			"name": "Bayern München vs Real Madrid",
-            "image": "https://i.ibb.co/5nqSCD8/bayer-madrid.jpg", 
+			"name": "PSG vs Borussia Dortmund",
+            "image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg", 
 	              "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed64",
                    "referer" : "https://primefoot.ru/",
             "isHost":"true"
-                        }, {
-			"name": "Bayern München vs Real Madrid",
-			"image": "https://i.ibb.co/5nqSCD8/bayer-madrid.jpg",
-			"url" : "https://mylivestream.pro/alieztv.php?stream=DhxJ1yVlM1ZM",
-                        "referer" : "https://livetvsx.pro/",
-			"isHost" : "true"
                          }, {
-			"name": "Bayern München vs Real Madrid",
-			"image": "https://i.ibb.co/5nqSCD8/bayer-madrid.jpg",
+			"name": "PSG vs Borussia Dortmund",
+			"image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg",
 	         	"url" :  "https://abolishstand.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                             }, {
-			"name": "Bayern München vs Real Madrid",
-			"image": "https://i.ibb.co/5nqSCD8/bayer-madrid.jpg",
+			"name": "PSG vs Borussia Dortmund",
+			"image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg",
 	         "url" : "https://abolishstand.net/embed/mey8j3",
 		        "referer": "https://www.elixx.xyz/",
                           "isHost":"true"
                             }, {
-			"name": "Bayern München vs Real Madrid",
-            "image": "https://i.ibb.co/5nqSCD8/bayer-madrid.jpg", 
+			"name": "PSG vs Borussia Dortmund",
+            "image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg", 
 	 "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
                           "isHost":"true"
+                          }, {
+			"name": "PSG vs Borussia Dortmund",
+			"image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg",
+			"url" : "https://mylivestream.pro/alieztv.php?stream=DhxJ1yVlM1ZM",
+                        "referer" : "https://livetvsx.pro/",
+			"isHost" : "true"
                      }]
                           }, {
 		"name": "Eventos deportivos mix (Europa League)",
