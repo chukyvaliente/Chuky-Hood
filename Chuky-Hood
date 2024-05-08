@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 07-05-2024)",
+    "author": "chuky (Haz-tu-liada al 08-05-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -664,45 +664,57 @@
 		"image": "https://www.elindependiente.com/wp-content/uploads/2018/03/UEFA-Champions-League.jpg",
 		"info": "",
 		"stations": [{
-			"name": "PSG vs Borussia Dortmund",
-			"image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg",
+			"name": "Real Madrid vs Bayern München",
+			"image": "https://i.ibb.co/NYwwDm1/Real-madrid-bayer.png",
 	          	 "url" :  "https://sportsonline.sx/channels/hd/hd6.php",
 		"referer" : "https://channels-1op.pages.dev/",
 			 "isHost":"true"
                            }, {
                         "name": "campeones",
-			"name": "PSG vs Borussia Dortmund",
-			"image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg",
+			"name": "Real Madrid vs Bayern München",
+			"image": "https://i.ibb.co/NYwwDm1/Real-madrid-bayer.png",
            	         "url" : "https://abolishstand.net/embed/g16dv8bwe2pkg",
 		        "referer": "https://www.elixx.xyz/",
                           "isHost":"true"
                        }, {
-			"name": "PSG vs Borussia Dortmund",
-            "image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg", 
+			"name": "Real Madrid vs Bayern München",
+            "image": "https://i.ibb.co/NYwwDm1/Real-madrid-bayer.png", 
 	              "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed64",
                    "referer" : "https://primefoot.ru/",
             "isHost":"true"
+                          }, {
+			"name": "Real Madrid vs Bayern München",
+			"image": "https://i.ibb.co/NYwwDm1/Real-madrid-bayer.png",
+		"url" : "https://hd.superhit.xyz/hembedplayer/fgvsg556hcfgnh/4/500/400",
+			 "referer" : "https://hd.superhit.xyz/fgvsg556hcfgnh",
+			 "isHost":"true"
                          }, {
-			"name": "PSG vs Borussia Dortmund",
-			"image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg",
+			"name": "Real Madrid vs Bayern München",
+			"image": "https://i.ibb.co/NYwwDm1/Real-madrid-bayer.png",
 	         	"url" :  "https://abolishstand.net/embed/lbr3etluqsw",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                             }, {
-			"name": "PSG vs Borussia Dortmund",
-			"image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg",
+			"name": "Real Madrid vs Bayern München",
+			"image": "https://i.ibb.co/NYwwDm1/Real-madrid-bayer.png",
 	         "url" : "https://abolishstand.net/embed/mey8j3",
 		        "referer": "https://www.elixx.xyz/",
                           "isHost":"true"
+                             }, {
+			"name": "Real Madrid vs Bayern München",
+            "image": "https://i.ibb.co/NYwwDm1/Real-madrid-bayer.png", 
+	 "url" : "https://godzcast.com/embed.php?player=desktop&live=do19",
+		        "referer": "https://zvision.link/",
+                          "isHost":"true"
                             }, {
-			"name": "PSG vs Borussia Dortmund",
-            "image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg", 
+			"name": "Real Madrid vs Bayern München",
+            "image": "https://i.ibb.co/NYwwDm1/Real-madrid-bayer.png", 
 	 "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
                           "isHost":"true"
                           }, {
-			"name": "PSG vs Borussia Dortmund",
-			"image": "https://i.ibb.co/b5Z5LjV/psg-Dormun.jpg",
+			"name": "Real Madrid vs Bayern München",
+			"image": "https://i.ibb.co/NYwwDm1/Real-madrid-bayer.png",
 			"url" : "https://mylivestream.pro/alieztv.php?stream=DhxJ1yVlM1ZM",
                         "referer" : "https://livetvsx.pro/",
 			"isHost" : "true"
