@@ -1008,6 +1008,12 @@
             "image": "https://images.unsplash.com/photo-1678483789123-e8a73f82addb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TG9nb3RpcG8lMjBkZSUyMERBWk4lMjBNZWRpYXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
             "info": "",
             "stations": [{
+                          "name": "DAZN Liga",
+                    "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
+		"url" :  "https://tv.streamsoccers.com/live/live-vs-liga",
+              "referer" : "https://tv.streamsoccers.com/live/live-vs-liga",
+			 "isHost":"true"   
+                         }, {
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
 			      "url": "https://embx216559.apl320.me//player/live.php?id=216559&w=100%&h=100%",
@@ -1026,9 +1032,9 @@
                           }, {
                     "name": "DAZN Liga",
                     "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
-                    "url" : "https://claplivehdplay.ru/embedlc.php?id=80",
-                     "referer" : "https://tvfutbol.info/",
-			 "isHost":"true"
+                    "url" :  "https://anarchy-stream.com/dhonka2.php?player=desktop&live=mlaliga1",
+                "referer" : "https://sons-stream.com/",
+			 "isHost":"true"   
                          }, {
                     "name": "DAZN Liga 2",
                     "image": "https://i.ibb.co/3cBzLwr/1-0-1-7691-41-E-1-C00000-0-0-0.png",
