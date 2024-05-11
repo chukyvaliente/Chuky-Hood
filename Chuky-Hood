@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 08-05-2024)",
+    "author": "chuky (Haz-tu-liada al 11-05-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,12 +19,12 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Cleveland Cavaliers vs Boston Celtics",
+			"name": "New York Knicks 🏀 Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Dallas Mavericks vs Oklahoma City Thunder",
+                        "name": "Denver Nuggets 🏀 Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
@@ -344,12 +344,12 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Carolina @ Rangers",
+                        "name": "Florida 🏒 Boston",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Colorado @ Dallas",
+                        "name": "Edmonton 🏒 Vancouver",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
@@ -1226,19 +1226,20 @@
 	             }, {
 			"name": "Manujaz MotoRSport MOTO (Android)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-"url":"https://vkvsd161.mycdn.me/hls/6246852921882.m3u8/sig/VbW-mtKY4CQ/expires/1713161850378/srcIp/37.14.45.69/urls/45.136.20.66/clientType/14/srcAg/CHROME_ANDROID/mid/7070928677658/6246852921882_fullhd/index.m3u8",
+"url":"https://vkvsd217.mycdn.me/hls/6370089896474.m3u8/sig/5uKNJbQoZOo/srcIp/37.14.45.69/urls/185.226.53.53/expires/1715862967129/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7147157793562/id/6370089896474/6370089896474_fullhd/index.m3u8",
                        "userAgentet" : " "
                       }, {
 			"name": "Manujaz MotoRSport MOTO (IOS)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-"url":"https://vkvsd161.mycdn.me/hls/6246852921882.m3u8/sig/7Yyb5vodYIM/srcIp/37.14.45.69/urls/45.136.20.66/expires/1713534707314/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7070928677658/id/6246852921882/6246852921882_fullhd/index.m3u8",
+"url":"https://vkvsd217.mycdn.me/hls/6370089896474.m3u8/sig/VqxVWWqR0Wg/srcIp/37.14.45.69/urls/45.136.21.40/expires/1715862920468/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7147157793562/id/6370089896474/6370089896474_fullhd/index.m3u8
+",
                        "userAgentet" : " "
 	              }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-                             "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
-		        "referer": "https://zvision.link/",
-                            "isHost":"true"
+                              "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed81",
+		        "referer": "https://primefoot.ru/",
+             "isHost": "true"
                           }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
@@ -1254,12 +1255,13 @@
                       }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-         "url" : "https://embx218464.apl323.me//player/live.php?id=218464&w=100%&h=100%",
-             "isHost": "true"   
+         	"url" :  "https://smycdn.ru/flash29",
+		"referer" : "https://s2watch.ru/",
+			 "isHost":"true"      
                       }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-         "url" : "https://tastyturbine.com/player/4beda3bdf8a2a12a-b6a12d1869d87f0dc5321583b815b29b",
+         "url" : "https://blackdonkey.click/player/e556a18ba84ba161-1208ae210500cec8db8752d2f72de52d",
              "isHost": "true"   
                       }, {
 			"name": "Moto GP",
@@ -1270,7 +1272,8 @@
           }, {
 			"name": "Moto (extranjero)",
 			"image": "https://sport-onthebox.com/wp-content/uploads/2021/02/WEB_1-720x399.jpg",
-			 "url" : "http://sportsurge.stream/embed/motogp.php",
+			 "url" : "https://abolishstand.net/embed/ww6frra9pf",
+                         "referer" : "https://www.elixx.xyz/",
              "isHost": "true"  
 		 }, {
 			"name": "Moto (extranjero)",
