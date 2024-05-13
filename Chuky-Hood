@@ -19,14 +19,14 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "New York Knicks 🏀 Indiana Pacers",
+			"name": "Cleveland Cavaliers 🏀 Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://markkystreams.com/video/nba-01/",
+			"url" : "https://crackstreams.dev/watch/61297",
 			"isHost": "true"
                  }, {  
-                        "name": "Denver Nuggets 🏀 Minnesota Timberwolves",
+                        "name": "Dallas Mavericks 🏀 Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://markkystreams.com/video/nba-02/",
+			"url" : "https://crackstreams.dev/watch/61298",
 			"isHost": "true"
                }, {  
                         "name": "",
@@ -344,14 +344,14 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Florida 🏒 Boston",
+                        "name": "Watch Hurricanes – Rangers",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
-			"url" : "http://markkystreams.com/video/nhl-1/",
+			"url" : "https://crackstreams.dev/watch/61299",
 			"isHost": "true"
                }, {  
-                        "name": "Edmonton 🏒 Vancouver",
+                        "name": "Stars – Avalanche",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
-			"url" : "http://markkystreams.com/video/nhl-2/",
+			"url" : "https://crackstreams.dev/watch/61300",
 			"isHost": "true"
               }, {
 			"name": "",
@@ -839,9 +839,9 @@
 			 }, {
 			"name": "La de España (opción 8)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-			       "url" :  "https://windroses.live/man/gen.php?playerid=004",
-		"referer" : "https://fastreams.com/",
-			 "isHost":"true"
+			       "url" :  "https://tv.streamsoccers.com/live/live-vs-liga",
+              "referer" : "https://tv.streamsoccers.com/live/live-vs-liga",
+			 "isHost":"true"  
                           }, {
 			"name": "La de España (Inglés) (opción 9)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
@@ -1055,7 +1055,7 @@
 			}, {
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-	     "url" : "https://godzcast.com/embed.php?player=desktop&live=do47",
+	     "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
 			"isHost" : "true"
                         }, {
@@ -1437,25 +1437,25 @@
 		"info": "",
 		"stations": [{
                         "name" : "stream",
-	                "name": "(DAZN 1)",
+	                "name": "Aston Villa vs Liverpool(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			  "url" : "https://claplivehdplay.ru/embedlc.php?id=81",
                      "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                }, {
-			 "name": "(DAZN 1)",
+			 "name": "Aston Villa vs Liverpool(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			    "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed81",
                    "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                       }, {
-			 "name": "(DAZN 1)",
+			 "name": "Aston Villa vs Liverpool(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-		 "url" : "https://godzcast.com/embed.php?player=desktop&live=do47",
+		 "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
                 }, {
-			 "name": "(DAZN 1)",
+			 "name": "Aston Villa vs Liverpool(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			"url" :  "https://forgepattern.net/embed/h5m4gyv36vtc",
 		"referer" : "https://1stream.buzz/",
@@ -1863,9 +1863,8 @@
 		"stations": [{
                    "name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
-              			"url" : "https://mylivestream.pro/aliezs.php?stream=dGEX9j7C3K3Q",
-                             "referer" : "https://aliezstream.pro/",
-			 "isHost":"true"
+                        "url" : "http://50.7.234.58:8000/play/vi919242/k8D@q3wbpq/321072.m3u321072?token=H0EMV0RQRl8UAA4FAFYHCV9RUgNXUwYGBFUHCFpdVlYHAQZTBl5XBlJDFRZAFkBdBw48WFASDVcHBlYPURQXRhcGFmleXEZfFFIIBAJVBRpKQRdYWVUVXgUbREgKXBcJRlRVAw4aSEdTGU1RQQxTVDkHBkddU1JGD1kTVA8UF1wKPABTWlkKARRbGwURThBRFRNBC1pFWwgZFQRRF0pURwFBXhQHGkhHVQ5MWkcQSxpcQSZiFhwVAU1DA1YQUVpdRllGWwRNXEcaQ1BHbBBXSxIRBlBZVUVGDxVWGk8aWFIcPAdZWVYBBkIIVlpAQAgaVUFPE1lfWQ1BWBRnE1FREV5BUgEBD0YY",
+			"userAgent" : ""
            }, {
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
@@ -1875,8 +1874,8 @@
                    }, {
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
-            			      "url" : "https://claplivehdplay.ru/embedlc.php?id=71",
-              "referer" : "https://tvfutbol.info/",
+            			      "url" : "https://mylivestream.pro/aliezs.php?stream=dGEX9j7C3K3Q",
+                             "referer" : "https://aliezstream.pro/",
 			 "isHost":"true"
 		}, {
 			"name": "M-Campeones",
