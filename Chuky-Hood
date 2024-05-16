@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 15-05-2024)",
+    "author": "chuky (Haz-tu-liada al 16-05-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,12 +19,12 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Cleveland Cavaliers 🏀 Boston Celtics",
+			"name": "Denver Nuggets 🏀 Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "https://crackstreams.dev/watch/61413",
+			"url" : "https://crackstreams.dev/watch/61467",
 			"isHost": "true"
                  }, {  
-                        "name": "Dallas Mavericks 🏀 Oklahoma City Thunder",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://crackstreams.dev/watch/61414",
 			"isHost": "true"
@@ -344,14 +344,14 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Avalanche – Stars",
+                        "name": "Rangers – Hurricanes",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
-			"url" : "https://crackstreams.dev/watch/61415",
+			"url" : "https://crackstreams.dev/watch/61468",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Oilers – Canucks",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
-			"url" : "https://crackstreams.dev/watch/61300",
+			"url" : "https://crackstreams.dev/watch/61469",
 			"isHost": "true"
               }, {
 			"name": "",
@@ -429,77 +429,77 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-                        "name": "Blue Jays – Orioles",
+                        "name": "Yankees – Twins",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://crackstreams.dev/watch/61416",
-			"isHost": "true"
-              }, {
-			"name": "Marlins – Tigers",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://crackstreams.dev/watch/61420",
-			"isHost": "true"
-             }, {
-			"name": "Pirates – Brewers",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://crackstreams.dev/watch/61421",
-			"isHost": "true"
-              }, {  
-                         "name": "Nationals – White",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://crackstreams.dev/watch/61422",
-			"isHost": "true"
-              }, {
-			"name": "Reds – Diamondbacks",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://crackstreams.dev/watch/61423",
-			"isHost": "true"
-             }, {
-			"name": "Rockies – Padres",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://crackstreams.dev/watch/61424",
-			"isHost": "true"
-             }, {
-			"name": "Royals – Mariners",
-			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
-			"url" : "https://crackstreams.dev/watch/61425",
+			"url" : "https://crackstreams.dev/watch/61470",
 			"isHost": "true"
               }, {
 			"name": "Mets – Phillies",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
+			"url" : "https://crackstreams.dev/watch/61471",
+			"isHost": "true"
+             }, {
+			"name": "Rays – Red Sox",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
+			"url" : "https://crackstreams.dev/watch/61472",
+			"isHost": "true"
+              }, {  
+                         "name": "Pirates – Cubs",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
+			"url" : "https://crackstreams.dev/watch/61473",
+			"isHost": "true"
+              }, {
+			"name": "Athletics – Astros",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
+			"url" : "https://crackstreams.dev/watch/61474",
+			"isHost": "true"
+             }, {
+			"name": "eds – Dodgers",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
+			"url" : "https://crackstreams.dev/watch/61475",
+			"isHost": "true"
+             }, {
+			"name": "",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
+			"url" : "https://crackstreams.dev/watch/61425",
+			"isHost": "true"
+              }, {
+			"name": "",
+			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "https://crackstreams.dev/watch/61426",
 			"isHost": "true"
                }, {
-			"name": "Rays – Red Sox",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "https://crackstreams.dev/watch/61427",
 			"isHost": "true"
                }, {
-			"name": "Cubs – Braves",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "https://crackstreams.dev/watch/61428",
 			"isHost": "true"
                  }, {
-			"name": "Yankees – Twins",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "https://crackstreams.dev/watch/61429",
 			"isHost": "true"  
 			}, {
-			"name": "Guardians – Rangers",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "https://crackstreams.dev/watch/61430",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Athletics – Astros",
+			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "https://crackstreams.dev/watch/61431",
 			"isHost": "true"
                           }, { 
-			  "name": "Cardinals – Angels",
+			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "https://crackstreams.dev/watch/61418",
 			"isHost": "true" 
                             }, { 
-			  "name": "Dodgers – Giants",
+			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "https://crackstreams.dev/watch/61419",
 			"isHost": "true"
@@ -1182,13 +1182,13 @@
               }, {
           "name": "M-F1-s2",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
+			        "url" : "https://godzcast.com/embed.php?player=desktop&live=do40",
 		        "referer": "https://zvision.link/",
 			"isHost" : "true"
                       }, {
           "name": "M-F1-1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" :  "https://coolrea.link/ch30",
+			        "url" :  "https://coolrea.link/ch40",
 			 "isHost":"true"
                       }, {
           "name": "M-F1",
