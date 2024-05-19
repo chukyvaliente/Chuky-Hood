@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 17-05-2024)",
+    "author": "chuky (Haz-tu-liada al 19-05-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1182,13 +1182,20 @@
               }, {
           "name": "M-F1-s2",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" : "https://godzcast.com/embed.php?player=desktop&live=do40",
+			        "url" : "https://godzcast.com/embed.php?player=desktop&live=do49",
 		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                       }, {
+                        "name" : "pedro",
+                        "name": "M-F1",
+			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
+	 "url" : "https://d4zc.asia/hls1.php?get=aHR0cHM6Ly9kYXpjaW50aGVob3VzZS54eXovZjEvaW5kZXgubTN1OA==",
+                  "referer" : "https://ft.dazcfutbolios.xyz/",
 			"isHost" : "true"
                       }, {
           "name": "M-F1-1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" :  "https://coolrea.link/ch40",
+			        "url" :  "https://coolrea.link/ch49",
 			 "isHost":"true"
                       }, {
           "name": "M-F1",
@@ -1200,7 +1207,7 @@
                         "name" : "link 3",
                         "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do30",
+			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do49",
                      "referer" : "https://zvision.link/",
 			 "isHost":"true"	 
 		 }, {
