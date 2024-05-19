@@ -1260,14 +1260,15 @@
                          },{ 
                  "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-                                "url" : "https://embx218464.apl323.me//player/live.php?id=218464&w=100%&h=100%",
+                                "url" : "https://d4zc.asia/hls1.php?get=aHR0cHM6Ly9kYXpjaW50aGVob3VzZS54eXovcHJlbWllcjgvaW5kZXgubTN1OA==",
+                                "referer" : "https://ft.dazcfutbolios.xyz/",
 			 "isHost":"true"  
 			 },{ 
                  "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
-           		"url" : "https://claplivehdplay.ru/embedlc.php?id=82",
-              "referer" : "https://tvfutbol.info/",
-			 "isHost":"true"
+           		 "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed82",
+		        "referer": "https://primefoot.ru/",
+             "isHost": "true"
                     },{ 
                 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
