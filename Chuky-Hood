@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 17-05-2024)",
+    "author": "chuky (Haz-tu-liada al 19-05-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -788,6 +788,198 @@
 	          "url": "https://sportsurge.stream/embed/footy5.php",
            "isHost":"true"
                      }]
+                                }, {
+		"name": "Partidos de Hoy ⚽ (La Liga)",
+		"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		"info": "",
+		"stations": [{
+			"name": "Real Betis vs Real Sociedad (opción 1)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+        		"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed109",
+                   "referer" : "https://primefoot.ru/",
+			 "isHost":"true" 
+                          }, {
+			"name": "Real Betis vs Real Sociedad (opción 2)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+			"url" : "https://drawerformal.net/embed/zt3z2jp",
+		        "referer": "https://1l1l.to/",
+             "isHost": "true"
+                         }, {
+			"name": "Real Betis vs Real Sociedad (opción 3)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+			"url" : "https://1.dlhd.sx/cast/stream-171.php",
+			 "isHost":"true"
+                           }, {
+                        "name" : "Elixx",
+			"name": "Villarreal vs Real Madrid(opción 1)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+                   "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed63",
+                   "referer" : "https://primefoot.ru/",
+			 "isHost":"true" 
+                           }, {
+            "name" : "42",
+			"name": "Villarreal vs Real Madrid (opción 2)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+                        "url" : "https://drawerformal.net/embed/vq9vkhj3o",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                      }, {
+			"name": "Villarreal vs Real Madrid (opción 3)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+			"url" : "https://1.dlhd.sx/cast/stream-17.php",
+			 "isHost":"true" 
+                          }, {
+			"name": "Valencia vs Girona (opción 1)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed143",
+                   "referer" : "https://primefoot.ru/",
+			 "isHost":"true" 
+                         }, {
+            "name" : "43",
+			"name": "Valencia vs Girona (opción 2)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+                        "url" : "https://drawerformal.net/embed/kj2hoxz1p0eox0",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                      }, {
+			"name": "Valencia vs Girona (opción 3)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+			"url" : "https://1.dlhd.sx/cast/stream-18.php",
+			 "isHost":"true" 
+                          }, {
+			"name": "Atlético Madrid vs Osasuna (opción 1)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed140",
+                   "referer" : "https://primefoot.ru/",
+			 "isHost":"true" 
+			}, {
+            "name" : "45",
+			"name": "Atlético Madrid vs Osasuna (opción 2)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+                        "url" : "https://drawerformal.net/embed/kj2hoxz1p0eox0",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                      }, {
+			"name": "Atlético Madrid vs Osasuna (opción 3)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+			"url" : "https://1.dlhd.sx/cast/stream174.php",
+			 "isHost":"true" 
+                      }, {
+			"name": "Mallorca vs Almería (opción 1)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed146",
+                   "referer" : "https://primefoot.ru/",
+			 "isHost":"true" 
+			 }, {
+            "name" : "48",
+			"name": "Mallorca vs Almería (opción 2)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+                        "url" : "https://drawerformal.net/embed/ofdz1",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                      }, {
+			"name": "Mallorca vs Almería (opción 3)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+			"url" : "https://1.dlhd.sx/cast/stream165.php",
+			 "isHost":"true" 
+                       }, {
+			"name": "Barcelona vs Rayo Vallecano",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		 "url" :  "https://sportsonline.sx/channels/hd/hd6.php",
+		"referer" : "https://channels-1op.pages.dev/",
+			 "isHost":"true"
+                     }, {
+			"name": "Barcelona vs Rayo Vallecano (opción 1)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		"url" : "https://hd.superhit.xyz/hembedplayer/fgvsg556hcfgnh/4/500/400",
+			 "referer" : "https://hd.superhit.xyz/fgvsg556hcfgnh",
+			 "isHost":"true"
+			 }, {
+            "name" : "40",
+			"name": "Barcelona vs Rayo Vallecano (opción 2)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+                        "url" : "https://drawerformal.net/embed/xdpq3ptcuts1qpp",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                      }, {
+			"name": "Barcelona vs Rayo Vallecano (opción 3)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+			"url" : "https://1.dlhd.sx/cast/stream173.php",
+			 "isHost":"true" 
+                     }, {
+			"name": "Barcelona vs Rayo Vallecano",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed80",
+                   "referer" : "https://primefoot.ru/",
+			 "isHost":"true" 
+                      }, {
+			"name": "Granada vs Celta de Vigo (opción 1)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed145",
+                   "referer" : "https://primefoot.ru/",
+			 "isHost":"true" 
+			 }, {
+            "name" : "49",
+			"name": "Granada vs Celta de Vigo (opción 2)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+                        "url" : "https://drawerformal.net/embed/1y3rog39gf48pz",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                      }, {
+			"name": "Granada vs Celta de Vigo (opción 3)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+			"url" : "https://1.dlhd.sx/cast/stream19.php",
+			 "isHost":"true" 
+                       }, {
+			"name": "Athletic Club vs Sevilla (opción 1)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed142",
+                   "referer" : "https://primefoot.ru/",
+			 "isHost":"true" 
+			}, {
+            "name" : "44",
+			"name": "Athletic Club vs Sevilla (opción 2)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+                        "url" : "https://drawerformal.net/embed/vvoypclz0zo",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                      }, {
+			"name": "Athletic Club vs Sevilla (opción 3)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+			"url" : "https://1.dlhd.sx/cast/stream530.php",
+			 "isHost":"true"  
+                      }, {
+			"name": "Cádiz vs Las Palmas (opción 1)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed144",
+                   "referer" : "https://primefoot.ru/",
+			 "isHost":"true" 
+			 }, {
+            "name" : "47",
+			"name": "Cádiz vs Las Palmas (opción 2)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+                        "url" : "https://drawerformal.net/embed/0c46cr4hjls",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                      }, {
+			"name": "Cádiz vs Las Palmas (opción 3)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+			"url" : "https://1.dlhd.sx/cast/stream175.php",
+			 "isHost":"true"  
+                   }, {
+			"name": "Simulcast (opción 1)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed60",
+                   "referer" : "https://primefoot.ru/",
+			 "isHost":"true" 
+			 }, {
+            "name" : "39",
+			"name": "Simulcast (opción 2)",
+			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+                        "url" : "https://drawerformal.net/embed/lru1us9mecf",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                     }]
                 }, {
 		"name": "LaLiga EA Sports",
 		"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/06/03/16857929786160.jpg",
@@ -1445,19 +1637,19 @@
 		"info": "",
 		"stations": [{
                         "name" : "stream",
-	                "name": "Manchester United vs Newcastle United(DAZN 1)",
+	                "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			  "url" : "https://claplivehdplay.ru/embedlc.php?id=81",
                      "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                }, {
-			 "name": "Manchester United vs Newcastle United(DAZN 1)",
+			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 			    "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed81",
                    "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
                       }, {
-			 "name": "Manchester United vs Newcastle United(DAZN 1)",
+			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
 		 "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
@@ -1505,18 +1697,18 @@
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                 }, {
-			"name": "Chelsea W vs Tottenham Hotspur(DAZN 3)",
+			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
  		 "url" : "https://claplivehdplay.ru/embedlc.php?id=83",
                      "referer" : "https://primefoot.ru/",
 			 "isHost":"true" 
 	       }, {
- 			"name": "Chelsea W vs Tottenham Hotspur(DAZN 3)",
+ 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
 			 "url" : "https://embx218925.apl323.me//player/live.php?id=218925&w=100%&h=100%",
 			 "isHost":"true"
                 }, {
-			"name": "Chelsea W vs Tottenham Hotspur(DAZN 3)",
+			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
  			   "url" : "https://godzcast.com/embed.php?player=desktop&live=do29",
 		        "referer": "https://zvision.link/",
@@ -1574,35 +1766,35 @@
 		"image": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/02/07/3544930-72245768-2560-1440.jpg",
 		"info": "",
 		"stations": [{
- 			"name": "Nice vs PSG",
+ 			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
         "url" : "https://godzcast.com/embed.php?player=desktop&live=do38",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
 		}, { 
                         "name": "hoca 101", 
-			"name": "Nice vs PSG",
+			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
 		       "url" : "https://claplivehdplay.ru/embedlc.php?id=101",
                      "referer" : "https://primefoot.ru/",
 			 "isHost":"true"
         }, {
                         "name": "milan", 
-			"name": "Nice vs PSG",
+			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
         "url": "https://abolishstand.net/embed/fxf2qstg",
                "referer" : "https://www.elixx.xyz/",
             "isHost":"true"
 		}, { 
                         "name" : "51",
-			"name": "Reims vs Olympique Marseille",
+			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
 			  "url" : "https://godzcast.com/embed.php?player=desktop&live=do51",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
         }, {
                         "name" : "lazio",
-			"name": "Reims vs Olympique Marseille",
+			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
       "url" : "https://abolishstand.net/embed/x3euisb4tt7",
 		        "referer": "https://www.elixx.xyz/",
@@ -1956,8 +2148,7 @@
                  }, {
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			          "url" : "https://claplivehdplay.ru/embedlc.php?id=89",
-              "referer" : "https://tvfutbol.info/",
+			         "url" : "https://1.dlhd.sx/cast/stream-131.php",
 			 "isHost":"true"
         }, {
 			"name": "Euro-Sport 1",
