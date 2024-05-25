@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 20-05-2024)",
+    "author": "chuky (Haz-tu-liada al 25-05-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1354,12 +1354,12 @@
                          }, {
           "name": "Manujaz MotoRSport F1 (Android)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",	  
-                     "url":"https://vkvsd183.mycdn.me/hls/6344473774618.m3u8/sig/B-Cw9gIYTV4/expires/1715019015235/srcIp/37.14.45.69/urls/45.136.22.39/clientType/14/srcAg/CHROME_ANDROID/mid/7131563698970/6344473774618_fullhd/index.m3u8",
+                     "url":"https://vkvsd54.mycdn.me/hls/6572594236055.m3u8/sig/85gbVPrARqI/srcIp/37.14.45.69/urls/45.136.22.39/expires/1717101163999/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7971790728087/id/6572594236055/6572594236055_high/index.m3u8"
                         "userAgent" : " "
                              }, {
           "name": "Manujaz MotoRSport WRC Safari Rally Kenia (Android)",
 			"image": "https://i.ibb.co/z8yPmxP/manu-nascar.jpg",
-	"url":" https://vkvsd203.mycdn.me/hls/6167960750618.m3u8/sig/x8ei6mbFa6I/srcIp/37.14.45.69/urls/45.136.21.61/expires/1711979945564/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7022814964506/id/6167960750618/6167960750618_fullhd/index.m3u8",
+	"url":"https://vkvsd54.mycdn.me/hls/6572594236055.m3u8/sig/HzAQsW6H8IU/expires/1716728115168/srcIp/37.14.45.69/urls/185.226.52.64/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/7971790728087/6572594236055_high/index.m3u8",
                   "userAgent" : " "
                                  }, {
           "name": "Manujaz MotoRSport WRC Safari Rally Kenia (IOS)",
@@ -1375,7 +1375,7 @@
               }, {
           "name": "M-F1-s2",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" : "https://godzcast.com/embed.php?player=desktop&live=do49",
+			        "url" : "https://godzcast.com/embed.php?player=desktop&live=do30",
 		        "referer": "https://zvision.link/",
 			"isHost" : "true"
                        }, {
@@ -1388,7 +1388,7 @@
                       }, {
           "name": "M-F1-1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" :  "https://coolrea.link/ch49",
+			        "url" :  "https://coolrea.link/ch30",
 			 "isHost":"true"
                       }, {
           "name": "M-F1",
@@ -1400,7 +1400,7 @@
                         "name" : "link 3",
                         "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do49",
+			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do30",
                      "referer" : "https://zvision.link/",
 			 "isHost":"true"	 
 		 }, {
