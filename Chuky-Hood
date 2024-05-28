@@ -1,13 +1,13 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 27-05-2024)",
+    "author": "chuky (Haz-tu-liada al 28-05-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
     "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood",
     "groups": [{
              "name": "Lista para todo el mundo (Sin lucrarse)",
-            "image": "https://www.fotoefectos.com/images/202312/24/fotoefectos.com__final_8036384233957609407_.jpg?act=27",
+            "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
             "info": "",
             "stations": [{}]
                    }, {
@@ -19,12 +19,12 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Indiana Pacers 🏀 New York Knicks",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"name": "Finales de conferencia",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUSyJfH9YDu8-PKl6tv69k1-j6dVUH4Cevg&usqp=CAU",
 			"url" : "https://v.markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Minnesota Timberwolves 🏀 Denver Nuggets",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://v.markkystreams.com/video/nba-02/",
 			"isHost": "true"
@@ -2201,7 +2201,7 @@
                           }, {
 			 "name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-      "url": "https://wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=754008afcf8a4d915d535b333e2ba16bb0bd9a6b-51aeb70c2f255c048942c75b6c63180e-1716841220-1716830420",
+      "url": "https://wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=ee9eba8710ece22e2047696305ddbe4e6d5a9d4c-00e4cc94ac32b36b2c159e3bcaeac733-1716927850-1716917050",
                         "userAgent": ""
                        }, {
 			"name": "Torolé",
@@ -2218,11 +2218,6 @@
 			"image": "https://www.mundoplus.tv/wp-content/uploads/2021/04/caza_y_pesca.png",
         "url": "http://vavoo.to/play/3490860131/index.m3u8",
 			"userAgent": "" 
-         }, {
-			"name": "Barça TV",
-			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
-			 "url": "http://154.62.74.29:1935/live/barza/chunklist.m3u8",
-             "userAgent": ""     
 		}, {
 			"name": "Barça TV",
 			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
