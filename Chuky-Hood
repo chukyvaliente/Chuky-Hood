@@ -2154,10 +2154,10 @@
 			 "isHost":"true"
         }, {
 			"name": "Euro-Sport 1",
-			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-                        "url" : "https://jepsikuydo1.foroactivo.com/h2-canales?id=DAZN_LA_LIGA",
-                  "referer" : "https://jepsikuydo1.foroactivo.com/h2-canales?id=EUROSPORT_1_ES",
-			"isHost" : "true"
+			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
+                      "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=eurosp1",
+			 "referer" : "https://wikisport.se/",
+			 "isHost":"true" 
 		}, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
@@ -2165,9 +2165,10 @@
 			 "userAgent":"" 
         }, {
 			"name": "Euro-Sport 2",
-			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
-			  "url" : "https://badtothebone.foo/player/cf9ff36d5c9e8f1e-a33124eb4e665fdd3e28454d0b043a3f",
-			"isHost" : "true"
+			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
+			 "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=eurosp2",
+			 "referer" : "https://wikisport.se/",
+			 "isHost":"true" 
 		}, {
 			"name": "Euro-Sport 2",
 			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
@@ -2179,10 +2180,11 @@
 			 "url" : "https://1.dlhd.sx/cast/stream-528.php",
 			"isHost": "true"	
                 }, {
-			"name": "M-Golf",
-			"image": "https://i.ibb.co/16mPYdm/1-0-1-7789-424-1-C00000-0-0-0.png",
-			"url" : "https://love2live.wideiptv.top/MOVISTARGOLFES/tracks-v1/index.fmp4.m3u8?token=94925c3f73e87505b1f379b644fc5baed1112cf3-5dac0c56d2490ffe0adfb93c12f5eab6-1717008514-1716997714",
-			"userAgent": ""	
+			"name": "SKY-Golf",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png",
+			"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=skysgol",
+			 "referer" : "https://cricplay2.xyz/",
+			 "isHost":"true" 
                         }, {
 			 "name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
@@ -2454,6 +2456,30 @@
 			 		 "url" :  "https://sportsonline.sx/channels/pt/sporttv5.php",
 		"referer" : "https://channels-1op.pages.dev/",
 			 "isHost":"true"
+                                                               }, {
+			"name": "TNT Sport 1",
+			"image": "https://media.info/l/o/1/1539.1690027797.png",
+		"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=bbtsp1",
+			 "referer" : "https://cricplay2.xyz/",
+			 "isHost":"true" 
+                      }, {
+			"name": "TNT Sport 2",
+			"image": "https://media.info/l/o/1/1540.1690027877.png",
+		"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=bbtsp2",
+			 "referer" : "https://cricplay2.xyz/",
+			 "isHost":"true" 
+                     }, {
+			"name": "TNT Sport 3",
+			"image": "https://media.info/l/o/5/5712.1690027954.png",
+		"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=bbtsp3",
+			 "referer" : "https://cricplay2.xyz/",
+			 "isHost":"true" 
+                      }, {
+			"name": "TNT Sport 4",
+			"image": "https://media.info/l/o/1/1491.1690027975.png",
+		"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=bbtespn",
+			 "referer" : "https://cricplay2.xyz/",
+			 "isHost":"true" 
 		}]
 			}, {
 		"name": "Evento especial",
