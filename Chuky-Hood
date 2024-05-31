@@ -2161,8 +2161,8 @@
 		}, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-                    "url" : "http://46.240.143.86/Eurosport1/video.m3u8?token=test",
-			 "userAgent":"" 
+                    "url" : "https://klubsports.buzz/watch/watch.php?id=624&channel=Eurosport%201%20ES",
+			 "isHost":"true"
         }, {
 			"name": "Euro-Sport 2",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
@@ -2172,8 +2172,8 @@
 		}, {
 			"name": "Euro-Sport 2",
 			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
-			 "url" : "http://46.240.143.86/Eurosport2/video.m3u8?token=test",
-			 "userAgent":"" 
+			 "url" : "https://klubsports.buzz/watch/watch.php?id=625&channel=Eurosport%202%20ES",
+			 "isHost":"true" 
 		   }, {
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/16mPYdm/1-0-1-7789-424-1-C00000-0-0-0.png",
