@@ -2299,6 +2299,11 @@
 				"url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=t02",
                "referer" : "https://wikisport.se/",
 			 "isHost":"true" 
+                                                                  }, {
+			"name": "TNT Sports Boxing",
+			"image": "https://yt3.googleusercontent.com/KfJlMDh1Gaoh4NUrCdAfkvgamELe8PpOV9vTEz4HpADAcuRSiXAoMxsVYtef30hvwNbl-Id9GpY=s900-c-k-c0x00ffffff-no-rj",
+			 "url": "https://playsportzone.com/major/?box",
+			"isHost": "true" 
 		}]
 			}, {
 		"name": "Evento especial",
