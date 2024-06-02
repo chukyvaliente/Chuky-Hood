@@ -718,6 +718,11 @@
                       "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=ten20",
                "referer" : "https://wikisport.se/",
 			 "isHost":"true"  
+                     },{ 
+                 "name": "Tennis Channel",
+                    "image": "https://www.mundoplus.tv/wp-content/uploads/2023/08/tennischannel-1.jpg",
+                      "url" : "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8",
+			 "userAgent":""  
 		}]
                            }, {
 		"name": "Zona Messi",
