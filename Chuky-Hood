@@ -2244,10 +2244,22 @@
                                                                }, {
 			"name": "TNT Sport 1",
 			"image": "https://media.info/l/o/1/1539.1690027797.png",
+		  "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtsp1",
+             "referer" : "https://wikisport.se/",
+              "isHost": "true" 
+                                                  }, {
+			"name": "TNT Sport 1",
+			"image": "https://media.info/l/o/1/1539.1690027797.png",
 		"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=bbtsp1",
 			 "referer" : "https://cricplay2.xyz/",
 			 "isHost":"true" 
                       }, {
+			"name": "TNT Sport 2",
+			"image": "https://media.info/l/o/1/1540.1690027877.png",
+		  "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtsp2",
+             "referer" : "https://wikisport.se/",
+              "isHost": "true" 
+                                                    }, {
 			"name": "TNT Sport 2",
 			"image": "https://media.info/l/o/1/1540.1690027877.png",
 		"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=bbtsp2",
@@ -2256,15 +2268,21 @@
                      }, {
 			"name": "TNT Sport 3",
 			"image": "https://media.info/l/o/5/5712.1690027954.png",
+		  "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtsp3",
+             "referer" : "https://wikisport.se/",
+              "isHost": "true" 
+                                                 }, {
+			"name": "TNT Sport 3",
+			"image": "https://media.info/l/o/5/5712.1690027954.png",
 		"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=bbtsp3",
 			 "referer" : "https://cricplay2.xyz/",
 			 "isHost":"true" 
-                      }, {
+                    }, {
 			"name": "TNT Sport 4",
 			"image": "https://media.info/l/o/1/1491.1690027975.png",
-		"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=bbtespn",
-			 "referer" : "https://cricplay2.xyz/",
-			 "isHost":"true" 
+		 "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtespn",
+             "referer" : "https://wikisport.se/",
+              "isHost": "true" 
                                                 }, {
 			"name": "TNT Sport 4",
 			"image": "https://media.info/l/o/1/1491.1690027975.png",
