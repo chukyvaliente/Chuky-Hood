@@ -1077,14 +1077,14 @@
                      "url":"https://vkvsd54.mycdn.me/hls/6572594236055.m3u8/sig/85gbVPrARqI/srcIp/37.14.45.69/urls/45.136.22.39/expires/1717101163999/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7971790728087/id/6572594236055/6572594236055_high/index.m3u8",
                         "userAgent" : " "
                              }, {
-          "name": "Manujaz MotoRSport WRC Safari Rally Kenia (Android)",
+          "name": "Manujaz MotoRSport WRC RALLY ITALIA SARDEGNA 2024 (Android)",
 			"image": "https://i.ibb.co/z8yPmxP/manu-nascar.jpg",
-	"url":"https://vkvsd54.mycdn.me/hls/6572594236055.m3u8/sig/HzAQsW6H8IU/expires/1716728115168/srcIp/37.14.45.69/urls/185.226.52.64/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/7971790728087/6572594236055_high/index.m3u8",
+	"url":"https://vkvsd231.mycdn.me/hls/6479760591386.m3u8/sig/eT88cVXx0QI/srcIp/83.40.144.254/urls/185.226.53.55/expires/1717748704623/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7207596403482/id/6479760591386/6479760591386_fullhd/index.m3u8",
                   "userAgent" : " "
                                  }, {
-          "name": "Manujaz MotoRSport WRC Safari Rally Kenia (IOS)",
+          "name": "Manujaz MotoRSport WRC RALLY ITALIA SARDEGNA 2024 (IOS)",
 			"image": "https://i.ibb.co/z8yPmxP/manu-nascar.jpg",
-			  "url": " https://vkvsd203.mycdn.me/hls/6167960750618.m3u8/sig/x8ei6mbFa6I/srcIp/37.14.45.69/urls/45.136.21.61/expires/1711979945564/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7022814964506/id/6167960750618/6167960750618_fullhd/index.m3u8",
+			  "url": " https://vkvsd231.mycdn.me/hls/6479760591386.m3u8/sig/DosTwUeCN5E/srcIp/83.40.144.254/urls/45.136.21.79/expires/1717748583308/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7207596403482/id/6479760591386/6479760591386_fullhd/index.m3u8",
                    "userAgent" : " "
                        }, {
           "name": "M-F1.st",
@@ -1153,12 +1153,12 @@
 	             }, {
 			"name": "Manujaz MotoRSport MOTO (Android)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-"url":"https://vkvsd217.mycdn.me/hls/6370089896474.m3u8/sig/5uKNJbQoZOo/srcIp/37.14.45.69/urls/185.226.53.53/expires/1715862967129/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7147157793562/id/6370089896474/6370089896474_fullhd/index.m3u8",
+"url":"https://vkvsd231.mycdn.me/hls/6479760591386.m3u8/sig/eT88cVXx0QI/srcIp/83.40.144.254/urls/185.226.53.55/expires/1717748704623/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7207596403482/id/6479760591386/6479760591386_fullhd/index.m3u8",
                        "userAgentet" : " "
                       }, {
 			"name": "Manujaz MotoRSport MOTO (IOS)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-"url":"https://vkvsd217.mycdn.me/hls/6370089896474.m3u8/sig/VqxVWWqR0Wg/srcIp/37.14.45.69/urls/45.136.21.40/expires/1715862920468/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7147157793562/id/6370089896474/6370089896474_fullhd/index.m3u8",
+"url":"https://vkvsd231.mycdn.me/hls/6479760591386.m3u8/sig/DosTwUeCN5E/srcIp/83.40.144.254/urls/45.136.21.79/expires/1717748583308/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7207596403482/id/6479760591386/6479760591386_fullhd/index.m3u8",
                        "userAgentet" : " "
 	              }, {
 			"name": "Moto GP",
