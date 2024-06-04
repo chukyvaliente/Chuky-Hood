@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 02-06-2024)",
+    "author": "chuky (Haz-tu-liada al 04-06-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1948,6 +1948,11 @@
                       "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=eurosp1",
 			 "referer" : "https://wikisport.se/",
 			 "isHost":"true" 
+                                       }, {
+			"name": "Euro-Sport 1",
+			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
+                    "url" : "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8",
+			 "userAgent":""
 		}, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
@@ -1959,6 +1964,11 @@
 			 "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=eurosp2",
 			 "referer" : "https://wikisport.se/",
 			 "isHost":"true" 
+                                       }, {
+			"name": "Euro-Sport 1",
+			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
+                    "url" : "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8",
+			 "userAgent":""
 		}, {
 			"name": "Euro-Sport 2",
 			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
