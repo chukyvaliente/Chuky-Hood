@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 04-06-2024)",
+    "author": "chuky (Haz-tu-liada al 05-06-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1272,6 +1272,26 @@
                "referer" : "https://wikisport.se/",
 			 "isHost":"true"  
 		}]
+                                                 }, {
+                "name": "TT ISLA DE MAN: LA CARRERA MAS PELIGROSA DEL MUNDO",
+		"image": "https://ezfo86czbpk.exactdn.com/wp-content/uploads/2014/04/0dc715b6e569faab4ae26d54a976515b.jpg",
+		"info": "",
+		"stations": [{
+			"name": "video presentación",
+			"image": "https://www.motociclismo.es/uploads/s1/13/35/09/94/michael-dunlop-busca-el-record-historico-de-victorias-en-el-iomtt-2024_2_790x454.jpeg",
+        		"url" : "https://upstream.to/7o79he6pzn3v",
+			 "isHost":"true" 
+                    }, {
+                   "name": "Carrera en directo Android (Manujaz)",
+			"image": "https://i.ibb.co/DRCwLHT/tt-nanu.jpg",
+      "url" : "https://vkvsd185.mycdn.me/hls/6494912317978.m3u8/sig/cj45MPtNsDs/srcIp/37.14.45.69/urls/185.226.53.57/expires/1718044620495/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7216869944090/id/6494912317978/6494912317978_fullhd/index.m3u8",
+            "userAgent" : " " 
+                  }, {
+                   "name": "Carrera en directo IOS (Manujaz)",
+			"image": "https://i.ibb.co/DRCwLHT/tt-nanu.jpg",
+      "url" : " https://vkvsd185.mycdn.me/hls/6494912317978.m3u8/sig/Ehc6abGOcHk/expires/1717671749530/srcIp/37.14.45.69/urls/185.226.53.57/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/7216869944090/6494912317978_fullhd/index.m3u8",
+            "userAgent" : " " 
+               }]
                   }, {
 		"name": "Bundesliga",
 		"image": "https://i.pinimg.com/originals/5a/41/29/5a4129695a9acc9fee99b40531b07672.png",
