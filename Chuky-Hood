@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 06-06-2024)",
+    "author": "chuky (Haz-tu-liada al 07-06-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,8 +19,8 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Finales de conferencia",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUSyJfH9YDu8-PKl6tv69k1-j6dVUH4Cevg&usqp=CAU",
+			"name": "Final",
+			"image": "https://piratasdelbasket.net/storage/2021/07/NBA-Finals-Logo.jpg",
 			"url" : "https://v.markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
@@ -1160,7 +1160,7 @@
               }, {
           "name": "M-F1-s2",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do30",
+			        "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do29",
 		        "referer": "https://zvision.link/",
 			"isHost" : "true"
                        }, {
@@ -1173,7 +1173,7 @@
                       }, {
           "name": "M-F1-1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" :  "https://coolrea.link/ch30",
+			        "url" :  "https://coolrea.link/ch29",
 			 "isHost":"true"
                       }, {
           "name": "M-F1",
@@ -1185,7 +1185,7 @@
                         "name" : "link 3",
                         "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do30",
+			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do29",
                      "referer" : "https://zvision.link/",
 			 "isHost":"true"	 
 		 }, {
@@ -1197,8 +1197,9 @@
         }, {
 			"name": "M-F1-Inglés",
 			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
-            "url" : "https://v.markkystreams.com/video/f1/",
-			"isHost": "true"
+            "url" :  "https://abolishstand.net/embed/ejj6a0rybyyp",
+                 "referer": "https://www.elixx.xyz/",
+			 "isHost":"true"  
 		}, {
 			"name": "M-F1-Inglés",
 			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
@@ -1284,12 +1285,12 @@
                     }, {
                    "name": "Carrera en directo Android (Manujaz)",
 			"image": "https://i.ibb.co/DRCwLHT/tt-nanu.jpg",
-      "url" : "https://vkvsd75.mycdn.me/hls/6498639940122.m3u8/sig/eQOJtfGebEQ/srcIp/37.14.45.69/urls/185.226.52.84/expires/1718123960777/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7219125431066/id/6498639940122/6498639940122_fullhd/index.m3u8",
+      "url" : "https://vkvsd210.mycdn.me/hls/6503455001114.m3u8/sig/UNAeV9ar_A4/srcIp/37.14.45.69/urls/45.136.22.89/expires/1718216094915/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7222160730906/id/6503455001114/6503455001114_fullhd/index.m3u8",
             "userAgent" : " " 
                   }, {
                    "name": "Carrera en directo IOS (Manujaz)",
 			"image": "https://i.ibb.co/DRCwLHT/tt-nanu.jpg",
-      "url" : " https://vkvsd75.mycdn.me/hls/6498639940122.m3u8/sig/XyFyykCG0f0/srcIp/37.14.45.69/urls/185.226.52.84/expires/1718123917356/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7219125431066/id/6498639940122/6498639940122_fullhd/index.m3u8",
+      "url" : " https://vkvsd173.mycdn.me/hls/6503455001114.m3u8/sig/GRaKGSGS_MU/expires/1717843248571/srcIp/37.14.45.69/urls/185.226.53.96/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/7222160730906/6503455001114_fullhd/index.m3u8 ",
             "userAgent" : " " 
                }]
                   }, {
