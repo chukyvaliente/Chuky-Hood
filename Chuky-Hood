@@ -908,14 +908,13 @@
             "stations": [{
 	         "name": "Opción 1(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
-                               "url" :  "https://brownheaven.net/embed/ud9rsutobknz1um",
-             "referer" : "https://www.tv1337.buzz/",
+                               "url" :  "https://claplivehdplay.ru/wizhd.php?id=sabrouch39",
+             "referer" : "https://kingstreamz.lol/",
 			 "isHost":"true"
                 },{ 
                       "name": "Opción 2(M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
-                           "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed67",
-		        "referer": "https://primefoot.ru/",
+                           "url" : "https://emb.apl351.me/player/live.php?id=223897&w=700&h=480",
              "isHost": "true"
                 },{ 
                     "name": "Opción 3(M-Deportes)",
@@ -2346,6 +2345,12 @@
 			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
               		"url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=w016",
                "referer" : "https://wikisport.se/",
+			 "isHost":"true"  
+                                           }, {
+                           "name": "Moto GP",
+			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
+              		"url" : "https://4kwebplay.xyz/crv.php?id=bet6284737",
+               "referer" : "https://antennasports.ru/",
 			 "isHost":"true"  
                       }]
 			}, {
