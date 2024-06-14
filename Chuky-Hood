@@ -821,6 +821,11 @@
 	                                "url" :  "https://abolishstand.net/embed/6na79kddf",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
+                                                      }, {
+			"name": "Alemania - Escocia",
+			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+	                                "url" :  "https://klubsports.buzz/watch/watch.php?id=633&channel=TVE%20La%201%20Spain",
+			 "isHost":"true" 
 		 }]
                  }, {
 		"name": "Partidos de hoy",
@@ -1013,8 +1018,7 @@
                     },{ 
                 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
-                 "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed82",
-		        "referer": "https://primefoot.ru/",
+                 "url" : "https://klubsports.buzz/watch/watch.php?id=546&channel=DAZN2%20ES",
              "isHost": "true"
 	           },{ 
                 "name": "(DAZN 2)",
@@ -1845,8 +1849,7 @@
                    }, {
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
-            			      "url" : "https://mylivestream.pro/aliezs.php?stream=dGEX9j7C3K3Q",
-                             "referer" : "https://aliezstream.pro/",
+            			      "url" : "https://klubsports.buzz/watch/watch.php?id=621&channel=#Vamos%20Spain",
 			 "isHost":"true"
 		}, {
 			"name": "M-Campeones",
@@ -1962,7 +1965,7 @@
 		   }, {
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/16mPYdm/1-0-1-7789-424-1-C00000-0-0-0.png",
-			 "url" : "https://1.dlhd.sx/cast/stream-528.php",
+			 "url" : "https://klubsports.buzz/watch/watch.php?id=628&channel=Movistar%20Golf",
 			"isHost": "true"	
                 }, {
 			"name": "SKY-Golf",
@@ -2056,7 +2059,7 @@
                       },{
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-                               "url" : "https://1.dlhd.sx/cast/stream-149.php",
+                               "url" : "https://klubsports.buzz/watch/watch.php?id=249&channel=ESPN%20Argentina",
 			 "isHost":"true"
                       },{
                     "name": "ESPN-Argentina",
@@ -2073,7 +2076,7 @@
                   },{
                     "name": "ESPN2-Argentina",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
-                    "url" : "https://1.dlhd.sx/cast/stream-150.php",
+                    "url" : "https://klubsports.buzz/watch/watch.php?id=250&channel=ESPN2%20Argentina",
 			 "isHost":"true"
                  },{
                     "name": "ESPN2-Argentina",
@@ -2095,8 +2098,7 @@
                 },{
                     "name": "ESPN Premium",
                     "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt2a480c7d2a11f574/648b8b42318e1c7ce6940d8a/ESPN_Premium_Dark.jpg",
-                                    "url" : "https://claplivehdplay.ru/embedlc.php?id=110",
-              "referer" : "https://www.tv1337.buzz/",
+                                    "url" : "https://klubsports.buzz/watch/watch.php?id=487&channel=ESPN%20Premium%20Argentina",
 			 "isHost":"true"
 		}, {
 			"name": "Fox Sport 1",
@@ -2157,7 +2159,7 @@
                }, {
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url" : "https://1.dlhd.sx/cast/stream-388.php",
+			"url" : "https://klubsports.buzz/watch/watch.php?id=488&channel=TNT%20Sports%20Argentina",
 			 "isHost":"true"
 		 }, {
 			"name": "Win Sports +",
