@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 13-06-2024)",
+    "author": "chuky (Haz-tu-liada al 14-06-2024)",
     "author": "chuky (Haz-tu-liada al 09-06-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
@@ -345,7 +345,7 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Vancouver 🏒 Edmonton",
+                        "name": "Florida 🏒 Edmonton",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "https://v.markkystreams.com/video/nhl-1/",
 			"isHost": "true"
@@ -435,91 +435,126 @@
 			"url" : "http://v.markkystreams.com/video/mlb-1/",
 			"isHost": "true"
               }, {
-			"name": "White Sox ⚾ Blue Jays",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-2/",
 			"isHost": "true"
              }, {
-			"name": "Mets ⚾ Guardians",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-3/",
 			"isHost": "true"
               }, {  
-                         "name": "Padres ⚾ Braves",
+                                                      "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-4/",
 			"isHost": "true"
               }, {
-			"name": "Brewers ⚾ Marlins",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-5/",
 			"isHost": "true"
              }, {
-			"name": "Twins ⚾ Nationals",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-6/",
 			"isHost": "true"
              }, {
-			"name": "Red Sox ⚾ Rays",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-7/",
 			"isHost": "true"
               }, {
-			"name": "Mariners ⚾ Yankees",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-8/",
 			"isHost": "true"
                }, {
-			"name": "Tigers ⚾ Royals",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-9/",
 			"isHost": "true"
                }, {
-			"name": "Orioles ⚾ Cardinals",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                  }, {
-			"name": "Diamondbacks ⚾ Dodgers",
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-11/",
 			"isHost": "true"  
-			}, {
-			"name": "Angels ⚾ Astros",
+                }, {
+			"name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-12/",
 			"isHost": "true" 
-			 }, { 
+                }, { 
 			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-13/",
 			"isHost": "true"
-                          }, { 
+                }, { 
 			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-14/",
 			"isHost": "true" 
-                            }, { 
+                 }, { 
 			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-15/",
 			"isHost": "true"
-                                }, {  
-                            "name": "",
+                  }, {  
+                                                      "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-16/",
 			"isHost": "true"
-                              }, { 
+                  }, { 
 			  "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-17/",
 			"isHost": "true"
-                                }, {  
-                            "name": "",
+                  }, {  
+                                                      "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-18/",
 			"isHost": "true"
 		}]  
+                      }, {
+		"name": "AFL-Australia",
+		"image": "https://wallpapers.com/images/hd/afl-official-logo-t4rl9luh6f2a52uk.jpg",
+		"info": "",
+		"stations": [{
+			"name": "",
+			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
+        		  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do32",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                                                        }, {
+			"name": "",
+			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
+	  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do37",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                                                      }, {
+			"name": "",
+			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
+		  "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtsp1",
+             "referer" : "https://wikisport.se/",
+              "isHost": "true" 
+                                                  }, {
+			"name": "",
+			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
+		"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=bbtsp1",
+			 "referer" : "https://cricplay2.xyz/",
+			 "isHost":"true" 
+                                                        }, {
+			"name": "",
+			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
+	                                "url" :  "https://abolishstand.net/embed/ejj6a0rybyyp",
+		"referer" : "https://www.elixx.xyz/",
+			 "isHost":"true"
+		 }]
                     },{  
             "name": "Boxeo, UFC, MMA, WWE",
             "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
@@ -570,13 +605,13 @@
                         },{ 
                  "name": "evento 9 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                   "url": "https://abolishstand.net/embed/ovekcqb6k6jerku",
+                   "url": "https://forgepattern.net/embed/2ov0r1",
                     "referer" : "https://elixx.xyz/",
               "isHost":"true"
                         },{ 
                  "name": "evento 10 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do33",
+                  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do31",
 		        "referer": "https://zvision.link/",
              "isHost": "true"
                        },{ 
@@ -753,6 +788,41 @@
 	          "url": "https://sportsurge.stream/embed/footy5.php",
            "isHost":"true"
                      }]
+                  }, {
+		"name": "EURO 2004",
+		"image": "https://i.ibb.co/M5BKfL9/euro2024.jpg",
+		"info": "",
+		"stations": [{
+			"name": "Alemania - Escocia",
+			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+        		  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do29",
+		        "referer": "https://zvision.link/",
+			"isHost" : "true"
+                                                        }, {
+			"name": "Alemania - Escocia",
+			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed60",
+		        "referer": "https://primefoot.ru/",
+             "isHost": "true"
+                                                        }, {
+			"name": "Alemania - Escocia",
+			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+        		  "url" : "https://forgepattern.net/embed/dvuf5ydd4",
+		        "referer": "https://buzztv.futbol/",
+			"isHost" : "true"
+                                                       }, {
+			"name": "Alemania - Escocia",
+			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+	                  "url" : "https://abolishstand.net/embed/g16dv8bwe2pkg",
+                   "referer" : "https://www.elixx.xyz/",
+			"isHost" : "true"
+                                                        }, {
+			"name": "Alemania - Escocia",
+			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+	                                "url" :  "https://abolishstand.net/embed/6na79kddf",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
+		 }]
                  }, {
 		"name": "Partidos de hoy",
 		"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
@@ -1549,6 +1619,13 @@
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
         "url": "https://abolishstand.net/embed/ejj6a0rybyyp",
               "referer" : "https://elixx.xyz/",
+            "isHost":"true"
+                           }, {
+                        "name": "Valencia", 
+			"name": "prueba",
+			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
+        "url": "https://1qwebplay.xyz/mono.php?id=moch58",
+              "referer" : "https://s2watch.link/",
             "isHost":"true"
 	        }, {
 			"name": "",
