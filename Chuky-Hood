@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 14-06-2024)",
+    "author": "chuky (Haz-tu-liada al 16-06-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -526,15 +526,15 @@
 		"stations": [{
 			"name": "",
 			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-        		  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do32",
-		        "referer": "https://zvision.link/",
-			"isHost" : "true"
+        		      "url" : "https://viwlivehdplay.ru/mono.php?id=32",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                                                         }, {
 			"name": "",
 			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-	  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do37",
-		        "referer": "https://zvision.link/",
-			"isHost" : "true"
+	      "url" : "https://viwlivehdplay.ru/mono.php?id=37",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                                                       }, {
 			"name": "",
 			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
@@ -771,9 +771,9 @@
                      }, {
 			"name": "Opción 2",
 			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
-	         "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do32",
-		        "referer": "https://zvision.link/",
-			"isHost" : "true"
+	              "url" : "https://viwlivehdplay.ru/mono.php?id=32",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                        }, {
 			"name": "Opción 3",
 			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
@@ -787,41 +787,41 @@
            "isHost":"true"
                      }]
                   }, {
-		"name": "EURO 2004",
+		"name": "EURO 2024",
 		"image": "https://i.ibb.co/M5BKfL9/euro2024.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Alemania - Escocia",
+			"name": "Partido EURO",
 			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
-        		  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do29",
-		        "referer": "https://zvision.link/",
-			"isHost" : "true"
+        		        "url" : "https://viwlivehdplay.ru/mono.php?id=29",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                                                         }, {
-			"name": "Alemania - Escocia",
+			"name": "Partido EURO",
 			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
 	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed60",
 		        "referer": "https://primefoot.ru/",
              "isHost": "true"
                                                         }, {
-			"name": "Alemania - Escocia",
+			"name": "Partido EURO",
 			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
         		  "url" : "https://forgepattern.net/embed/dvuf5ydd4",
 		        "referer": "https://buzztv.futbol/",
 			"isHost" : "true"
                                                        }, {
-			"name": "Alemania - Escocia",
+			"name": "Partido EURO",
 			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
 	                  "url" : "https://abolishstand.net/embed/g16dv8bwe2pkg",
                    "referer" : "https://www.elixx.xyz/",
 			"isHost" : "true"
                                                         }, {
-			"name": "Alemania - Escocia",
+			"name": "Partido EURO",
 			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
 	                                "url" :  "https://abolishstand.net/embed/6na79kddf",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
                                                       }, {
-			"name": "Alemania - Escocia",
+			"name": "Partido EURO",
 			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
 	                                "url" :  "https://klubsports.buzz/watch/watch.php?id=633&channel=TVE%20La%201%20Spain",
 			 "isHost":"true" 
@@ -831,31 +831,31 @@
 		"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Espanyol vs Sporting Gijón",
+			"name": "Real Oviedo vs Espanyol",
 			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
-        		  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do19",
-		        "referer": "https://zvision.link/",
-			"isHost" : "true"
+        		      "url" : "https://viwlivehdplay.ru/mono.php?id=19",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                                                         }, {
-			"name": "Espanyol vs Sporting Gijón",
+			"name": "Real Oviedo vs Espanyol",
 			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
 	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed61",
 		        "referer": "https://primefoot.ru/",
              "isHost": "true"
                                                         }, {
-			"name": "Espanyol vs Sporting Gijón",
+			"name": "Real Oviedo vs Espanyol",
 			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
-        		  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do34",
-		        "referer": "https://zvision.link/",
-			"isHost" : "true"
+        		      "url" : "https://viwlivehdplay.ru/mono.php?id=40",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                                                        }, {
-			"name": "Espanyol vs Sporting Gijón",
+			"name": "Real Oviedo vs Espanyol",
 			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
 	                  "url" : "https://viwlivehdplay.ru/maxsport.php?id=primaliga1",
                    "referer" : "https://antennasports.ru/",
 			"isHost" : "true"
                                                         }, {
-			"name": "Espanyol vs Sporting Gijón",
+			"name": "Real Oviedo vs Espanyol",
 			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
 	                                    "url" :  "https://abolishstand.net/embed/opthng68di66m",
 		"referer" : "https://1stream.buzz/",
@@ -886,9 +886,9 @@
                 },{
                  "name": "Opción 1(Vamos)",
                     "image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
-             "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do6",
-		        "referer": "https://zvision.link/",
-			"isHost" : "true" 
+                  "url" : "https://viwlivehdplay.ru/mono.php?id=6",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                     },{ 
                  "name": "Opción 2(Vamos)",
                     "image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
@@ -994,9 +994,9 @@
 			}, {
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-	     "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do30",
-		        "referer": "https://zvision.link/",
-			"isHost" : "true"
+	          "url" : "https://viwlivehdplay.ru/mono.php?id=30",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                         }, {
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
@@ -1056,9 +1056,9 @@
 	          },{ 
                  "name": "(DAZN 4)",
                     "image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
-                       "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do49",
-		        "referer": "https://zvision.link/",
-			"isHost" : "true"
+                           "url" : "https://viwlivehdplay.ru/mono.php?id=49",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                  },{ 
                 "name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
@@ -1119,9 +1119,9 @@
               }, {
           "name": "M-F1-s2",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do29",
-		        "referer": "https://zvision.link/",
-			"isHost" : "true"
+			             "url" : "https://viwlivehdplay.ru/mono.php?id=29",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                        }, {
                         "name" : "pedro",
                         "name": "M-F1",
@@ -1199,9 +1199,9 @@
                        }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-           "url": "https://locatedinfain.com/embed.php?player=desktop&live=do30",
-                       "referer" : "https://zvision.link/",
-			"isHost": "true" 
+                "url" : "https://viwlivehdplay.ru/mono.php?id=30",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                       }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
@@ -1232,26 +1232,6 @@
                "referer" : "https://wikisport.se/",
 			 "isHost":"true"  
 		}]
-                                                 }, {
-                "name": "TT ISLA DE MAN: LA CARRERA MAS PELIGROSA DEL MUNDO",
-		"image": "https://ezfo86czbpk.exactdn.com/wp-content/uploads/2014/04/0dc715b6e569faab4ae26d54a976515b.jpg",
-		"info": "",
-		"stations": [{
-			"name": "video presentación",
-			"image": "https://www.motociclismo.es/uploads/s1/13/35/09/94/michael-dunlop-busca-el-record-historico-de-victorias-en-el-iomtt-2024_2_790x454.jpeg",
-        		"url" : "https://upstream.to/7o79he6pzn3v",
-			 "isHost":"true" 
-                    }, {
-                   "name": "Carrera en directo Android (Manujaz)",
-			"image": "https://i.ibb.co/DRCwLHT/tt-nanu.jpg",
-      "url" : "https://vkvsd217.mycdn.me/hls/6507171940890.m3u8/sig/iXa_1IlxI10/srcIp/37.14.45.69/urls/45.136.20.64/expires/1718291971241/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7224461110042/id/6507171940890/6507171940890_high/index.m3u8",
-            "userAgent" : " " 
-                  }, {
-                   "name": "Carrera en directo IOS (Manujaz)",
-			"image": "https://i.ibb.co/DRCwLHT/tt-nanu.jpg",
-      "url" : " https://vkvsd217.mycdn.me/hls/6507171940890.m3u8/sig/PESUQyri0Ck/srcIp/37.14.45.69/urls/45.136.20.64/expires/1718292074857/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7224461110042/id/6507171940890/6507171940890_high/index.m3u8",
-            "userAgent" : " " 
-               }]
                   }, {
 		"name": "Bundesliga",
 		"image": "https://i.pinimg.com/originals/5a/41/29/5a4129695a9acc9fee99b40531b07672.png",
@@ -1341,15 +1321,15 @@
           }, {
 			"name": "",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do6",
-		        "referer": "https://zvision.link/", 
-                          "isHost":"true"
+			        "url" : "https://viwlivehdplay.ru/mono.php?id=6",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
 	   }, {
 			"name": "",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do9",
-		        "referer": "https://zvision.link/",
-                          "isHost":"true"
+			       "url" : "https://viwlivehdplay.ru/mono.php?id=9",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
           }, {
                         "name": "DAZN1 IT",
 			"name": "",
@@ -1367,9 +1347,9 @@
           }, {
 			"name": "",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do10",
-		        "referer": "https://zvision.link/", 
-                         "isHost":"true"         
+			      "url" : "https://viwlivehdplay.ru/mono.php?id=10",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
           }, {
                         "name": "everton",
 			"name": "",
@@ -1387,15 +1367,15 @@
                    }, {
 			"name": "",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do12",
-		        "referer": "https://zvision.link/",
-                          "isHost":"true"
+			      "url" : "https://viwlivehdplay.ru/mono.php?id=12",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                          }, {
 			"name": "",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do15",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+			      "url" : "https://viwlivehdplay.ru/mono.php?id=15",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
 		}]
 	}, {
 		"name": "Premier league 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1417,9 +1397,9 @@
                       }, {
 			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-		 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do30",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+		      "url" : "https://viwlivehdplay.ru/mono.php?id=30",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                 }, {
 			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
@@ -1429,9 +1409,9 @@
                     }, {
 			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do30",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+			      "url" : "https://viwlivehdplay.ru/mono.php?id=30",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                       }, {
 			 "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
@@ -1453,9 +1433,9 @@
             }, {
 			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
- 			          "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do43",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+ 			               "url" : "https://viwlivehdplay.ru/mono.php?id=43",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                 }, {
 			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
@@ -1476,9 +1456,9 @@
                 }, {
 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
- 			   "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do29",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+ 			       "url" : "https://viwlivehdplay.ru/mono.php?id=29",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                }, {
 			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
@@ -1493,16 +1473,16 @@
 	            }, {
 			"name": "(DAZN 4)",
 			"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
-        "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do49",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+            "url" : "https://viwlivehdplay.ru/mono.php?id=49",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                      }, {
                         "name": "(Sky premier)", 
 			"name": "Sky Premier(Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-     "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do33",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+         "url" : "https://viwlivehdplay.ru/mono.php?id=33",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                        }, {
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
@@ -1517,15 +1497,15 @@
                        }, {
 			"name": "Partido en Extranjero",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do32",
-		        "referer": "https://zvision.link/",
-             "isHost": "true" 
+           "url" : "https://viwlivehdplay.ru/mono.php?id=32",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                       }, {
 			"name": "(Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-       "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do41",
-		        "referer": "https://zvision.link/",
-             "isHost": "true" 
+          "url" : "https://viwlivehdplay.ru/mono.php?id=41",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
 		}]
 		}, {
 		"name": "Ligue 1",
@@ -1534,9 +1514,9 @@
 		"stations": [{
  			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-        "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do38",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+             "url" : "https://viwlivehdplay.ru/mono.php?id=38",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
 		}, { 
                         "name": "hoca 101", 
 			"name": "",
@@ -1555,9 +1535,9 @@
                         "name" : "51",
 			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do51",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+			       "url" : "https://viwlivehdplay.ru/mono.php?id=51",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
         }, {
                         "name" : "lazio",
 			"name": "",
@@ -1575,9 +1555,9 @@
                         "name": "coolrea 33", 
 			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do1",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+			       "url" : "https://viwlivehdplay.ru/mono.php?id=1",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                     }, {
                          "name" : "milan",  
 			"name": "",
@@ -1588,9 +1568,9 @@
 		   }, {
 			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do38",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"  
+			      "url" : "https://viwlivehdplay.ru/mono.php?id=38",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
 		}, {
                          "name": "juve",
 			"name": "",
@@ -1605,9 +1585,9 @@
 		}, {
 			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-			  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do38",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"  
+			      "url" : "https://viwlivehdplay.ru/mono.php?id=38",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                            }, {
                         "name": "Celtic", 
 			"name": "",
@@ -1637,9 +1617,9 @@
 	      }, {
 			"name": "",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
-       "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do22",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+           "url" : "https://viwlivehdplay.ru/mono.php?id=22",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
 		}]
 	}, {
 		"name": "Serie A (Italia)",
@@ -1754,9 +1734,9 @@
                   }, {
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-     "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do2",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+          "url" : "https://viwlivehdplay.ru/mono.php?id=2",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
 		}, {
                         "name": "Roma",
 			"name": "",
@@ -1766,9 +1746,9 @@
 	        }, {
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do2",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+			      "url" : "https://viwlivehdplay.ru/mono.php?id=2",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                 }, {
                         "name": "juventus",
 			"name": "",
@@ -1779,9 +1759,9 @@
                         "name": "ajax",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do36",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+			      "url" : "https://viwlivehdplay.ru/mono.php?id=36",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
              }, {
                         "name": "Bein2",
 			"name": "",
@@ -1792,9 +1772,9 @@
            }, {
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do1",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+			      "url" : "https://viwlivehdplay.ru/mono.php?id=1",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
 	        }, {
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
@@ -1811,9 +1791,9 @@
 	       }, {
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do1",
-		        "referer": "https://zvision.link/",
-             "isHost": "true"
+			       "url" : "https://viwlivehdplay.ru/mono.php?id=1",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
                       }, {
                         "name": "dortmun",
 			"name": "",
