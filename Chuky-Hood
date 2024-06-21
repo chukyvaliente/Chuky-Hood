@@ -793,7 +793,7 @@
 		"stations": [{
 			"name": "Partido EURO",
 			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
-        		        "url" : "https://viwlivehdplay.ru/mono.php?id=29",
+        		    "url" : "https://viwlivehdplay.ru/mono.php?id=29",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                                                         }, {
@@ -820,11 +820,6 @@
 	                                "url" :  "https://abolishstand.net/embed/6na79kddf",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
-                                                      }, {
-			"name": "Partido EURO",
-			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
-	                                "url" :  "https://klubsports.buzz/watch/watch.php?id=633&channel=TVE%20La%201%20Spain",
-			 "isHost":"true" 
 		 }]
                  }, {
 		"name": "Partidos de hoy",
