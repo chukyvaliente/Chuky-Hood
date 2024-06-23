@@ -1092,11 +1092,6 @@
 			"image": "https://www.monacograndprixticket.com/images/plan-tribunes-grand-prix-monaco.jpg",
 			 "url" : "https://highstream.tv/hro29v2q4pc7/Formula1.2024x43.Round08.Monaco.Race.F1TV.1080p.WEB-DL.Castellano.AAC2.0.H.264-F1Carreras.mkv.html",
 			"isHost": "true" 
-                           }, { 
-          "name": "Manujaz MotoRSport-IOS",
-			"image": "https://i.ibb.co/DCqJ7VP/indi.jpg",
-			  "url": "https://vkvsd95.mycdn.me/hls/6577909336602.m3u8/sig/fvEcq1LT_FQ/expires/1719225917521/srcIp/37.14.45.69/urls/45.136.22.67/clientType/14/srcAg/CHROME_ANDROID/mid/7273043864346/6577909336602_fullhd/index.m3u8",
-                       "userAgent" : " " 
 			  }, {
           "name": "Manujaz MotoRSport F1 (iPhone)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
@@ -1105,7 +1100,7 @@
                          }, {
           "name": "Manujaz MotoRSport F1 (Android)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",	  
-                     "url":"https://vkvsd54.mycdn.me/hls/6572594236055.m3u8/sig/85gbVPrARqI/srcIp/37.14.45.69/urls/45.136.22.39/expires/1717101163999/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7971790728087/id/6572594236055/6572594236055_high/index.m3u8",
+                     "url":"https://vkvsd95.mycdn.me/hls/6577909336602.m3u8/sig/fvEcq1LT_FQ/expires/1719225917521/srcIp/37.14.45.69/urls/45.136.22.67/clientType/14/srcAg/CHROME_ANDROID/mid/7273043864346/6577909336602_fullhd/index.m3u8",
                         "userAgent" : " "
                              }, {
           "name": "Manujaz MotoRSport WRC RALLY ITALIA SARDEGNA 2024 (Android)",
