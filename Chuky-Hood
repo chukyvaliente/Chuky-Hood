@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 21-06-2024)",
+    "author": "chuky (Haz-tu-liada al 23-06-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -802,6 +802,12 @@
 	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed60",
 		        "referer": "https://primefoot.ru/",
              "isHost": "true"
+                                                         }, {
+			"name": "Partido EURO",
+			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed64",
+		        "referer": "https://primefoot.ru/",
+             "isHost": "true" 
                                                         }, {
 			"name": "Partido EURO",
 			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
@@ -820,37 +826,43 @@
 	                                "url" :  "https://abolishstand.net/embed/6na79kddf",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
+                                                          }, {
+			"name": "Multi-Euro",
+			"image": "https://www.ditible.com/wp-content/uploads/2024/03/UEFA-Euro-2024-Live-Streams.png",
+	                                "url" :  "https://viwlivehdplay.ru/mono.php?id=65",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
 		 }]
                  }, {
 		"name": "Partidos de hoy",
 		"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Real Oviedo vs Espanyol",
+			"name": "Espanyol - Real Oviedo",
 			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
         		      "url" : "https://viwlivehdplay.ru/mono.php?id=19",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                                                         }, {
-			"name": "Real Oviedo vs Espanyol",
+			"name": "Espanyol - Real Oviedo",
 			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
 	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed61",
 		        "referer": "https://primefoot.ru/",
              "isHost": "true"
                                                         }, {
-			"name": "Real Oviedo vs Espanyol",
+			"name": "Espanyol - Real Oviedo",
 			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
-        		      "url" : "https://viwlivehdplay.ru/mono.php?id=40",
+        		      "url" : "https://viwlivehdplay.ru/mono.php?id=39",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                                                        }, {
-			"name": "Real Oviedo vs Espanyol",
+			"name": "Espanyol - Real Oviedo",
 			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
 	                  "url" : "https://viwlivehdplay.ru/maxsport.php?id=primaliga1",
                    "referer" : "https://antennasports.ru/",
 			"isHost" : "true"
                                                         }, {
-			"name": "Real Oviedo vs Espanyol",
+			"name": "Espanyol - Real Oviedo",
 			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
 	                                    "url" :  "https://abolishstand.net/embed/opthng68di66m",
 		"referer" : "https://1stream.buzz/",
@@ -1127,8 +1139,8 @@
                       }, {
           "name": "M-F1-1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			        "url" :  "https://coolrea.link/ch30",
-			 "isHost":"true"
+			      "url": "https://klubsports.buzz/watch/watch.php?id=637",
+			"isHost": "true"   
                       }, {
           "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -1151,9 +1163,9 @@
         }, {
 			"name": "M-F1-Inglés",
 			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
-            "url" :  "https://abolishstand.net/embed/ejj6a0rybyyp",
-                 "referer": "https://www.elixx.xyz/",
-			 "isHost":"true"  
+          "url" :  "https://sportsonline.sx/channels/pt/sporttv4.php",
+		"referer" : "https://channels-1op.pages.dev/",
+			 "isHost":"true"
 		}, {
 			"name": "M-F1-Inglés",
 			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
