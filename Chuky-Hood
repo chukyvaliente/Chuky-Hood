@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 23-06-2024)",
+    "author": "chuky (Haz-tu-liada al 24-06-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -791,6 +791,15 @@
 		"image": "https://i.ibb.co/M5BKfL9/euro2024.jpg",
 		"info": "",
 		"stations": [{
+                                                     "name": "Partido EURO",
+			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+        		    "url" : "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8",
+            "userAgent": ""
+                                                        }, {
+			"name": "Partido EURO",
+			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+	"url" : "https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8",
+             "userAgent": ""
 			"name": "Partido EURO",
 			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
         		    "url" : "https://viwlivehdplay.ru/mono.php?id=29",
@@ -1088,9 +1097,9 @@
 		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
 		"info": "",
 		"stations": [{
-                            "name": "Formula 1 Carrera Monaco:(En diferido)",
-			"image": "https://www.monacograndprixticket.com/images/plan-tribunes-grand-prix-monaco.jpg",
-			 "url" : "https://highstream.tv/hro29v2q4pc7/Formula1.2024x43.Round08.Monaco.Race.F1TV.1080p.WEB-DL.Castellano.AAC2.0.H.264-F1Carreras.mkv.html",
+                            "name": "Formula 1 Carrera España:(En diferido)",
+			"image": "https://gpticketstore.vshcdn.net/uploads/images/6413/mapa-barcelona-2024.jpg",
+			 "url" : "https://upstream.to/bzl35vzclg7q",
 			"isHost": "true" 
 			  }, {
           "name": "Manujaz MotoRSport F1 (iPhone)",
