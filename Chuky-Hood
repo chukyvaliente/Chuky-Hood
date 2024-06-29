@@ -1098,6 +1098,11 @@
 		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
 		"info": "",
 		"stations": [{
+                                                     "name": "Formula 1 Carrera Sprint:  Austria:(En diferido)",
+			"image": "https://cdn-7.motorsport.com/images/amp/0mbnQBA2/s1000/los-horarios-para-el-gp-de-aus.jpg",
+			 "url" : "https://upstream.to/soupkklaptfv",
+			"isHost": "true" 
+			  }, {
                             "name": "Formula 1 Carrera España:(En diferido)",
 			"image": "https://gpticketstore.vshcdn.net/uploads/images/6413/mapa-barcelona-2024.jpg",
 			 "url" : "https://upstream.to/bzl35vzclg7q",
@@ -1178,9 +1183,9 @@
                  "referer": "https://sons-stream.com/",
 			 "isHost":"true"  
                         }, {
-			"name": "Carrera sprint Moto GP Italia diferido",			
-                      "image":"https://cdn-2.motorsport.com/images/amp/01WLzvoY/s1000/directo-carrera-sprint-italia--2.jpg",
-              "url": "https://upstream.to/xv1124o72lz0",
+			"name": "Carrera sprint Moto GP Asen diferido",			
+                      "image":"https://www.global-tickets.com/images/product_images/maps/main/german/1683993941_0_copy_2953.png",
+              "url": "https://upstream.to/iaki7ge2hzci",
              "isHost": "true"	
                       }, {
 			"name": "Carrera Moto GP Catalunya",			
