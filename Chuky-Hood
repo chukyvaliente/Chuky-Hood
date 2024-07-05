@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 30-06-2024)",
+    "author": "chuky (Haz-tu-liada al 05-07-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1158,6 +1158,12 @@
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
 			      "url": "https://cdn.esportivos.fun/ch10/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcxOTY1NjMzMiZoYXNoX3ZhbHVlPVpHVmxZbVJsWTJaak5qZzRORGMyWTJKbE1EaGxOREUwWXpKbU9HSXlNVEEmZXhwaXJ5PTE3MTk2NjcxMzImaXA9MjMuMTA2LjU2LjM3",
 			"UserAgent": ""   
+                                              }, {
+          "name": "M-F1",
+			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
+      "url" : "https://esportivos.fun/live/player.php?ch=daddy537_CfklJQFbAx",
+           "referer" : "https://live.esportivos.fun/",
+            "isHost": "true"   
                       }, {
           "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -1987,13 +1993,8 @@
                                             }, {
 			 "name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-         "url" : "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+         "url" : "https://moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=3ebe0c2faaf1d6a5083df8c0174bec3ad4d51a83-2cd14de66246d9d97ed21d26312ed66a-1720184835-1720174035",
 			 "userAgent":"" 
-                          }, {
-			 "name": "Toros",
-			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-      "url": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
-                        "userAgent": ""
                        }, {
 			"name": "Torolé",
 			"image": "https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg",
