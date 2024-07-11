@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 08-07-2024)",
+    "author": "chuky (Haz-tu-liada al 11-07-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1935,8 +1935,9 @@
                  }, {
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			         "url" : "https://1.dlhd.sx/cast/stream-131.php",
-			 "isHost":"true"
+			            "url" : "https://esportivos.fun/live/player.php?ch=daddy537_CfklJQFbAx",
+           "referer" : "https://live.esportivos.fun/",
+            "isHost": "true"    
         }, {
 			"name": "Euro-Sport 1",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
@@ -1993,7 +1994,7 @@
                                             }, {
 			 "name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-         "url" : "https://moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=5446b23de3ad3dfc38bfb06491a25d25d2ab7382-c2d7addd4841a34869ddf334207a4968-1720467385-1720456585",
+         "url" : "https://moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=00332e9a84e459a0bcd0c7533bd830501c59c52c-63179ddc46e569ed3a12e105c1e02512-1720730261-1720719461",
 			 "userAgent":"" 
                        }, {
 			"name": "Torolé",
@@ -2124,10 +2125,10 @@
                "referer" : "https://wikisport.se/",
 			 "isHost":"true"   
                                 }, {
-			"name": "TUDN-USA",
+			"name": "TUDN",
 			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
-			"url" : "https://1.dlhd.sx/cast/stream-66.php",
-			 "isHost":"true"
+			"url" : "https://s3.zona.gt/tudn/stream.m3u8",
+			 "userAgent":""
                          }, {
 			"name": "Gol TV",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBlRp_zDOVjE35dayStjG3oWpN_UFMpHrXg&usqp=CAU",
