@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 13-07-2024)",
+    "author": "chuky (Haz-tu-liada al 14-07-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -793,96 +793,101 @@
            "isHost":"true"
                      }]
                   }, {
-		"name": "EURO 2024",
+		"name": "Final EURO 2024",
 		"image": "https://i.ibb.co/M5BKfL9/euro2024.jpg",
 		"info": "",
 		"stations": [{
-                                                     "name": "Partido EURO",
-			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+                                                     "name": "España - Inglaterra",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
         		    "url" : "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8",
             "userAgent": " "
                                                         }, {
-			"name": "Partido EURO",
-			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+			"name": "España - Inglaterra",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
 	"url" : "https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8",
              "userAgent": " "
                                                         }, {  
-			"name": "Partido EURO",
-			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+			"name": "España - Inglaterra",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
         		    "url" : "https://viwlivehdplay.ru/mono.php?id=29",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                                                         }, {
-			"name": "Partido EURO",
-			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+			"name": "España - Inglaterra",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
 	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed60",
 		        "referer": "https://primefoot.ru/",
              "isHost": "true"
                                                          }, {
-			"name": "Partido EURO",
-			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+			"name": "España - Inglaterra",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
 	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed64",
 		        "referer": "https://primefoot.ru/",
              "isHost": "true" 
                                                         }, {
-			"name": "Partido EURO",
-			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+			"name": "España - Inglaterra",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
         		  "url" : "https://forgepattern.net/embed/dvuf5ydd4",
 		        "referer": "https://buzztv.futbol/",
 			"isHost" : "true"
                                                        }, {
-			"name": "Partido EURO",
-			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+			"name": "España - Inglaterra",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
 	                  "url" : "https://closedjelly.net/embed/g16dv8bwe2pkg",
                    "referer" : "https://www.elixx.xyz/",
 			"isHost" : "true"
                                                         }, {
-			"name": "Partido EURO",
-			"image": "https://i.ibb.co/R41mwb8/bal-n-euro2024.jpg",
+			"name": "España - Inglaterra",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
 	                                "url" :  "https://closedjelly.net/embed/6na79kddf",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
-                                                          }, {
-			"name": "Multi-Euro",
-			"image": "https://www.ditible.com/wp-content/uploads/2024/03/UEFA-Euro-2024-Live-Streams.png",
-	                                "url" :  "https://viwlivehdplay.ru/mono.php?id=65",
-		"referer" : "https://s2watch.link/",
-			 "isHost":"true"
 		 }]
                  }, {
-		"name": "Partidos de hoy",
-		"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+		"name": "Final de la CONMEBOL Copa América 2024",
+		"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Espanyol - Real Oviedo",
-			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
-        		      "url" : "https://viwlivehdplay.ru/mono.php?id=19",
-                  "referer" : "https://s2watch.link/",
-            "isHost": "true"
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+        		      "url" :  "https://closedjelly.net/embed/opthng68di66m",
+		"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
                                                         }, {
-			"name": "Espanyol - Real Oviedo",
-			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
 	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed61",
 		        "referer": "https://primefoot.ru/",
              "isHost": "true"
                                                         }, {
-			"name": "Espanyol - Real Oviedo",
-			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
-        		      "url" : "https://viwlivehdplay.ru/mono.php?id=39",
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+        		      "url" : "https://viwlivehdplay.ru/mono.php?id=30",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                                                        }, {
-			"name": "Espanyol - Real Oviedo",
-			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
-	                  "url" : "https://viwlivehdplay.ru/maxsport.php?id=primaliga1",
-                   "referer" : "https://antennasports.ru/",
-			"isHost" : "true"
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+	                  "url" : "https://s3.zona.gt/tudn/stream.m3u8",
+			"userAgent" : ""
                                                         }, {
-			"name": "Espanyol - Real Oviedo",
-			"image": "https://i.ibb.co/2nLNqGy/Partidos-de-hoy.jpg",
-	                                    "url" :  "https://closedjelly.net/embed/opthng68di66m",
-		"referer" : "https://1stream.buzz/",
-			 "isHost":"true"
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+	                                  "url" : "https://forgepattern.net/embed/dvuf5ydd4",
+		        "referer": "https://buzztv.futbol/",
+			"isHost" : "true"
+                                                          }, {
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+	                                  "url" : "https://forgepattern.net/embed/ww6frra9pf",
+		        "referer": "https://www.elixx.xyz/",
+			"isHost" : "true"
+                                                          }, {
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+	                                  "url" : "https://esportivos.fun/live/embed.php?ch=es2",
+		        "referer": "https://live.esportivos.fun/",
+			"isHost" : "true"
 		 }]
                  },{
             "name": "La Liga Endesa",
