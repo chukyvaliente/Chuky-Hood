@@ -1049,8 +1049,9 @@
 	           },{ 
                 "name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
-                                  "url" : "https://topembed.pw/channel/DAZN2[Spain]",
-			"isHost" : "true"
+                                  "url" : "https://esportivos.fun/live/channel.php?ch=es5",
+			 "referer": "https://esportivos.fun/",
+             "isHost": "true"
 		     },{ 
                  "name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
