@@ -888,6 +888,12 @@
 	                                  "url" : "https://esportivos.fun/live/embed.php?ch=es2",
 		        "referer": "https://live.esportivos.fun/",
 			"isHost" : "true"
+                                                         }, {
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+	                                  "url" :  "https://anarchy-stream.com/dhonka2.php?player=desktop&live=usafox1",
+                "referer" : "https://sons-stream.com/",
+			 "isHost":"true"     
 		 }]
                  },{
             "name": "La Liga Endesa",
