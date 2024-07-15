@@ -819,6 +819,47 @@
         		      "url" :  "https://closedjelly.net/embed/opthng68di66m",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
+                                                        }, {
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed61",
+		        "referer": "https://primefoot.ru/",
+             "isHost": "true"
+                                                        }, {
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+        		      "url" : "https://viwlivehdplay.ru/mono.php?id=30",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
+                                                       }, {
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+	                  "url" : "https://linear-440.frequency.stream:443/mt/studio/440/hls/master/playlist_1024x576.m3u8",
+			"userAgent" : ""
+                                                        }, {
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+	                                  "url" : "https://forgepattern.net/embed/dvuf5ydd4",
+		        "referer": "https://buzztv.futbol/",
+			"isHost" : "true"
+                                                          }, {
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+	                                  "url" : "https://forgepattern.net/embed/ww6frra9pf",
+		        "referer": "https://www.elixx.xyz/",
+			"isHost" : "true"
+                                                          }, {
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+	                                  "url" : "https://esportivos.fun/live/embed.php?ch=es2",
+		        "referer": "https://live.esportivos.fun/",
+			"isHost" : "true"
+                                                         }, {
+			"name": "Argentina - Colombia",
+			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
+	                                  "url" :  "https://anarchy-stream.com/dhonka2.php?player=desktop&live=usafox1",
+                "referer" : "https://sons-stream.com/",
+			 "isHost":"true"     
 		 }]
                  },{
             "name": "La Liga Endesa",
