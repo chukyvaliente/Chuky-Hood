@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 14-07-2024)",
+    "author": "chuky (Haz-tu-liada al 15-07-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -765,86 +765,52 @@
 			 "userAgent":""  
 		}]
                            }, {
-		"name": "Zona Messi",
-		"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
+		"name": "Fútbol de Verano 2024",
+		"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Opción 1",
-			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
-           	       	 "url" :  "https://forgepattern.net/embed/dw4k0efjo1w",
-		"referer" : "https://buzztv.futbol/",
+			"name": "Sevilla vs Orlando",
+			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
+           	       	 "url" :  "https://viwlivehdplay.ru/mono.php?id=6",
+		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                      }, {
-			"name": "Opción 2",
-			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
-	              "url" : "https://viwlivehdplay.ru/mono.php?id=32",
-                  "referer" : "https://s2watch.link/",
-            "isHost": "true"
+                     "name": "Sevilla vs Orlando",
+			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
+           	       	"url" :  "https://sportsonline.sx/channels/pt/sporttv1.php",
+		"referer" : "https://channels-1op.pages.dev/",
+			 "isHost":"true"
+                     }, {
+			"name": "Sevilla vs Orlando",
+			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
+	          "url" :  "https://viwlivehdplay.ru/mono.php?id=60",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
                        }, {
-			"name": "Opción 3",
-			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
-	         "url" :  "https://forgepattern.net/embed/wgfekh",
-		"referer" : "https://1stream.buzz/",
+			"name": "Rosenborg vs Mancheste",
+			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
+	      "url" :  "https://viwlivehdplay.ru/mono.php?id=7",
+		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                         }, {
-                        "name" : "Opción 5", 
-			"image": "https://i.ibb.co/3yRRFGv/Messi.jpg",
-	          "url": "https://sportsurge.stream/embed/footy5.php",
-           "isHost":"true"
+                       "name": "Rosenborg vs Mancheste",
+			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
+	      "url" :  "https://forgepattern.net/embed/ejj6a0rybyyp",
+		"referer" : "https://www.elixx.xyz/",
+			 "isHost":"true"
                      }]
                   }, {
-		"name": "Final EURO 2024",
+		"name": "Final EURO 2024[En Diferido]",
 		"image": "https://i.ibb.co/M5BKfL9/euro2024.jpg",
 		"info": "",
 		"stations": [{
                                                      "name": "España - Inglaterra",
 			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
-        		    "url" : "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8",
-            "userAgent": " "
-                                                        }, {
-			"name": "España - Inglaterra",
-			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
-	"url" : "https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8",
-             "userAgent": " "
-                                                        }, {  
-			"name": "España - Inglaterra",
-			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
-        		    "url" : "https://viwlivehdplay.ru/mono.php?id=29",
-                  "referer" : "https://s2watch.link/",
-            "isHost": "true"
-                                                        }, {
-			"name": "España - Inglaterra",
-			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
-	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed60",
-		        "referer": "https://primefoot.ru/",
-             "isHost": "true"
-                                                         }, {
-			"name": "España - Inglaterra",
-			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
-	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed64",
-		        "referer": "https://primefoot.ru/",
-             "isHost": "true" 
-                                                        }, {
-			"name": "España - Inglaterra",
-			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
-        		  "url" : "https://forgepattern.net/embed/dvuf5ydd4",
-		        "referer": "https://buzztv.futbol/",
-			"isHost" : "true"
-                                                       }, {
-			"name": "España - Inglaterra",
-			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
-	                  "url" : "https://closedjelly.net/embed/g16dv8bwe2pkg",
-                   "referer" : "https://www.elixx.xyz/",
-			"isHost" : "true"
-                                                        }, {
-			"name": "España - Inglaterra",
-			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
-	                                "url" :  "https://closedjelly.net/embed/6na79kddf",
-		"referer" : "https://1stream.buzz/",
-			 "isHost":"true"
+        		    "url" : "https://upstream.to/3rvsh8lujxo7",
+            "IsHost": "true "
 		 }]
                  }, {
-		"name": "Final de la CONMEBOL Copa América 2024",
+		"name": "Final  Copa América 2024",
 		"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
 		"info": "",
 		"stations": [{
@@ -853,47 +819,6 @@
         		      "url" :  "https://closedjelly.net/embed/opthng68di66m",
 		"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
-                                                        }, {
-			"name": "Argentina - Colombia",
-			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
-	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed61",
-		        "referer": "https://primefoot.ru/",
-             "isHost": "true"
-                                                        }, {
-			"name": "Argentina - Colombia",
-			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
-        		      "url" : "https://viwlivehdplay.ru/mono.php?id=30",
-                  "referer" : "https://s2watch.link/",
-            "isHost": "true"
-                                                       }, {
-			"name": "Argentina - Colombia",
-			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
-	                  "url" : "https://s3.zona.gt/tudn/stream.m3u8",
-			"userAgent" : ""
-                                                        }, {
-			"name": "Argentina - Colombia",
-			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
-	                                  "url" : "https://forgepattern.net/embed/dvuf5ydd4",
-		        "referer": "https://buzztv.futbol/",
-			"isHost" : "true"
-                                                          }, {
-			"name": "Argentina - Colombia",
-			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
-	                                  "url" : "https://forgepattern.net/embed/ww6frra9pf",
-		        "referer": "https://www.elixx.xyz/",
-			"isHost" : "true"
-                                                          }, {
-			"name": "Argentina - Colombia",
-			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
-	                                  "url" : "https://esportivos.fun/live/embed.php?ch=es2",
-		        "referer": "https://live.esportivos.fun/",
-			"isHost" : "true"
-                                                         }, {
-			"name": "Argentina - Colombia",
-			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
-	                                  "url" :  "https://anarchy-stream.com/dhonka2.php?player=desktop&live=usafox1",
-                "referer" : "https://sons-stream.com/",
-			 "isHost":"true"     
 		 }]
                  },{
             "name": "La Liga Endesa",
