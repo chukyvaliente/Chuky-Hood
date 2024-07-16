@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 15-07-2024)",
+    "author": "chuky (Haz-tu-liada al 16-07-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -19,7 +19,7 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Final",
+			"name": "",
 			"image": "https://piratasdelbasket.net/storage/2021/07/NBA-Finals-Logo.jpg",
 			"url" : "https://v.markkystreams.com/video/nba-01/",
 			"isHost": "true"
@@ -344,7 +344,7 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Florida 🏒 Edmonton",
+                        "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "https://v.markkystreams.com/video/nhl-1/",
 			"isHost": "true"
@@ -429,7 +429,7 @@
             "image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
             "info": "",
             "stations": [{
-                        "name": "Padres ⚾ Braves",
+                        "name": "",
 			"image": "https://www.techhive.com/wp-content/uploads/2023/04/mlbtv-1.jpg?quality=50&strip=all",
 			"url" : "http://v.markkystreams.com/video/mlb-1/",
 			"isHost": "true"
@@ -769,31 +769,31 @@
 		"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Sevilla vs Orlando",
+                                                      "name": "Cadiz playz",
+			"name": "Barbate CF - Cádiz CF",
 			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	 "url" :  "https://viwlivehdplay.ru/mono.php?id=6",
-		"referer" : "https://s2watch.link/",
-			 "isHost":"true"
+           	       	 "url" :  "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/4193813/e/1_3pigu1wk/tl/main/st/0/t/UQSeNkEdOr_a9SnAoP2P8A/index-s32.m3u8",
+			 "userAgent":""
                      }, {
-                     "name": "Sevilla vs Orlando",
+                     "name": "",
 			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
            	       	"url" :  "https://sportsonline.sx/channels/pt/sporttv1.php",
 		"referer" : "https://channels-1op.pages.dev/",
 			 "isHost":"true"
                      }, {
-			"name": "Sevilla vs Orlando",
+			"name": "",
 			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
 	          "url" :  "https://viwlivehdplay.ru/mono.php?id=60",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                        }, {
-			"name": "Rosenborg vs Mancheste",
+			"name": "",
 			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
 	      "url" :  "https://viwlivehdplay.ru/mono.php?id=7",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                         }, {
-                       "name": "Rosenborg vs Mancheste",
+                       "name": "",
 			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
 	      "url" :  "https://forgepattern.net/embed/ejj6a0rybyyp",
 		"referer" : "https://www.elixx.xyz/",
