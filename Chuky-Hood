@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 17-07-2024)",
+    "author": "chuky (Haz-tu-liada al 18-07-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -769,51 +769,36 @@
 		"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
 		"info": "",
 		"stations": [{
-                                                      "name": "Cadiz playz",
-			"name": "Barbate CF - Cádiz CF",
+			"name": "Sporting Braga vs Rayo Vallecano",
 			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	 "url" :  "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/4193813/e/1_3pigu1wk/tl/main/st/0/t/UQSeNkEdOr_a9SnAoP2P8A/index-s32.m3u8",
-			 "userAgent":""
-                     }, {
-                     "name": "Levante - CD Castellón",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	                  "url" : "https://www.levante-emv.com/videos/levante-tv/",
-			"isHost" : "true"  
-                     }, {
-			"name": "UE Olot - Girona",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-	           "url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
-			"userAgent": ""
-                       }, {
-			"name": "UE Olot - Girona",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-	      "url" :  "https://viwlivehdplay.ru/mono.php?id=19",
+	      "url" :  "https://viwlivehdplay.ru/mono.php?id=18",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                         }, {
-			"name": "Besiktas - Shakhtar Donetsk",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	 "url" :  "https://forgepattern.net/embed/40ltfs8ms26hmy",
-			 "referer":"https://www.elixx.xyz/",
-                                                       "isHost" : "true"
-                       }, {
-                        "name": "Erzgebirge Aue - Borussia Dortmund",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	 "url" :  "https://forgepattern.net/embed/1tl2lq8",
-			 "referer":"https://www.elixx.xyz/",
-                                                       "isHost" : "true"
-                                  }, {
-                        "name": "Hearts - Totthenham Hotspur",
+                                                      "name": "Sportv-1",
+			"name": "Sporting Braga vs Rayo Vallecano",
 			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
            	       	 "url" :  "https://forgepattern.net/embed/em3nxmuk",
 			 "referer":"https://www.elixx.xyz/",
                                                        "isHost" : "true"
-                                 }, {
-                        "name": "Sporting CP - Union Saint-Gillois",
+                       }, {
+                        "name": "Ajax vs Al Wasl",
 			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	 "url" :  "https://forgepattern.net/embed/kw6ef0n921mnbf0",
-			 "referer":"https://www.elixx.xyz/",
-                                                       "isHost" : "true"
+           	       	"url" :  "https://viwlivehdplay.ru/mono.php?id=17",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
+                                  }, {
+                        "name": "Galatasaray vs Trenčín",
+			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
+           	       	"url" :  "https://viwlivehdplay.ru/mono.php?id=49",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
+                                  }, {
+                                          "name": "Cadiz playz",
+			"name": "",
+			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
+           	       	 "url" :  "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/4193813/e/1_3pigu1wk/tl/main/st/0/t/UQSeNkEdOr_a9SnAoP2P8A/index-s32.m3u8",
+			 "userAgent":""
                      }]
                   }, {
 		"name": "Final EURO 2024[En Diferido]",
