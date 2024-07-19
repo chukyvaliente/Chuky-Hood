@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 18-07-2024)",
+    "author": "chuky (Haz-tu-liada al 19-07-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1078,8 +1078,14 @@
               }, {
           "name": "M-F1-s2",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			             "url" : "https://viwlivehdplay.ru/mono.php?id=26",
+			             "url" : "https://viwlivehdplay.ru/mono.php?id=45",
                   "referer" : "https://s2watch.link/",
+            "isHost": "true"
+                   }, {
+          "name": "M-F1-s2",
+			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
+			             "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do45",
+                  "referer" : "https://zvision.link/",
             "isHost": "true"
                        }, {
                         "name" : "pedro",
@@ -1109,7 +1115,7 @@
                         "name" : "link 3",
                         "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do26",
+			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do45",
                      "referer" : "https://zvision.link/",
 			 "isHost":"true"	 
 		 }, {
