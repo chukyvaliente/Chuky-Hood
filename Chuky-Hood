@@ -572,24 +572,27 @@
                     },{
                  "name": "evento 2 MMA",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-               "url": "https://markkystreams.com/video/mma/",
-             "isHost": "true"
+           "url" :  "https://viwlivehdplay.ru/mono.php?id=5",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
                     },{ 
                  "name": "evento 3 UFC",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                  	 "url" :  "https://markkystreams.com/video/ufc/",
+                  	   "url" :  "https://viwlivehdplay.ru/mono.php?id=36",
+		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                         },{
                  "name": "evento 4 UFC",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-               "url": "https://forgepattern.net/embed/8g61vpl9j92h0kv",
-               "referer" : "https://buzztv.futbol/",
-             "isHost": "true"
+               "url" :  "https://viwlivehdplay.ru/mono.php?id=2",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
 		      },{ 
                  "name": "Evento 5 UFC",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                   "url": "https://sportsurge.stream/embed/ufc.php",
-             "isHost":"true"  
+                 "url" :  "https://viwlivehdplay.ru/mono.php?id=4",
+		"referer" : "https://s2watch.link/",
+			 "isHost":"true"
 		     },{ 
                  "name": "evento 6 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
@@ -605,7 +608,7 @@
                       },{ 
                  "name": "evento 8 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                  "url" :  "https://viwlivehdplay.ru/mono.php?id=28",
+                  "url" :  "https://viwlivehdplay.ru/mono.php?id=8",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                         },{ 
