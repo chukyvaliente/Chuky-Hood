@@ -526,25 +526,31 @@
 		"stations": [{
 			"name": "",
 			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-        		      "url" : "https://viwlivehdplay.ru/mono.php?id=37",
+        		      "url" : "https://viwlivehdplay.ru/mono.php?id=2",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                                                         }, {
 			"name": "",
 			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-	      "url" : "https://viwlivehdplay.ru/mono.php?id=31",
+	      "url" : "https://viwlivehdplay.ru/mono.php?id=4",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                                                       }, {
 			"name": "",
 			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-		  "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtsp3",
+	      "url" : "https://viwlivehdplay.ru/mono.php?id=32",
+                  "referer" : "https://s2watch.link/",
+            "isHost": "true"
+                                                      }, {
+			"name": "",
+			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
+		  "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtsp2",
              "referer" : "https://wikisport.se/",
               "isHost": "true" 
                                                   }, {
 			"name": "",
 			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-		"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=bbtsp3",
+		"url" : "https://focus4ca.com/embedcr.php?player=desktop&live=bbtsp4",
 			 "referer" : "https://cricplay2.xyz/",
 			 "isHost":"true" 
                                                         }, {
