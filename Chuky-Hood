@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 20-07-2024)",
+    "author": "chuky (Haz-tu-liada al 26-07-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -596,7 +596,7 @@
 		     },{ 
                  "name": "evento 6 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                 	"url" :  "https://freckledine.net/embed/vsg649tgjupj50",
+                 	"url" :  "https://freckledine.net/embed/embed/2ov0r1",
                          "referer" : "https://v3.sportsonline.si/",
 			 "isHost":"true"
 	             },{ 
@@ -608,13 +608,13 @@
                       },{ 
                  "name": "evento 8 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                  "url" :  "https://viwlivehdplay.ru/mono.php?id=8",
+                  "url" :  "https://viwlivehdplay.ru/mono.php?id=4",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                         },{ 
                  "name": "evento 9 Boxeo",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                    "url" :  "https://viwlivehdplay.ru/mono.php?id=2",
+                    "url" :  "https://viwlivehdplay.ru/mono.php?id=7",
 		"referer" : "https://s2watch.link/",
 			 "isHost":"true"
                         },{ 
@@ -774,94 +774,6 @@
                       "url" : "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8",
 			 "userAgent":""  
 		}]
-                           }, {
-		"name": "Fútbol de Verano 2024",
-		"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-		"info": "",
-		"stations": [{
-			"name": "Montpellier - Girona",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-	     "url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
-			"userAgent": ""
-                        }, {
-                                                      "name": "Sportv-1",
-			"name": "",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	 "url" :  "https://forgepattern.net/embed/em3nxmuk",
-			 "referer":"https://www.elixx.xyz/",
-                                                       "isHost" : "true"
-                       }, {
-                        "name": "BEtis-salzbourg",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	  "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed125",
-		        "referer": "https://primefoot.ru/",
-             "isHost": "true"
-                                  }, {
-                        "name": "Manchester United vs Rangers",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	"url" :  "https://viwlivehdplay.ru/mono.php?id=8",
-		"referer" : "https://s2watch.link/",
-			 "isHost":"true"
-                                 }, {
-                        "name": "Marino de luanco-sporting de Gijón",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	  "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed133",
-		        "referer": "https://primefoot.ru/",
-                                          "isHost": "true"
-                                    }, {
-                        "name": "Amberes -Parma",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	  "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed145",
-		        "referer": "https://primefoot.ru/",
-                                          "isHost": "true"
-                                      }, {
-                        "name": "Tarazona - Huesa",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	    "url" :  "https://cartv.streaming.aranova.es:443/hls/live/aragontv_canal1.m3u8",
-			 "usrAgent":""
-                                    }, {
-                        "name": "Celta de Vigo - Vicela",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	  "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed138",
-		        "referer": "https://primefoot.ru/",
-                                          "isHost": "true"
-                                         }, {
-                        "name": "Como 1907 - Las Palmas",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	  "url" : "https://www.youtube.com/embed/6LlZXt8nk4s",
-                                          "isHost": "true"
-                                     }, {
-                        "name": "Marino - Tenerife",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	  "url" : "https://www.youtube.com/embed/6LlZXt8nk4s",
-                                          "isHost": "true"
-                                  }, {
-                                          "name": "Cadiz playz",
-			"name": "",
-			"image": "https://i.ibb.co/nwDN1rw/Verano-2024.jpg",
-           	       	 "url" :  "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/4193813/e/1_3pigu1wk/tl/main/st/0/t/UQSeNkEdOr_a9SnAoP2P8A/index-s32.m3u8",
-			 "userAgent":""
-                     }]
-                  }, {
-		"name": "Final EURO 2024[En Diferido]",
-		"image": "https://i.ibb.co/M5BKfL9/euro2024.jpg",
-		"info": "",
-		"stations": [{
-                                                     "name": "España - Inglaterra",
-			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/07/13/17208555650340.jpg",
-        		    "url" : "https://upstream.to/3rvsh8lujxo7",
-            "IsHost": "true "
-		 }]
-                 }, {
-		"name": "Final  Copa América 2024[Diferido]",
-		"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
-		"info": "",
-		"stations": [{
-			"name": "Argentina - Colombia",
-			"image": "https://i.ibb.co/PcnRcfB/Final-argentina.jpg",
-        		      "url" :  "https://filemoon.sx/d/7215gwhim334",
-			 "isHost":"true"
-		 }]
                  },{
             "name": "La Liga Endesa",
             "image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg",
@@ -1120,13 +1032,13 @@
               }, {
           "name": "M-F1(OP-2)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			             "url" : "https://viwlivehdplay.ru/mono.php?id=45",
+			             "url" : "https://viwlivehdplay.ru/mono.php?id=44",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                    }, {
           "name": "M-F1(OP-3)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			             "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do45",
+			             "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do44",
                   "referer" : "https://zvision.link/",
             "isHost": "true"
                        }, {
@@ -1157,13 +1069,13 @@
                         "name" : "link 3",
                         "name": "M-F1(OP-8)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do45",
+			 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do44",
                      "referer" : "https://zvision.link/",
 			 "isHost":"true"	 
 		 }, {
                   	"name": "M-F1(OP-9)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-                  	"url" :  "https://v3.sportsonline.si/channels/bra/br5.php ",
+                  	"url" :  "https://v3.sportsonline.si/channels/bra/br4.php ",
 		"referer" : "https://channels-1op.pages.dev/",
 			 "isHost":"true"
                                        }, {
