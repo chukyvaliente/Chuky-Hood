@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 28-07-2024)",
+    "author": "chuky (Haz-tu-liada al 04-08-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -526,7 +526,7 @@
 		"stations": [{
 			"name": "",
 			"image": "https://i.ibb.co/NFwWC14/afl.jpg",
-        		      "url" : "https://viwlivehdplay.ru/mono.php?id=2",
+        		      "url" : "https://viwlivehdplay.ru/mono.php?id=37",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                                                         }, {
@@ -578,15 +578,15 @@
                     },{ 
                  "name": "evento 3 UFC",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                  	   "url" :  "https://viwlivehdplay.ru/mono.php?id=36",
-		"referer" : "https://s2watch.link/",
+                  	   "url" :  "https://forgepattern.net/embed/40ltfs8ms26hmy",
+		"referer" : "https://www.elixx.xyz/",
 			 "isHost":"true"
                         },{
                  "name": "evento 4 UFC",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-               "url" :  "https://viwlivehdplay.ru/mono.php?id=2",
-		"referer" : "https://s2watch.link/",
-			 "isHost":"true"
+                "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtsp1",
+             "referer" : "https://wikisport.se/",
+              "isHost": "true" 
 		      },{ 
                  "name": "Evento 5 UFC",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
@@ -908,7 +908,7 @@
 			}, {
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
-	          "url" : "https://viwlivehdplay.ru/mono.php?id=30",
+	          "url" : "https://viwlivehdplay.ru/mono.php?id=45",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                         }, {
@@ -937,6 +937,11 @@
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                   "url" : "https://esportivos.fun/live/channel.php?ch=es5",
 			 "referer": "https://esportivos.fun/",
+             "isHost": "true"
+                                       },{ 
+                "name": "(DAZN 2)",
+			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
+                                  "url" : "https://topembed.pw/channel/DAZN2[Spain]",
              "isHost": "true"
 		     },{ 
                  "name": "(DAZN 3)",
@@ -1129,12 +1134,13 @@
                           }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-             			  "url": "https://klubsports.buzz/watch/watch.php?id=545&channel=Movistar%20Liga%20de%20Campeones",
+             			  "url": "https://1qwebplay.xyz/premiumtv/klubsports.php?id=445",
+                                                       "referer" : "https://klubsports.buzz/",
 			"isHost": "true"   
                        }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-                "url" : "https://viwlivehdplay.ru/mono.php?id=30",
+                "url" : "https://viwlivehdplay.ru/mono.php?id=45",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                       }, {
@@ -1146,8 +1152,9 @@
                       }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-         "url" : "https://coalcannon.com/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
-             "isHost": "true"   
+        "url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=w016",
+               "referer" : "https://wikisport.se/",
+			 "isHost":"true"  
                       }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
