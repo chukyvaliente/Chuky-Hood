@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 04-08-2024)",
+    "author": "chuky (Haz-tu-liada al 07-08-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -2212,23 +2212,17 @@
 		"image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
 		"info": "",
 		"stations": [{
-                           "name": "Formula 1",
+                           "name": "Kitchee - Atlético de Madrid",
 			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
-               			  "url" : "https://viwlivehdplay.ru/mono.php?id=26",
+               			  "url" : "https://viwlivehdplay.ru/mono.php?id=19",
                   "referer" : "https://s2watch.link/",
             "isHost": "true"
                                  }, {
-                           "name": "Moto GP",
+                           "name": "Kitchee - Atlético de Madrid",
 			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
-              		  "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed81",
+              		  "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed60",
                    "referer" : "https://primefoot.ru/",
             "isHost":"true"
-                            }, {
-                           "name": "Moto GP",
-			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
-              		"url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=w016",
-               "referer" : "https://wikisport.se/",
-			 "isHost":"true"  
                       }]
 			}, {
                        "name":"Calvo-Sports(By Tiri)",
