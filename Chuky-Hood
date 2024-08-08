@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Haz-tu-liada al 04-08-2024)",
+    "author": "chuky (Haz-tu-liada al 08-08-2024)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -1834,8 +1834,8 @@
 		}, {
 			"name": "Teledeporte",
 			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
-			"url": "https://www.rtve.es/directo/teledeporte/",
-			"isHost": "true"
+			"url": "https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_720.m3u8",
+			"userAgent": ""
 		}, {
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -1857,13 +1857,15 @@
                                        }, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-                    "url" : "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8",
-			 "userAgent":""
+                  "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed151",
+                   "referer" : "https://primefoot.ru/",
+            "isHost":"true"
 		}, {
 			"name": "Euro-Sport 1",
 			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-                    "url" : "https://klubsports.buzz/watch/watch.php?id=624&channel=Eurosport%201%20ES",
-			 "isHost":"true"
+                   "url" : "https://ilovetoplay.xyz/premiumtv/klubsports.php?id=524",
+                                                       "referer" : "https://klubsports.buzz/",
+			 "isHost":"true" 
         }, {
 			"name": "Euro-Sport 2",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
@@ -1872,13 +1874,15 @@
 			 "isHost":"true" 
                                        }, {
 			"name": "Euro-Sport 2",
-			"image": "https://i.ibb.co/MGc49xF/1-0-1-74-A1-41-C-1-C00000-0-0-0.png",
-                    "url" : "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8",
-			 "userAgent":""
+			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
+                  "url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed152",
+                   "referer" : "https://primefoot.ru/",
+            "isHost":"true"
 		}, {
 			"name": "Euro-Sport 2",
 			"image": "https://i.ibb.co/K5Mmq2d/1-0-1-74-A7-41-C-1-C00000-0-0-0.png",
-			 "url" : "https://klubsports.buzz/watch/watch.php?id=625&channel=Eurosport%202%20ES",
+			 "url" : "https://ilovetoplay.xyz/premiumtv/klubsports.php?id=525",
+                                                       "referer" : "https://klubsports.buzz/",
 			 "isHost":"true" 
 		   }, {
 			"name": "M-Golf",
@@ -1915,11 +1919,6 @@
 			"name": "Toros-Telemadrid",
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
         "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
-			"userAgent": "" 
-                        }, {
-			"name": "Caza y Pesca",
-			"image": "https://www.mundoplus.tv/wp-content/uploads/2021/04/caza_y_pesca.png",
-        "url": "http://vavoo.to/play/3490860131/index.m3u8",
 			"userAgent": "" 
 		}, {
 			"name": "Barça TV",
